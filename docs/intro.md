@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Our Research
 
-That's right! We DO do stuff around here.
-
 ## Bacterial Communities and Biofilms
 - Bacterial communities (_e.g._, c-di-GMP signaling, motility, social organization in biofilms)
 - Image processing, machine learning, application of ‘big data’ methods
