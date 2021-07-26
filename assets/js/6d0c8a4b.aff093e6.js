@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6100],{44896:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-chemistry","name":"general chemistry","count":21,"permalink":"/publications/tags/general-chemistry"}')}}]);

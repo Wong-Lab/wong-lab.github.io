@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5338],{29995:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"molecular-biology","name":"molecular biology","count":12,"permalink":"/publications/tags/molecular-biology"}')}}]);

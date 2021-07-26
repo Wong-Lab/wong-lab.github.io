@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[2168],{9533:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"infectious-diseases","name":"infectious diseases","count":5,"permalink":"/publications/tags/infectious-diseases"}')}}]);

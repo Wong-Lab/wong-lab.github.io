@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7644],{12420:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"genetics-clinical","name":"genetics(clinical)","count":1,"permalink":"/publications/tags/genetics-clinical"}')}}]);

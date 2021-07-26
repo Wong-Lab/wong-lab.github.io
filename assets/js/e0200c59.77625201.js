@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4934],{79067:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"structural-biology","name":"structural biology","count":2,"permalink":"/publications/tags/structural-biology"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6854],{17733:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"macromolecules","name":"macromolecules","count":1,"permalink":"/publications/tags/macromolecules"}')}}]);

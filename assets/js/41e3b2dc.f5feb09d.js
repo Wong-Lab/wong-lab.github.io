@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6216],{79731:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"proc-natl-acad-sci-usa","name":"proc natl acad sci usa","count":8,"permalink":"/publications/tags/proc-natl-acad-sci-usa"}')}}]);

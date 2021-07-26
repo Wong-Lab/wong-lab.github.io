@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7713],{91342:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"sci-rep","name":"sci rep","count":3,"permalink":"/publications/tags/sci-rep"}')}}]);

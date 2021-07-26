@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[366],{47616:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"biomaterials","name":"biomaterials","count":2,"permalink":"/publications/tags/biomaterials"}')}}]);

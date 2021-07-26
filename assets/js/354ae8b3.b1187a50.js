@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4756],{62781:function(i){"use strict";i.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"clinical-biochemistry","name":"clinical biochemistry","count":2,"permalink":"/publications/tags/clinical-biochemistry"}')}}]);

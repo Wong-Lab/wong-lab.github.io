@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7297],{65646:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"spectroscopy","name":"spectroscopy","count":4,"permalink":"/publications/tags/spectroscopy"}')}}]);

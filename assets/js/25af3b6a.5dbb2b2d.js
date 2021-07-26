@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[3303],{11761:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"modelling-and-simulation","name":"modelling and simulation","count":1,"permalink":"/publications/tags/modelling-and-simulation"}')}}]);

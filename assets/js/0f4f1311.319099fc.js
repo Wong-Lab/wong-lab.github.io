@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9725],{8085:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"catalysis","name":"catalysis","count":11,"permalink":"/publications/tags/catalysis"}')}}]);

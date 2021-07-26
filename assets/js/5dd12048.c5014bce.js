@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7419],{33540:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"adv-mater","name":"adv. mater.","count":1,"permalink":"/publications/tags/adv-mater"}')}}]);

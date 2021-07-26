@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7340],{52756:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"j-r-soc-interface","name":"j. r. soc. interface.","count":1,"permalink":"/publications/tags/j-r-soc-interface"}')}}]);

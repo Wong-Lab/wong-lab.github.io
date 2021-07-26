@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5936],{8796:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"physics-and-astronomy-miscellaneous","name":"physics and astronomy (miscellaneous)","count":3,"permalink":"/publications/tags/physics-and-astronomy-miscellaneous"}')}}]);

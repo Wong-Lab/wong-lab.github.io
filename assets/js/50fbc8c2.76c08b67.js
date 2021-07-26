@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9581],{80002:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"nat-commun","name":"nat commun","count":4,"permalink":"/publications/tags/nat-commun"}')}}]);

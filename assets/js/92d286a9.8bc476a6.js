@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4828],{44688:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"ecology-evolution-behavior-and-systematics","name":"ecology, evolution, behavior and systematics","count":1,"permalink":"/publications/tags/ecology-evolution-behavior-and-systematics"}')}}]);

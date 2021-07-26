@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6938],{45678:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"surface-sensing","name":"surface sensing","count":1,"permalink":"/publications/tags/surface-sensing"}')}}]);

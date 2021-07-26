@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5742],{49273:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-medicine","name":"general medicine","count":3,"permalink":"/publications/tags/general-medicine"}')}}]);

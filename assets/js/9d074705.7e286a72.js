@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8406],{42309:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"annu-rev-phys-chem","name":"annu. rev. phys. chem.","count":1,"permalink":"/publications/tags/annu-rev-phys-chem"}')}}]);

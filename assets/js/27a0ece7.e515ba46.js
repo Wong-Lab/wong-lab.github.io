@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8418],{83886:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"j-i","name":"j.i.","count":1,"permalink":"/publications/tags/j-i"}')}}]);

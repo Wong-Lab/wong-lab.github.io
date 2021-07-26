@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[162],{53463:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"surface-science","name":"surface science","count":1,"permalink":"/publications/tags/surface-science"}')}}]);

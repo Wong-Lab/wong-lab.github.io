@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5262],{47888:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"nature-mater","name":"nature mater","count":2,"permalink":"/publications/tags/nature-mater"}')}}]);

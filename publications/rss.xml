@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Wong Research Lab Blog</title>
+        <link>https://wong-lab.github.io/publications</link>
+        <description>Wong Research Lab Blog</description>
+        <lastBuildDate>Thu, 01 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sequence determinants in the cathelicidin LL-37 that promote inflammation via presentation of RNA to scavenger receptors]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.jbc.2021.100828</link>
+            <guid>10.1016~j.jbc.2021.100828</guid>
+            <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interaction between the type 4 pili machinery and a diguanylate cyclase fine-tune c-di-GMP levels during early biofilm formation]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.2105566118</link>
+            <guid>10.1073~pnas.2105566118</guid>
+            <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation]]></title>
+            <link>https://wong-lab.github.io/publications/10.1088~1478-3975~abdc0e</link>
+            <guid>10.1088~1478-3975~abdc0e</guid>
+            <pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PACAP is a pathogen-inducible resident antimicrobial neuropeptide affording rapid and contextual molecular host defense of the brain]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1917623117</link>
+            <guid>10.1073~pnas.1917623117</guid>
+            <pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Clostridioides difficile Toxin A Remodels Membranes and Mediates DNA Entry Into Cells to Activate Toll-Like Receptor 9 Signaling]]></title>
+            <link>https://wong-lab.github.io/publications/10.1053~j.gastro.2020.08.038</link>
+            <guid>10.1053~j.gastro.2020.08.038</guid>
+            <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Discovery of Novel Type II Bacteriocins Using a New High-Dimensional Bioinformatic Algorithm]]></title>
+            <link>https://wong-lab.github.io/publications/10.3389~fimmu.2020.01873</link>
+            <guid>10.3389~fimmu.2020.01873</guid>
+            <pubDate>Thu, 03 Sep 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do cyclic antibiotics with activity against Gram-negative bacteria permeate membranes? A machine learning informed experimental study]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.bbamem.2020.183302</link>
+            <guid>10.1016~j.bbamem.2020.183302</guid>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Functional Reciprocity of Amyloids and Antimicrobial Peptides: Rethinking the Role of Supramolecular Assembly in Host Defense, Immune Activation, and Inflammation]]></title>
+            <link>https://wong-lab.github.io/publications/10.3389~fimmu.2020.01629</link>
+            <guid>10.3389~fimmu.2020.01629</guid>
+            <pubDate>Fri, 31 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chemokine CCL28 Is a Potent Therapeutic Agent for Oropharyngeal Candidiasis]]></title>
+            <link>https://wong-lab.github.io/publications/10.1128~AAC.00210-20</link>
+            <guid>10.1128~AAC.00210-20</guid>
+            <pubDate>Wed, 22 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Selective Promotion of Adhesion of Shewanella oneidensis on Mannose-Decorated Glycopolymer Surfaces]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsami.0c04329</link>
+            <guid>10.1021~acsami.0c04329</guid>
+            <pubDate>Thu, 16 Jul 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prototypical pacemaker neurons interact with the resident microbiota]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1920469117</link>
+            <guid>10.1073~pnas.1920469117</guid>
+            <pubDate>Thu, 09 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Switchable Membrane Remodeling and Antifungal Defense by Metamorphic Chemokine XCL1]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsinfecdis.0c00011</link>
+            <guid>10.1021~acsinfecdis.0c00011</guid>
+            <pubDate>Fri, 03 Apr 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[c-di-GMP modulates type IV MSHA pilus retraction and surface attachment in Vibrio cholerae]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~s41467-020-15331-8</link>
+            <guid>10.1038~s41467-020-15331-8</guid>
+            <pubDate>Wed, 25 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Reciprocal c-di-GMP signaling: Incomplete flagellum biogenesis triggers c-di-GMP signaling pathways that promote biofilm formation]]></title>
+            <link>https://wong-lab.github.io/publications/10.1371~journal.pgen.1008703</link>
+            <guid>10.1371~journal.pgen.1008703</guid>
+            <pubDate>Mon, 16 Mar 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Cooperativity of Bacteria during Reversible Surface Attachment in Young Biofilms: a Quantitative Comparison of Pseudomonas aeruginosa PA14 and PAO1]]></title>
+            <link>https://wong-lab.github.io/publications/10.1128~mBio.02644-19</link>
+            <guid>10.1128~mBio.02644-19</guid>
+            <pubDate>Tue, 25 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Extended Hopanoid Loss Reduces Bacterial Motility and Surface Attachment and Leads to Heterogeneity in Root Nodule Growth Kinetics in a Bradyrhizobium-Aeschynomene Symbiosis]]></title>
+            <link>https://wong-lab.github.io/publications/10.1094~MPMI-04-19-0111-R</link>
+            <guid>10.1094~MPMI-04-19-0111-R</guid>
+            <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Heterogeneity in surface sensing suggests a division of labor in Pseudomonas aeruginosa populations]]></title>
+            <link>https://wong-lab.github.io/publications/10.7554~eLife.45084</link>
+            <guid>10.7554~eLife.45084</guid>
+            <pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Externalized histone H4 orchestrates chronic inflammation by inducing lytic cell death]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~s41586-019-1167-6</link>
+            <guid>10.1038~s41586-019-1167-6</guid>
+            <pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CXCL4 assembles DNA into liquid crystalline complexes to amplify TLR9-mediated interferon-α production in systemic sclerosis]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~s41467-019-09683-z</link>
+            <guid>10.1038~s41467-019-09683-z</guid>
+            <pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Functional Specialization in Vibrio cholerae Diguanylate Cyclases: Distinct Modes of Motility Suppression and c-di-GMP Production]]></title>
+            <link>https://wong-lab.github.io/publications/10.1128~mBio.00670-19</link>
+            <guid>10.1128~mBio.00670-19</guid>
+            <pubDate>Tue, 30 Apr 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Modulation of toll-like receptor signaling by antimicrobial peptides]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.semcdb.2018.02.002</link>
+            <guid>10.1016~j.semcdb.2018.02.002</guid>
+            <pubDate>Mon, 01 Apr 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Unifying structural signature of eukaryotic α-helical host defense peptides]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1819250116</link>
+            <guid>10.1073~pnas.1819250116</guid>
+            <pubDate>Fri, 15 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Helical antimicrobial peptides assemble into protofibril scaffolds that present ordered dsDNA to TLR9]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~s41467-019-08868-w</link>
+            <guid>10.1038~s41467-019-08868-w</guid>
+            <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine learning antimicrobial peptide sequences: Some surprising variations on the theme of amphiphilic assembly]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.cocis.2018.11.003</link>
+            <guid>10.1016~j.cocis.2018.11.003</guid>
+            <pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine learning-enabled discovery and design of membrane-active peptides]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.bmc.2017.07.012</link>
+            <guid>10.1016~j.bmc.2017.07.012</guid>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What Can Pleiotropic Proteins in Innate Immunity Teach Us about Bioconjugation and Molecular Design?]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acs.bioconjchem.8b00176</link>
+            <guid>10.1021~acs.bioconjchem.8b00176</guid>
+            <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Multigenerational memory and adaptive adhesion in early bacterial biofilm communities]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1720071115</link>
+            <guid>10.1073~pnas.1720071115</guid>
+            <pubDate>Tue, 20 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cathelicidin promotes inflammation by enabling binding of self-RNA to cell surface scavenger receptors]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~s41598-018-22409-3</link>
+            <guid>10.1038~s41598-018-22409-3</guid>
+            <pubDate>Mon, 05 Mar 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Applications of Synchrotron-Based Spectroscopic Techniques in Studying Nucleic Acids and Nucleic-Acid-Based Nanomaterials]]></title>
+            <link>https://wong-lab.github.io/publications/10.1002~9783527697106.ch18</link>
+            <guid>10.1002~9783527697106.ch18</guid>
+            <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Molecular Motor Dnm1 Synergistically Induces Membrane Curvature To Facilitate Mitochondrial Fission]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acscentsci.7b00338</link>
+            <guid>10.1021~acscentsci.7b00338</guid>
+            <pubDate>Wed, 08 Nov 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What can machine learning do for antimicrobial peptides, and what can antimicrobial peptides do for machine learning?]]></title>
+            <link>https://wong-lab.github.io/publications/10.1098~rsfs.2016.0153</link>
+            <guid>10.1098~rsfs.2016.0153</guid>
+            <pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Crystallinity of Double-Stranded RNA-Antimicrobial Peptide Complexes Modulates Toll-Like Receptor 3-Mediated Inflammation]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsnano.7b05234</link>
+            <guid>10.1021~acsnano.7b05234</guid>
+            <pubDate>Thu, 19 Oct 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High-Speed “4D” Computational Microscopy of Bacterial Surface Motility]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsnano.7b04738</link>
+            <guid>10.1021~acsnano.7b04738</guid>
+            <pubDate>Fri, 01 Sep 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Direct Antimicrobial Activity of IFN-β]]></title>
+            <link>https://wong-lab.github.io/publications/10.4049~jimmunol.1601226</link>
+            <guid>10.4049~jimmunol.1601226</guid>
+            <pubDate>Fri, 14 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bacterial amyloid curli acts as a carrier for DNA to elicit an autoimmune response via TLR2 and TLR9]]></title>
+            <link>https://wong-lab.github.io/publications/10.1371~journal.ppat.1006315</link>
+            <guid>10.1371~journal.ppat.1006315</guid>
+            <pubDate>Fri, 14 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emergence of complex behavior in pili-based motility in early stages of <em>P. aeruginosa</em> surface adaptation]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~srep45467</link>
+            <guid>10.1038~srep45467</guid>
+            <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interactions between Membranes and “Metaphilic” Polypeptide Architectures with Diverse Side-Chain Populations]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsnano.6b07981</link>
+            <guid>10.1021~acsnano.6b07981</guid>
+            <pubDate>Fri, 17 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Designing Hybrid Antibiotic Peptide Conjugates To Cross Bacterial Membranes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acs.bioconjchem.6b00725</link>
+            <guid>10.1021~acs.bioconjchem.6b00725</guid>
+            <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Role for Neuronal Alpha-Synuclein in Gastrointestinal Immunity]]></title>
+            <link>https://wong-lab.github.io/publications/10.1159~000477990</link>
+            <guid>10.1159~000477990</guid>
+            <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Mapping membrane activity in undiscovered peptide sequence space using machine learning]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1609893113</link>
+            <guid>10.1073~pnas.1609893113</guid>
+            <pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nanoelectronic Investigation Reveals the Electrochemical Basis of Electrical Conductivity in Shewanella and Geobacter]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsnano.6b03655</link>
+            <guid>10.1021~acsnano.6b03655</guid>
+            <pubDate>Tue, 08 Nov 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Multicellular Self-Organization of <em>P. aeruginosa</em> due to Interactions with Secreted Trails]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.117.178102</link>
+            <guid>10.1103~PhysRevLett.117.178102</guid>
+            <pubDate>Thu, 20 Oct 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evolution of Cell Size Homeostasis and Growth Rate Diversity during Initial Surface Colonization of Shewanella oneidensis]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsnano.6b05123</link>
+            <guid>10.1021~acsnano.6b05123</guid>
+            <pubDate>Tue, 06 Sep 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Effective Dynamics of Microorganisms That Interact with Their Own Trail]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.117.038101</link>
+            <guid>10.1103~PhysRevLett.117.038101</guid>
+            <pubDate>Mon, 11 Jul 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S100A12 Is Part of the Antimicrobial Network against Mycobacterium leprae in Human Macrophages]]></title>
+            <link>https://wong-lab.github.io/publications/10.1371~journal.ppat.1005705</link>
+            <guid>10.1371~journal.ppat.1005705</guid>
+            <pubDate>Wed, 29 Jun 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A review of immune amplification via ligand clustering by self-assembled liquid–crystalline DNA complexes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.cis.2016.02.003</link>
+            <guid>10.1016~j.cis.2016.02.003</guid>
+            <pubDate>Wed, 01 Jun 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sensational biofilms: surface sensing in bacteria]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.mib.2016.02.004</link>
+            <guid>10.1016~j.mib.2016.02.004</guid>
+            <pubDate>Fri, 01 Apr 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three-dimensional architecture ofVibrio cholerabiofilms]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1603016113</link>
+            <guid>10.1073~pnas.1603016113</guid>
+            <pubDate>Thu, 24 Mar 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxidation of Membrane Curvature-Regulating Phosphatidylethanolamine Lipid Results in Formation of Bilayer and Cubic Structures]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acs.langmuir.5b04332</link>
+            <guid>10.1021~acs.langmuir.5b04332</guid>
+            <pubDate>Thu, 03 Mar 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Species-dependent hydrodynamics of flagellum-tethered bacteria in early biofilm development]]></title>
+            <link>https://wong-lab.github.io/publications/10.1098~rsif.2015.0966</link>
+            <guid>10.1098~rsif.2015.0966</guid>
+            <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Interplay between type IV pili activity and exopolysaccharides secretion controls motility patterns in single cells of Myxococcus xanthus]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~srep17790</link>
+            <guid>10.1038~srep17790</guid>
+            <pubDate>Fri, 29 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Teach Old Antibiotics New Tricks]]></title>
+            <link>https://wong-lab.github.io/publications/10.1007~978-3-319-32949-9_10</link>
+            <guid>10.1007~978-3-319-32949-9_10</guid>
+            <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tools for the Microbiome: Nano and Beyond]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acsnano.5b07826</link>
+            <guid>10.1021~acsnano.5b07826</guid>
+            <pubDate>Tue, 22 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bacteria Use Type IV Pili Machinery on Surfaces]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.tim.2015.09.002</link>
+            <guid>10.1016~j.tim.2015.09.002</guid>
+            <pubDate>Tue, 01 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C-di-GMP Regulates Motile to Sessile Transition by Modulating MshA Pili Biogenesis and Near-Surface Motility Behavior in Vibrio cholerae]]></title>
+            <link>https://wong-lab.github.io/publications/10.1371~journal.ppat.1005068</link>
+            <guid>10.1371~journal.ppat.1005068</guid>
+            <pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helical antimicrobial polypeptides with radial amphiphilicity]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1507893112</link>
+            <guid>10.1073~pnas.1507893112</guid>
+            <pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Viral fusion protein transmembrane domain adopts β-strand structure to facilitate membrane topological changes for virus–cell fusion]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1501430112</link>
+            <guid>10.1073~pnas.1501430112</guid>
+            <pubDate>Mon, 17 Aug 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Liquid-crystalline ordering of antimicrobial peptide–DNA complexes controls TLR9 activation]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~nmat4298</link>
+            <guid>10.1038~nmat4298</guid>
+            <pubDate>Mon, 08 Jun 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pentobra: A Potent Antibiotic with Multiple Layers of Selective Antimicrobial Mechanisms against Propionibacterium Acnes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~jid.2015.40</link>
+            <guid>10.1038~jid.2015.40</guid>
+            <pubDate>Mon, 01 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Living in the matrix: assembly and control of Vibrio cholerae biofilms]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~nrmicro3433</link>
+            <guid>10.1038~nrmicro3433</guid>
+            <pubDate>Thu, 16 Apr 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reinventing Cell Penetrating Peptides Using Glycosylated Methionine Sulfonium Ion Sequences]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~acscentsci.5b00054</link>
+            <guid>10.1021~acscentsci.5b00054</guid>
+            <pubDate>Wed, 15 Apr 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Dynamic Network Formation Model for Understanding Bacterial Self-Organization Into Micro-Colonies]]></title>
+            <link>https://wong-lab.github.io/publications/10.1109~TMBMC.2015.2465515</link>
+            <guid>10.1109~TMBMC.2015.2465515</guid>
+            <pubDate>Sun, 01 Mar 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Hierarchical Cascade of Second Messengers Regulates Pseudomonas aeruginosa Surface Behaviors]]></title>
+            <link>https://wong-lab.github.io/publications/10.1128~mBio.02456-14</link>
+            <guid>10.1128~mBio.02456-14</guid>
+            <pubDate>Fri, 27 Feb 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ternary Nylon-3 Copolymers as Host-Defense Peptide Mimics: Beyond Hydrophobic and Cationic Subunits]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja507576a</link>
+            <guid>10.1021~ja507576a</guid>
+            <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vibrio cholerae use pili and flagella synergistically to effect motility switching and conditional surface attachment]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~ncomms5913</link>
+            <guid>10.1038~ncomms5913</guid>
+            <pubDate>Fri, 19 Sep 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two interdependent mechanisms of antimicrobial activity allow for efficient killing in nylon-3-based polymeric mimics of innate immunity peptides]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.bbamem.2014.04.007</link>
+            <guid>10.1016~j.bbamem.2014.04.007</guid>
+            <pubDate>Mon, 01 Sep 2014 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Engineering Persister-Specific Antibiotics with Synergistic Antimicrobial Functions]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~nn502201a</link>
+            <guid>10.1021~nn502201a</guid>
+            <pubDate>Mon, 18 Aug 2014 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Influenza Virus A M2 Protein Generates Negative Gaussian Membrane Curvature Necessary for Budding and Scission]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja400146z</link>
+            <guid>10.1021~ja400146z</guid>
+            <pubDate>Fri, 06 Sep 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antimicrobial peptides and induced membrane curvature: Geometry, coordination chemistry, and molecular engineering]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.cossms.2013.09.004</link>
+            <guid>10.1016~j.cossms.2013.09.004</guid>
+            <pubDate>Thu, 01 Aug 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Psl trails guide exploration and microcolony formation in Pseudomonas aeruginosa biofilms]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~nature12155</link>
+            <guid>10.1038~nature12155</guid>
+            <pubDate>Wed, 08 May 2013 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Critical Evaluation of Random Copolymer Mimesis of Homogeneous Antimicrobial Peptides]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ma302577e</link>
+            <guid>10.1021~ma302577e</guid>
+            <pubDate>Fri, 01 Mar 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earthquake-like dynamics in Myxococcus xanthus social motility]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1215089110</link>
+            <guid>10.1073~pnas.1215089110</guid>
+            <pubDate>Tue, 22 Jan 2013 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Molecular Basis for Nanoscopic Membrane Curvature Generation from Quantum Mechanical Models and Synthetic Transporter Sequences]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja308459j</link>
+            <guid>10.1021~ja308459j</guid>
+            <pubDate>Fri, 09 Nov 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arginine in α-Defensins]]></title>
+            <link>https://wong-lab.github.io/publications/10.1074~jbc.M112.358721</link>
+            <guid>10.1074~jbc.M112.358721</guid>
+            <pubDate>Fri, 01 Jun 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dynamics of confined water reconstructed from inelastic x-ray scattering measurements of bulk response functions]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevE.85.031501</link>
+            <guid>10.1103~PhysRevE.85.031501</guid>
+            <pubDate>Thu, 08 Mar 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Molecular Solvation Dynamics from Inelastic X-Ray Scattering Measurements]]></title>
+            <link>https://wong-lab.github.io/publications/10.1002~9781118180396.ch3</link>
+            <guid>10.1002~9781118180396.ch3</guid>
+            <pubDate>Tue, 31 Jan 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enhanced activity of cyclic transporter sequences driven by phase behavior of peptide–lipid complexes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1039~C2SM25405K</link>
+            <guid>10.1039~C2SM25405K</guid>
+            <pubDate>Sun, 01 Jan 2012 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Translocation of HIV TAT peptide and analogues induced by multiplexed membrane and cytoskeletal interactions]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1108795108</link>
+            <guid>10.1073~pnas.1108795108</guid>
+            <pubDate>Mon, 03 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Squalamine as a broad-spectrum systemic antiviral agent with therapeutic potential]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1108558108</link>
+            <guid>10.1073~pnas.1108558108</guid>
+            <pubDate>Mon, 19 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Bacteria use type-IV pili to slingshot on surfaces]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1105073108</link>
+            <guid>10.1073~pnas.1105073108</guid>
+            <pubDate>Mon, 18 Jul 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Criterion for Amino Acid Composition of Defensins and Antimicrobial Peptides Based on Geometry of Membrane Destabilization]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja200079a</link>
+            <guid>10.1021~ja200079a</guid>
+            <pubDate>Wed, 04 May 2011 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All together now: Integrating biofilm research across disciplines]]></title>
+            <link>https://wong-lab.github.io/publications/10.1557~mrs.2011.64</link>
+            <guid>10.1557~mrs.2011.64</guid>
+            <pubDate>Sun, 01 May 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Flagella and Pili-Mediated Near-Surface Single-Cell Motility Mechanisms in <em>P. aeruginosa</em>]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.bpj.2011.02.020</link>
+            <guid>10.1016~j.bpj.2011.02.020</guid>
+            <pubDate>Fri, 01 Apr 2011 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pel Polysaccharide Can Serve a Structural and Protective Role in the Biofilm Matrix of Pseudomonas aeruginosa]]></title>
+            <link>https://wong-lab.github.io/publications/10.1371~journal.ppat.1001264</link>
+            <guid>10.1371~journal.ppat.1001264</guid>
+            <pubDate>Thu, 27 Jan 2011 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Small-Angle X-ray Scattering Studies of Peptide–Lipid Interactions Using the Mouse Paneth Cell α-Defensin Cryptdin-4]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~B978-0-12-381268-1.00016-1</link>
+            <guid>10.1016~B978-0-12-381268-1.00016-1</guid>
+            <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bacteria Use Type IV Pili to Walk Upright and Detach from Surfaces: Fig. 1]]></title>
+            <link>https://wong-lab.github.io/publications/10.1126~science.1194238</link>
+            <guid>10.1126~science.1194238</guid>
+            <pubDate>Thu, 07 Oct 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electrostatics of Strongly Charged Biological Polymers: Ion-Mediated Interactions and Self-Organization in Nucleic Acids and Proteins]]></title>
+            <link>https://wong-lab.github.io/publications/10.1146~annurev.physchem.58.032806.104436</link>
+            <guid>10.1146~annurev.physchem.58.032806.104436</guid>
+            <pubDate>Mon, 01 Mar 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ultrafast Imaging and the Phase Problem for Inelastic X-Ray Scattering]]></title>
+            <link>https://wong-lab.github.io/publications/10.1002~adma.200904098</link>
+            <guid>10.1002~adma.200904098</guid>
+            <pubDate>Wed, 03 Feb 2010 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hydration Dynamics at Femtosecond Time Scales and Angstrom Length Scales from Inelastic X-Ray Scattering]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.103.237402</link>
+            <guid>10.1103~PhysRevLett.103.237402</guid>
+            <pubDate>Thu, 03 Dec 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cooperativity and Frustration in Protein-Mediated Parallel Actin Bundles]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.103.238102</link>
+            <guid>10.1103~PhysRevLett.103.238102</guid>
+            <pubDate>Mon, 30 Nov 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arginine-rich cell-penetrating peptides]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.febslet.2009.11.046</link>
+            <guid>10.1016~j.febslet.2009.11.046</guid>
+            <pubDate>Mon, 16 Nov 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Divalent Metal Ion Triggered Activity of a Synthetic Antimicrobial in Cardiolipin Membranes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja9067063</link>
+            <guid>10.1021~ja9067063</guid>
+            <pubDate>Tue, 06 Oct 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EXAFS studies of catalytic DNA sensors for mercury contamination of water]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.radphyschem.2009.05.024</link>
+            <guid>10.1016~j.radphyschem.2009.05.024</guid>
+            <pubDate>Thu, 01 Oct 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Influence of Salts and Natural Organic Matter on the Stability of Bacteriophage MS2]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~la902290t</link>
+            <guid>10.1021~la902290t</guid>
+            <pubDate>Wed, 23 Sep 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inorganic Mercury Detection and Controlled Release of Chelating Agents from Ion-Responsive Liposomes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.chembiol.2009.08.011</link>
+            <guid>10.1016~j.chembiol.2009.08.011</guid>
+            <pubDate>Tue, 01 Sep 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reversible Cell-Specific Drug Delivery with Aptamer-Functionalized Liposomes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1002~anie.200901452</link>
+            <guid>10.1002~anie.200901452</guid>
+            <pubDate>Mon, 17 Aug 2009 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mechanism of a prototypical synthetic membrane-active antimicrobial: Efficient hole-punching via interaction with negative intrinsic curvature lipids]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.0806456105</link>
+            <guid>10.1073~pnas.0806456105</guid>
+            <pubDate>Tue, 23 Dec 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cationic Amphiphiles Increase Activity of Aminoglycoside Antibiotic Tobramycin in the Presence of Airway Polyelectrolytes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja803925n</link>
+            <guid>10.1021~ja803925n</guid>
+            <pubDate>Thu, 11 Dec 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-Organized Gels in DNA/F-Actin Mixtures without Crosslinkers: Networks of Induced Nematic Domains with Tunable Density]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.101.218303</link>
+            <guid>10.1103~PhysRevLett.101.218303</guid>
+            <pubDate>Wed, 19 Nov 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elasticity-mediated nematiclike bacterial organization in model extracellular DNA matrix]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevE.78.030701</link>
+            <guid>10.1103~PhysRevE.78.030701</guid>
+            <pubDate>Tue, 23 Sep 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HIV TAT Forms Pores in Membranes by Inducing Saddle-Splay Curvature: Potential Role of Bidentate Hydrogen Bonding]]></title>
+            <link>https://wong-lab.github.io/publications/10.1002~anie.200704444</link>
+            <guid>10.1002~anie.200704444</guid>
+            <pubDate>Mon, 07 Apr 2008 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Control of electrostatic interactions between F-actin and genetically modified lysozyme in aqueous media]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.0705898104</link>
+            <guid>10.1073~pnas.0705898104</guid>
+            <pubDate>Tue, 02 Oct 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Synthetic Antimicrobial Oligomers Induce a Composition-Dependent Topological Transition in Membranes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja072310o</link>
+            <guid>10.1021~ja072310o</guid>
+            <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Temperature Dependence of Thermodiffusion in Aqueous Suspensions of Charged Nanoparticles]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~la700489e</link>
+            <guid>10.1021~la700489e</guid>
+            <pubDate>Fri, 27 Jul 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evolution of Growth Modes for Polyelectrolyte Bundles]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.98.187802</link>
+            <guid>10.1103~PhysRevLett.98.187802</guid>
+            <pubDate>Mon, 30 Apr 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structural Polymorphism of the Actin-Espin System: A Prototypical System of Filaments and Linkers in Stereocilia]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.98.058105</link>
+            <guid>10.1103~PhysRevLett.98.058105</guid>
+            <pubDate>Thu, 01 Feb 2007 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electrostatics of rigid polyelectrolytes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~j.cocis.2006.12.003</link>
+            <guid>10.1016~j.cocis.2006.12.003</guid>
+            <pubDate>Fri, 01 Dec 2006 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Effect of Salt on Self-Assembled Actin-Lysozyme Complexes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1529~biophysj.105.078253</link>
+            <guid>10.1529~biophysj.105.078253</guid>
+            <pubDate>Thu, 01 Jun 2006 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Counterions between charged polymers exhibit liquid-like organization and dynamics]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.0601435103</link>
+            <guid>10.1073~pnas.0601435103</guid>
+            <pubDate>Thu, 11 May 2006 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structure and Dynamics of Liquid Crystalline Pattern Formation in Drying Droplets of DNA]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.96.177801</link>
+            <guid>10.1103~PhysRevLett.96.177801</guid>
+            <pubDate>Tue, 02 May 2006 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Condensation of DNA-actin polyelectrolyte mixtures driven by ions of different valences]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevE.73.031911</link>
+            <guid>10.1103~PhysRevE.73.031911</guid>
+            <pubDate>Tue, 14 Mar 2006 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structure and Stability of Self-Assembled Actin-Lysozyme Complexes in Salty Water]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.95.108302</link>
+            <guid>10.1103~PhysRevLett.95.108302</guid>
+            <pubDate>Thu, 01 Sep 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polymorphism of DNA-anionic liposome complexes reveals hierarchy of ion-mediated interactions]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.0502416102</link>
+            <guid>10.1073~pnas.0502416102</guid>
+            <pubDate>Mon, 01 Aug 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salt-induced condensation in actin-DNA mixtures]]></title>
+            <link>https://wong-lab.github.io/publications/10.1209~epl~i2004-10510-1</link>
+            <guid>10.1209~epl~i2004-10510-1</guid>
+            <pubDate>Sun, 01 May 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structure and dynamics of condensed multivalent ions within polyelectrolyte bundles: a combined x-ray diffraction and solid-state NMR study]]></title>
+            <link>https://wong-lab.github.io/publications/10.1088~0953-8984~17~14~001</link>
+            <guid>10.1088~0953-8984~17~14~001</guid>
+            <pubDate>Fri, 25 Mar 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Direct observation of counterion organization in F-actin polyelectrolyte bundles]]></title>
+            <link>https://wong-lab.github.io/publications/10.1140~epje~i2004-10097-9</link>
+            <guid>10.1140~epje~i2004-10097-9</guid>
+            <pubDate>Fri, 18 Mar 2005 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roles of Anionic and Cationic Template Components in Biomineralization of CdS Nanorods Using Self-Assembled DNA−Membrane Complexes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja046718m</link>
+            <guid>10.1021~ja046718m</guid>
+            <pubDate>Mon, 01 Nov 2004 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-assembled virus–membrane complexes]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~nmat1195</link>
+            <guid>10.1038~nmat1195</guid>
+            <pubDate>Sun, 15 Aug 2004 00:00:00 GMT</pubDate>
+            <description><![CDATA[Related Materials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MATERIALS SCIENCE: The Soft Sector in Physics]]></title>
+            <link>https://wong-lab.github.io/publications/10.1126~science.1099510</link>
+            <guid>10.1126~science.1099510</guid>
+            <pubDate>Fri, 13 Aug 2004 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Molecular Imprinting of Biomineralized CdS Nanostructures: Crystallographic Control Using Self-Assembled DNA−Membrane Templates]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~ja036529o</link>
+            <guid>10.1021~ja036529o</guid>
+            <pubDate>Tue, 09 Sep 2003 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ion Multivalence and Like-Charge Polyelectrolyte Attraction]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.91.028301</link>
+            <guid>10.1103~PhysRevLett.91.028301</guid>
+            <pubDate>Fri, 11 Jul 2003 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Like-charge attraction between polyelectrolytes induced by counterion charge density waves]]></title>
+            <link>https://wong-lab.github.io/publications/10.1073~pnas.1533355100</link>
+            <guid>10.1073~pnas.1533355100</guid>
+            <pubDate>Wed, 09 Jul 2003 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lamellar Phase of Stacked Two-Dimensional Rafts of Actin Filaments]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.91.018103</link>
+            <guid>10.1103~PhysRevLett.91.018103</guid>
+            <pubDate>Wed, 02 Jul 2003 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Controlled Modification of Microstructured Silicon Surfaces for Confinement of Biological Macromolecules and Liquid Crystals]]></title>
+            <link>https://wong-lab.github.io/publications/10.1021~la010145z</link>
+            <guid>10.1021~la010145z</guid>
+            <pubDate>Wed, 01 Aug 2001 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Characterizing the hard x-ray diffraction properties of a GaAs linear Bragg–Fresnel lens]]></title>
+            <link>https://wong-lab.github.io/publications/10.1063~1.126961</link>
+            <guid>10.1063~1.126961</guid>
+            <pubDate>Mon, 17 Jul 2000 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hierarchical Self-Assembly of F-Actin and Cationic Lipid Complexes: Stacked Three-Layer Tubule Networks]]></title>
+            <link>https://wong-lab.github.io/publications/10.1126~science.288.5473.2035</link>
+            <guid>10.1126~science.288.5473.2035</guid>
+            <pubDate>Fri, 16 Jun 2000 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mesoscopic structure of DNA–membrane self-assemblies: Microdiffraction and manipulation on lithographic substrates]]></title>
+            <link>https://wong-lab.github.io/publications/10.1063~1.122361</link>
+            <guid>10.1063~1.122361</guid>
+            <pubDate>Mon, 05 Oct 1998 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bragg–Fresnel optics for hard x-ray microscopy: Development of fabrication process and x-ray characterization at the Advanced Photon Source]]></title>
+            <link>https://wong-lab.github.io/publications/10.1063~1.1149022</link>
+            <guid>10.1063~1.1149022</guid>
+            <pubDate>Sat, 01 Aug 1998 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinning transitions and fluctuations of freely suspended smectic-A films as studied by specular and diffuse X-ray scattering]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~S0921-4526[98]00230-0</link>
+            <guid>10.1016~S0921-4526[98]00230-0</guid>
+            <pubDate>Mon, 01 Jun 1998 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structural Studies of DNA–Cationic Lipid Complexes Confined in Lithographically Patterned Microchannel Arrays]]></title>
+            <link>https://wong-lab.github.io/publications/10.1023~A+1022697927651</link>
+            <guid>10.1023~A+1022697927651</guid>
+            <pubDate>Thu, 01 Jan 1998 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thermal Fluctuations of Freely Suspended Smectic-A Films from Mesoscopic to Molecular Length Scales]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.79.3439</link>
+            <guid>10.1103~PhysRevLett.79.3439</guid>
+            <pubDate>Mon, 03 Nov 1997 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Induced long-range order in crosslinked ‘one-dimensional’ stacks of fluid monolayers]]></title>
+            <link>https://wong-lab.github.io/publications/10.1038~39271</link>
+            <guid>10.1038~39271</guid>
+            <pubDate>Wed, 01 Oct 1997 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Critical examination of prewetting and surface melting on caprolactam]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevB.55.1388</link>
+            <guid>10.1103~PhysRevB.55.1388</guid>
+            <pubDate>Wed, 15 Jan 1997 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orientational Wetting in Hybrid Liquid Crystalline Block Copolymers]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.77.5221</link>
+            <guid>10.1103~PhysRevLett.77.5221</guid>
+            <pubDate>Mon, 23 Dec 1996 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epitaxial growth mechanisms and structure ofCaF2/Si(111)]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevB.50.14340</link>
+            <guid>10.1103~PhysRevB.50.14340</guid>
+            <pubDate>Tue, 15 Nov 1994 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Direct observation of interface and surface steps in epitaxial films by dark‐field transmission electron microscopy]]></title>
+            <link>https://wong-lab.github.io/publications/10.1063~1.112912</link>
+            <guid>10.1063~1.112912</guid>
+            <pubDate>Mon, 03 Oct 1994 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parallel Adatom Chains on Si(111): A Chemisorption-Induced Surface Reconstruction]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.73.991</link>
+            <guid>10.1103~PhysRevLett.73.991</guid>
+            <pubDate>Mon, 15 Aug 1994 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CaF2-Si(111) as a model ionic-covalent system: Transition from chemisorption to epitaxy]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevB.48.5716</link>
+            <guid>10.1103~PhysRevB.48.5716</guid>
+            <pubDate>Sun, 15 Aug 1993 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Order-disorderc(4×2)-(2×1) transition on Ge(001): Anin situx-ray scattering study]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevB.47.10375</link>
+            <guid>10.1103~PhysRevB.47.10375</guid>
+            <pubDate>Thu, 15 Apr 1993 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initial stages in the epitaxial growth of NaCl on Ge(001)]]></title>
+            <link>https://wong-lab.github.io/publications/10.1016~0039-6028[93]90554-W</link>
+            <guid>10.1016~0039-6028[93]90554-W</guid>
+            <pubDate>Thu, 01 Apr 1993 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structural transitions of theCaF2/Si(111) interface]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevLett.70.1826</link>
+            <guid>10.1103~PhysRevLett.70.1826</guid>
+            <pubDate>Mon, 22 Mar 1993 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solid state amorphization reactions in deformed Ni-Zr multilayered composites]]></title>
+            <link>https://wong-lab.github.io/publications/10.1557~JMR.1990.0488</link>
+            <guid>10.1557~JMR.1990.0488</guid>
+            <pubDate>Thu, 01 Mar 1990 00:00:00 GMT</pubDate>
+            <description><![CDATA[Abstract]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Calorimetric observations of amorphous and crystalline Ni-Zr alloy formation by solid-state reaction]]></title>
+            <link>https://wong-lab.github.io/publications/10.1103~PhysRevB.37.9049</link>
+            <guid>10.1103~PhysRevB.37.9049</guid>
+            <pubDate>Sun, 15 May 1988 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

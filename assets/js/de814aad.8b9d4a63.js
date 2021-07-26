@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[3902],{81994:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"trends-in-microbiology","name":"trends in microbiology","count":1,"permalink":"/publications/tags/trends-in-microbiology"}')}}]);

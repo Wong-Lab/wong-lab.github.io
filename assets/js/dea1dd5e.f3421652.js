@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[593],{80294:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"physical-and-theoretical-chemistry","name":"physical and theoretical chemistry","count":5,"permalink":"/publications/tags/physical-and-theoretical-chemistry"}')}}]);

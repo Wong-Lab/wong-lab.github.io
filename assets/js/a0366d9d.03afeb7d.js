@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9419],{17398:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"bacterial-biofilms","name":"bacterial biofilms","count":1,"permalink":"/publications/tags/bacterial-biofilms"}')}}]);

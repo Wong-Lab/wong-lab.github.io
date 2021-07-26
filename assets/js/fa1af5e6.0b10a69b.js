@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8e3],{97568:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"phys-rev-lett","name":"phys. rev. lett.","count":15,"permalink":"/publications/tags/phys-rev-lett"}')}}]);

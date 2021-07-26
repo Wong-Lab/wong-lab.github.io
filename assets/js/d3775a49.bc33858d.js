@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5154],{25322:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"c-di-gmp","name":"c-di-gmp","count":1,"permalink":"/publications/tags/c-di-gmp"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6675],{68545:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-engineering","name":"general engineering","count":7,"permalink":"/publications/tags/general-engineering"}')}}]);

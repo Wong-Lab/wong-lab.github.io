@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8217],{83531:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"inorganic-chemistry","name":"inorganic chemistry","count":1,"permalink":"/publications/tags/inorganic-chemistry"}')}}]);

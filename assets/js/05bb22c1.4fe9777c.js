@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5198],{2702:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"surfaces-and-interfaces","name":"surfaces and interfaces","count":9,"permalink":"/publications/tags/surfaces-and-interfaces"}')}}]);

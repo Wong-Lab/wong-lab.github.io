@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6578],{12357:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"pharmaceutical-science","name":"pharmaceutical science","count":3,"permalink":"/publications/tags/pharmaceutical-science"}')}}]);

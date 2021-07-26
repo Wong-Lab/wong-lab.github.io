@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[2526],{26951:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"cancer-research","name":"cancer research","count":1,"permalink":"/publications/tags/cancer-research"}')}}]);

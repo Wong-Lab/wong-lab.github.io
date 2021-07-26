@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[1345],{64204:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"current-opinion-in-colloid-interface-science","name":"current opinion in colloid & interface science","count":2,"permalink":"/publications/tags/current-opinion-in-colloid-interface-science"}')}}]);

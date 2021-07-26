@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[1330],{28883:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"current-opinion-in-microbiology","name":"current opinion in microbiology","count":1,"permalink":"/publications/tags/current-opinion-in-microbiology"}')}}]);

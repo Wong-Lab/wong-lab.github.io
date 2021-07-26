@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5480],{52875:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"nat-rev-microbiol","name":"nat rev microbiol","count":1,"permalink":"/publications/tags/nat-rev-microbiol"}')}}]);

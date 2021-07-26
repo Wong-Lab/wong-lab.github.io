@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9938],{44720:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"dermatology","name":"dermatology","count":1,"permalink":"/publications/tags/dermatology"}')}}]);

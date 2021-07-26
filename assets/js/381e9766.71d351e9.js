@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4718],{85674:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-materials-science","name":"general materials science","count":20,"permalink":"/publications/tags/general-materials-science"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8103],{97159:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-chemical-engineering","name":"general chemical engineering","count":2,"permalink":"/publications/tags/general-chemical-engineering"}')}}]);

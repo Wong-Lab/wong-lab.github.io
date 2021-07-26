@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8849],{5072:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"surfaces-coatings-and-films","name":"surfaces, coatings and films","count":1,"permalink":"/publications/tags/surfaces-coatings-and-films"}')}}]);

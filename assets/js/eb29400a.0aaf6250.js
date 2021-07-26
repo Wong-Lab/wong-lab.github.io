@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6018],{41046:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"electrical-and-electronic-engineering","name":"electrical and electronic engineering","count":2,"permalink":"/publications/tags/electrical-and-electronic-engineering"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8469],{24015:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"chemistry-biology","name":"chemistry & biology","count":1,"permalink":"/publications/tags/chemistry-biology"}')}}]);

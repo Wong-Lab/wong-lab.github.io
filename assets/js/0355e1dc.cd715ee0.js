@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5494],{11050:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"langmuir","name":"langmuir","count":4,"permalink":"/publications/tags/langmuir"}')}}]);

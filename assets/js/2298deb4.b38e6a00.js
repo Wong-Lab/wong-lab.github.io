@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7355],{73067:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"antimicrob-agents-chemother","name":"antimicrob agents chemother","count":1,"permalink":"/publications/tags/antimicrob-agents-chemother"}')}}]);

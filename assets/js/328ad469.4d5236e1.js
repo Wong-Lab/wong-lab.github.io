@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4729],{52741:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"molecular-medicine","name":"molecular medicine","count":2,"permalink":"/publications/tags/molecular-medicine"}')}}]);

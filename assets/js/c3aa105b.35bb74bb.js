@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[1481],{36515:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"electrochemistry","name":"electrochemistry","count":4,"permalink":"/publications/tags/electrochemistry"}')}}]);

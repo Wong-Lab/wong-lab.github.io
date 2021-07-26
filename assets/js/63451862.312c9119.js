@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5773],{87115:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"polymers-and-plastics","name":"polymers and plastics","count":3,"permalink":"/publications/tags/polymers-and-plastics"}')}}]);

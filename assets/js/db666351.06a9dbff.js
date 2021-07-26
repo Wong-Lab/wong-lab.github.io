@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7498],{60327:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-physics-and-astronomy","name":"general physics and astronomy","count":27,"permalink":"/publications/tags/general-physics-and-astronomy"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5665],{35565:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"genetics","name":"genetics","count":6,"permalink":"/publications/tags/genetics"}')}}]);

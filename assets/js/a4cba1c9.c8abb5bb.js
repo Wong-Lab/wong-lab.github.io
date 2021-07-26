@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8845],{30489:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"biotechnology","name":"biotechnology","count":6,"permalink":"/publications/tags/biotechnology"}')}}]);

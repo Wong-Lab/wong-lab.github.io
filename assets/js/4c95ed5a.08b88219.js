@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5112],{10514:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"eur-phys-j-e","name":"eur. phys. j. e","count":1,"permalink":"/publications/tags/eur-phys-j-e"}')}}]);

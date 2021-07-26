@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5740],{30588:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"europhys-lett","name":"europhys. lett.","count":1,"permalink":"/publications/tags/europhys-lett"}')}}]);

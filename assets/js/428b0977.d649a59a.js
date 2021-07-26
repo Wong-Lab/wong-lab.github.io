@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7039],{371:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"colloid-and-surface-chemistry","name":"colloid and surface chemistry","count":12,"permalink":"/publications/tags/colloid-and-surface-chemistry"}')}}]);

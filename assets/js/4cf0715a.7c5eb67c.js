@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[3275],{42686:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"agronomy-and-crop-science","name":"agronomy and crop science","count":1,"permalink":"/publications/tags/agronomy-and-crop-science"}')}}]);

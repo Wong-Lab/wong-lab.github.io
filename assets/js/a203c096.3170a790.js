@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4595],{87749:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"journal-of-biological-chemistry","name":"journal of biological chemistry","count":2,"permalink":"/publications/tags/journal-of-biological-chemistry"}')}}]);

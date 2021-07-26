@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[581],{60690:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"p-lo-s-pathog","name":"plos pathog","count":4,"permalink":"/publications/tags/p-lo-s-pathog"}')}}]);

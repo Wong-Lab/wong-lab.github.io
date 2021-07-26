@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[2991],{62169:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"radiation-physics-and-chemistry","name":"radiation physics and chemistry","count":1,"permalink":"/publications/tags/radiation-physics-and-chemistry"}')}}]);

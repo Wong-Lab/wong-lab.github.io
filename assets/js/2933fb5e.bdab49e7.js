@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9672],{86682:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"organic-chemistry","name":"organic chemistry","count":4,"permalink":"/publications/tags/organic-chemistry"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7941],{8692:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"ieee-trans-mol-biol-multi-scale-commun","name":"ieee trans. mol. biol. multi-scale commun.","count":1,"permalink":"/publications/tags/ieee-trans-mol-biol-multi-scale-commun"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6801],{16073:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"alignment-complex","name":"alignment complex","count":1,"permalink":"/publications/tags/alignment-complex"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[3163],{22865:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"j-innate-immun","name":"j innate immun","count":1,"permalink":"/publications/tags/j-innate-immun"}')}}]);

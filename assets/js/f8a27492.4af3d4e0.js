@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[5252],{23441:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"general-immunology-and-microbiology","name":"general immunology and microbiology","count":2,"permalink":"/publications/tags/general-immunology-and-microbiology"}')}}]);

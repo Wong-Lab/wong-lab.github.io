@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[916],{21151:function(i){"use strict";i.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"multidisciplinary","name":"multidisciplinary","count":26,"permalink":"/publications/tags/multidisciplinary"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6988],{74038:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"soft-matter","name":"soft matter","count":1,"permalink":"/publications/tags/soft-matter"}')}}]);

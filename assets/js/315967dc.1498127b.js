@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4304],{21541:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"acs-cent-sci","name":"acs cent. sci.","count":2,"permalink":"/publications/tags/acs-cent-sci"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8550],{81903:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"physiology","name":"physiology","count":1,"permalink":"/publications/tags/physiology"}')}}]);

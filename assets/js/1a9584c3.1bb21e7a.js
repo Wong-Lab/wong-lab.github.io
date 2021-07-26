@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4517],{36675:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"mechanical-engineering","name":"mechanical engineering","count":4,"permalink":"/publications/tags/mechanical-engineering"}')}}]);

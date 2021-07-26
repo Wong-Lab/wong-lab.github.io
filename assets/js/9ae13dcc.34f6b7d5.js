@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4453],{24810:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"physica-b-condensed-matter","name":"physica b: condensed matter","count":1,"permalink":"/publications/tags/physica-b-condensed-matter"}')}}]);

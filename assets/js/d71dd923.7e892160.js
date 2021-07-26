@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[1813],{82225:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"j-am-chem-soc","name":"j. am. chem. soc.","count":9,"permalink":"/publications/tags/j-am-chem-soc"}')}}]);

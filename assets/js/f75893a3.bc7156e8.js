@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7750],{98942:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"developmental-biology","name":"developmental biology","count":1,"permalink":"/publications/tags/developmental-biology"}')}}]);

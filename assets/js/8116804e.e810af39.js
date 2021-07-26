@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4935],{53907:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"biophysical-journal","name":"biophysical journal","count":2,"permalink":"/publications/tags/biophysical-journal"}')}}]);

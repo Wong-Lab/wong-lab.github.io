@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[679],{44821:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"pseudomonas-aeruginosa","name":"pseudomonas aeruginosa","count":1,"permalink":"/publications/tags/pseudomonas-aeruginosa"}')}}]);

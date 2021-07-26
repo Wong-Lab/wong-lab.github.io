@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8154],{66584:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"front-immunol","name":"front. immunol.","count":2,"permalink":"/publications/tags/front-immunol"}')}}]);

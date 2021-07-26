@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[646],{37972:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"j-mater-res","name":"j. mater. res.","count":1,"permalink":"/publications/tags/j-mater-res"}')}}]);

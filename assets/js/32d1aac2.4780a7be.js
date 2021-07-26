@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[1144],{89402:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"parasitology","name":"parasitology","count":4,"permalink":"/publications/tags/parasitology"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7168],{23923:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"cell-biology","name":"cell biology","count":8,"permalink":"/publications/tags/cell-biology"}')}}]);

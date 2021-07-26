@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6208],{12275:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"j-phys-condens-matter","name":"j. phys.: condens. matter","count":1,"permalink":"/publications/tags/j-phys-condens-matter"}')}}]);

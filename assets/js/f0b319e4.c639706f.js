@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[8198],{54361:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"bioconjugate-chem","name":"bioconjugate chem.","count":2,"permalink":"/publications/tags/bioconjugate-chem"}')}}]);

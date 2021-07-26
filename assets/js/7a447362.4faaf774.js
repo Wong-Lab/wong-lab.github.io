@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7812],{93460:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"electronic-optical-and-magnetic-materials","name":"electronic, optical and magnetic materials","count":1,"permalink":"/publications/tags/electronic-optical-and-magnetic-materials"}')}}]);

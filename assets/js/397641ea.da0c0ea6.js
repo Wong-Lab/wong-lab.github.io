@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4559],{98941:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"materials-chemistry","name":"materials chemistry","count":2,"permalink":"/publications/tags/materials-chemistry"}')}}]);

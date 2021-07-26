@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4317],{52455:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/publications/page/15","page":15,"postsPerPage":10,"totalPages":15,"totalCount":143,"previousPage":"/publications/page/14","nextPage":null,"blogDescription":"Wong Lab Publications","blogTitle":"Publications"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[936],{51365:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"microbiology-medical","name":"microbiology (medical)","count":2,"permalink":"/publications/tags/microbiology-medical"}')}}]);

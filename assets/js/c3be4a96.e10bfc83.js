@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6551],{40769:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"acs-appl-mater-interfaces","name":"acs appl. mater. interfaces","count":1,"permalink":"/publications/tags/acs-appl-mater-interfaces"}')}}]);

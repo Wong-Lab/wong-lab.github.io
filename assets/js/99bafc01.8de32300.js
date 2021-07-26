@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[4267],{72955:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"biomedical-engineering","name":"biomedical engineering","count":4,"permalink":"/publications/tags/biomedical-engineering"}')}}]);

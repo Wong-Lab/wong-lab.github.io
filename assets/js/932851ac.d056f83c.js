@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[1335],{9013:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"biochimica-et-biophysica-acta-bba-biomembranes","name":"biochimica et biophysica acta (bba) - biomembranes","count":2,"permalink":"/publications/tags/biochimica-et-biophysica-acta-bba-biomembranes"}')}}]);

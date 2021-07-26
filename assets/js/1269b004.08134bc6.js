@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[7908],{82958:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"gastroenterology","name":"gastroenterology","count":1,"permalink":"/publications/tags/gastroenterology"}')}}]);

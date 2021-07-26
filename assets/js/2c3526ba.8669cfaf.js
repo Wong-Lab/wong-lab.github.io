@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9025],{82306:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"angew-chem-int-ed","name":"angew. chem. int. ed.","count":2,"permalink":"/publications/tags/angew-chem-int-ed"}')}}]);

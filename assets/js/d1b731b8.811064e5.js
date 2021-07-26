@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[545],{3590:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"phys-biol","name":"phys. biol.","count":1,"permalink":"/publications/tags/phys-biol"}')}}]);

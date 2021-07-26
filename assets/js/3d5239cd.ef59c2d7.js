@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[6007],{62138:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"advances-in-colloid-and-interface-science","name":"advances in colloid and interface science","count":1,"permalink":"/publications/tags/advances-in-colloid-and-interface-science"}')}}]);

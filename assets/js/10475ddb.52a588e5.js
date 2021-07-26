@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[633],{39290:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"mrs-bull","name":"mrs bull.","count":1,"permalink":"/publications/tags/mrs-bull"}')}}]);

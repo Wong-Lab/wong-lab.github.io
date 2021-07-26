@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9502],{1679:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"journal-of-investigative-dermatology","name":"journal of investigative dermatology","count":1,"permalink":"/publications/tags/journal-of-investigative-dermatology"}')}}]);

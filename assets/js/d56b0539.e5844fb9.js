@@ -1,0 +1,1 @@
+(self.webpackChunkwonglab_web=self.webpackChunkwonglab_web||[]).push([[9741],{40156:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/publications/tags","slug":"p-lo-s-genet","name":"plos genet","count":1,"permalink":"/publications/tags/p-lo-s-genet"}')}}]);
