@@ -1,0 +1,259 @@
+- name: Gerard Wong
+  alt-names:
+    - Gerard C.L. Wong
+  role: Professor and Principal Investigator
+  affiliations:
+    - Department of Bioengineering
+    - Department of Chemistry & Biochemistry
+    - California Nanosystems Institute
+  office: 4121E Engineering V
+  email: gclwong@seas.ucla.edu
+  phone: 310-794-7684
+  fax: 310-794-5956
+  profile-img: 'gerard-wong.jpeg' 
+
+- name: Wujing Xian
+  role: Staff Scientist
+  email: wxian@ucla.edu
+  profile-img: 'wujing-xian.jpeg'
+
+- name: Yue Zhang
+  role: Post-doc
+  email: yuezhang123@ucla.edu
+
+- name: Calvin Lee
+  role: Post-doc
+  email: calvin.k.lee@ucla.edu
+  profile-img: 'calvin-lee.jpeg'
+
+- name: Jaime De Anda
+  role: Ph.D. Student
+  email: jaime77@ucla.edu
+  profile-img: 'jaime-de-anda.jpeg'
+
+- name: William Schmidt
+  role: Ph.D. Student
+  email: WSchmidt96@ucla.edu
+
+- name: Wei-Chia Luo
+  alt-names:
+    - Elizabeth W.C. Luo
+  role: Ph.D. Student
+  email: elizabethwcluo@ucla.edu
+
+- name: Jonathan Chen
+  role: Ph.D. Student
+  email: jwhc@ucla.edu
+
+- name: Ziwen Liu
+  role: Ph.D. Student
+  email: ziwenliu@ucla.edu
+
+- name: Giancarlo Santos
+  role: Alumni
+  former-role: Graduate Student
+
+- name: Juelline Lieng
+  role: Alumni
+  former-role: Undergraduate
+
+- name: Mandy Hung
+  role: Alumni
+  former-role: Undergraduate
+  
+- name: Yashes Srinivasan
+  role: Alumni
+  former-role: Undergraduate
+
+- name: Cole Malkoff
+  role: Alumni
+  former-role: Undergraduate
+
+- name: Ali Farhat
+  role: Alumni
+  former-role: Undergraduate
+  
+- name: Maria Contreras
+  role: Alumni
+  former-role: Undergraduate
+  
+- name: Chiara Mooney
+  role: Alumni
+  former-role: Undergraduate
+  
+- name: Jennifer Wang
+  role: Alumni
+  former-role: Undergraduate
+  
+- name: Veronica Veksler
+  role: Alumni
+  former-role: Undergraduate
+  
+- name: Charles Lomba
+  role: Alumni
+  former-role: Undergraduate 
+
+- name: Thomas Angelini
+  role: Alumni
+  former-role: Graduate Student
+  current-role: >-
+    Associate Professor, Mechanical & Aerospace Engineering Dept, University of Florida
+  website:
+    name: Angelini Lab
+    url: http://plaza.ufl.edu/t.e.angelini/
+
+- name: John Butler
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Olympus Microscopes	
+
+- name: Jacinta Conrad
+  role: Alumni
+  former-role: Postdoc
+  current-role: >-
+    Associate Professor, Chemical & Biomolecular Engineering Dept, University of Houston
+  website:
+    name: Conrad Lab
+    url: http://www.chee.uh.edu/faculty/conrad
+
+- name: Robert Coridan
+  role: Alumni
+  former-role: Graduate Student
+  current-role: >-
+    Assistant Professor, Chemistry and Biochemistry, University of Arkansas
+  website:
+    name: Coridan Lab
+    url: http://comp.uark.edu/~rcoridan/index.html
+
+- name: Maxsim Gibiansky
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Staff Data Scientist at Proteus Digital Health
+  website:
+    name: Proteus Digital Health
+    url: http://www.proteus.com/
+
+- name: Vernita Gordon
+  role: Alumni
+  former-role: Postdoc
+  current-role: Assistant Professor, Physics Dept, University of Texas at Austin
+  website:
+    name: Gordon Lab
+    url: http://chaos.utexas.edu/people/faculty/vernita-gordon
+
+- name: Evelyn Huang
+  role: Alumni
+  former-role: Undergrad
+  current-role: Family Medicine Resident, St. Vincent Hospital	
+
+- name: Fan Jin
+  role: Alumni
+  former-role: Postdoc
+  current-role: Professor, Bio-X Dept, USTC China	Jin Lab
+  website:
+    name: Jin Lab
+    url: http://en.hfnl.ustc.edu.cn/2017/1130/c14131a210254/page.htm
+
+- name: Ghee Hwee Lai
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Research Scientist	
+
+- name: Langfang Li
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Graduate Student	
+
+- name: Hongjun Liang
+  role: Alumni
+  former-role: Graduate Student
+  current-role: >-
+    Associate Professor, Department of Cell Physiology and Molecular Biophysics,
+    Center for Membrane Protein Research, Texas Tech University Health Sciences
+    Center
+  website: 
+    name: Liang Lab
+    url: https://www.ttuhsc.edu/medicine/cell-physiology-molecular-biophysics/faculty/liang/
+
+- name: Abhijit Mishra
+  role: Alumni
+  former-role: Graduate Student
+  current-role: >-
+    Assistant Professor, Materials Science and Engineering, IIT Gandhinagar
+  website:
+    name: Mishra Lab
+    url: http://www.iitgn.ac.in/faculty/mems/abhijit.htm
+
+- name: Kirstin Purdy
+  role: Alumni
+  former-role: Postdoc
+  current-role: Lecturer, Physics, Pennsylvania State University
+  website: 
+    name: Kirstin Purdy
+    url: http://www.phys.psu.edu/people/krp15
+
+- name: Olena Rudko
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Graduate Student	
+
+- name: Lori Sanders
+  role: Alumni
+  former-role: Postdoc
+  current-role: Postdoc	
+
+- name: Nathan Schmidt
+  role: Alumni
+  former-role: Postdoc
+  current-role: Postdoc, UCSF, Prof. William DeGrado	
+
+- name: Scott Slimmer
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Postdoc	
+
+- name: Ivan Smalyukh
+  role: Alumni
+  former-role: Visiting Scientist
+  current-role: Associate Professor, Physics Dept, University of Colorado
+  website:
+    name: Smalyukh Lab
+    url: https://www.colorado.edu/soft-matter-physics/
+
+- name: Lihua Yang
+  role: Alumni
+  former-role: Graduate Student
+  current-role: Associate Professor, Materials Science Dept, USTC, China
+  website:
+    name: Yang Lab
+    url: http://en.scms.ustc.edu.cn/2011/0704/c7154a89394/page.psp
+
+- name: Kun Zhao
+  role: Alumni
+  former-role: Postdoc
+  current-role: Professor, Physics Dept, Tianjin University
+  website:
+    name: Zhao Lab
+    url: http://chemeng.tju.edu.cn/en/people;jsessionid=DD2440844AA21C61EE8E33F3F5617E02?type=detail&id=272
+
+- name: Andy Utada
+  role: Alumni
+  former-role: Postdoc
+  current-role: >-
+    Associate Professor, Life and Environmental Sciences Dept, University of Tsukuba
+  website:
+    name: Utada Lab
+    url: http://www.trios.tsukuba.ac.jp/en/researcher/0000003853
+
+- name: Michelle W. Lee
+  role: Alumni
+  former-role: Post-doc
+
+- name: Ernest Y. Lee
+  role: Alumni
+  former-role: Graduate Student
+  current-role: >-
+    Internal Medicine Resident at Cedars-Sinai Medical Center
+  website:
+    name: Ernest Lee
+    url: https://ernest-lee.github.io/

@@ -1,0 +1,1661 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <script>
+        dataLayer = [{'internal':'false'
+        
+        ,'user_personal':'false'
+        ,'physician':''
+        ,'prof_group':''
+        ,'prof_name':''
+        ,'prof_spec':''
+        ,'prof_environment':''
+        ,'user_institutional':'62293bef344c494fc987a249881e5caf'
+    
+,'article_title':'Front &amp; Back Matter'
+,'article_id':'481584'
+,'product_yop':'2017'
+,'issue_title':'Journal of Innate Immunity 2017, Vol. 9, No. 5'
+,'issue_id':'276623'
+,'product_ISSN':'1662-811X'
+,'product_eISSN':'1662-8128'
+,'product_subject':'Immunology'
+,'product_subject_area':'Immunology and Allergy'
+,'journal_title':'Journal of Innate Immunity'
+,'journal_id':'234234'
+
+
+
+
+
+
+}];
+    </script>
+
+    <!-- Google Tag Manager-->
+<script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l !== 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TZ3XGMX');</script>
+<!-- End Google Tag Manager -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title>
+Front & Back Matter - Abstract - Journal of Innate Immunity 2017, Vol. 9, No. 5 - Karger Publishers</title>
+    <meta name="robots" content="index, follow" />
+
+
+<script>
+    var Hyphenopoly = {
+        require: {
+            "de": "Silbentrennungsalgorithmus",
+            "en": "Supercalifragilisticexpialidocious",
+            "en-us": "Supercalifragilisticexpialidocious"
+        },
+        fallbacks: {
+            "en": "en-us"
+        },
+        setup: {
+            selectors: {
+                ".lp_header_title p": {}
+                //add more selectors as needed!
+            }
+        },
+        paths: {
+            patterndir: "/Scripts/hyphenopoly/patterns/",
+            maindir: "/Scripts/hyphenopoly/"
+        },
+        handleEvent: {
+            error: function (e) {
+                e.preventDefault(); //don't show error messages in console
+            }
+        }
+    };
+</script>
+<script src="/Scripts/hyphenopoly/Hyphenopoly_Loader.js"></script>
+
+
+
+
+<!-- Font Awesome 5 with backward compatibility -->
+<script src="https://kit.fontawesome.com/5126fcf8c4.js" crossorigin="anonymous" async></script>
+<!-- // Font Awesome 5 with backward compatibility -->
+
+<link rel="stylesheet" href="/Content/IEFixes.min.css" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+
+<script src="/bundle/js_core?v=omtoXIPgXJhN-cyo0srHIH5DKZQumP0MSPBxQp7QKqc1"></script>
+
+
+<link href="/bundle/css_core?v=fkILcE6w2p8rJatFaFZNdlsDis4d0cePyzTnPMSm_141" rel="stylesheet"/>
+
+
+<!-- Google reCaptcha-->
+<script src="https://www.google.com/recaptcha/api.js?render=6LcPF5kUAAAAACAfuKyBw-toMgsmTIxhTgGaGlGc" async></script>
+<script>
+    var reCAPTCHA_site_key = '6LcPF5kUAAAAACAfuKyBw-toMgsmTIxhTgGaGlGc'; //Used in peopleModal.js
+    $(document).ready(function () {
+        initReCaptcha();
+    });
+
+    function initReCaptcha() {
+        if (typeof grecaptcha !== 'undefined') {
+            grecaptcha.ready(function () {
+                grecaptcha.execute(reCAPTCHA_site_key, { action: 'Article' });
+            });
+        } else {
+            setTimeout(function () { initReCaptcha(); }, 500);
+        }
+    }
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="shortcut icon" href="/Images/icon/favicon.ico?v=2" />
+    <link rel="apple-touch-icon" href="/Images/icon/touch-icon-iphone.png?v=2" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/Images/icon/touch-icon-ipad.png?v=2" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/Images/icon/touch-icon-iphone-retina.png?v=2" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/Images/icon/touch-icon-ipad-retina.png?v=2" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/Content/print.min.css" media="print" />
+
+    
+    
+
+
+
+<script src="https://scholar.google.com/scholar_js/casa.js" async></script>
+
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.karger.com/Article/FullText/481584" />
+<meta property="og:title" content="Front &amp; Back Matter" />
+<meta property="og:description" content="" />
+
+    <meta property="og:image" content="https://www.karger.com/Images/KargerLogo_article.png" />     <meta property="og:image" content="https://www.karger.com/Article/ShowPic/481584/?image=000481584-1.jpg" />
+
+
+
+    <link rel="alternate" type="application/rss+xml" title="last 20 articles" href="/Rss/JIN" />
+<meta name="citation_title" content="Front &amp; Back Matter" />
+<meta name="citation_author" content="Ethan Stolzenberg" />
+<meta name="citation_author" content="Deborah Berry" />
+<meta name="citation_author" content="De Yang" />
+<meta name="citation_author" content="Ernest Y. Lee" />
+<meta name="citation_author" content="Alexander Kroemer" />
+<meta name="citation_author" content="Stuart Kaufman" />
+<meta name="citation_author" content="Gerard C.L. Wong" />
+<meta name="citation_author" content="Joost J. Oppenheim" />
+<meta name="citation_author" content="Supti Sen" />
+<meta name="citation_author" content="Thomas Fishbein" />
+<meta name="citation_author" content="Ad Bax" />
+<meta name="citation_author" content="Brent Harris" />
+<meta name="citation_author" content="Sara Tengvall" />
+<meta name="citation_author" content="Peter Bergman" />
+<meta name="citation_author" content="Anders Lindén" />
+<meta name="citation_author" content="Margaretha E. Smith" />
+<meta name="citation_author" content="Marit Stockfelt" />
+<meta name="citation_author" content="Ingemar Qvarfordt" />
+<meta name="citation_author" content="Peter Pickkers" />
+<meta name="citation_author" content="Tamar Tak" />
+<meta name="citation_author" content="Roger van Groenendael" />
+<meta name="citation_author" content="Leo Koenderman" />
+<meta name="citation_author" content="Denise Barbut" />
+<meta name="citation_author" content="Michael A. Zasloff" />
+<meta name="citation_author" content="Delphine Chaduli" />
+<meta name="citation_author" content="Bernard Charroux" />
+<meta name="citation_author" content="Julien Royet" />
+<meta name="citation_author" content="Florence Capo" />
+<meta name="citation_author" content="Annelise Viallat-Lieutaud" />
+<meta name="citation_author" content="Tina Nham" />
+<meta name="citation_author" content="Evan Lusty" />
+<meta name="citation_author" content="Ali A. Ashkar" />
+<meta name="citation_author" content="Margaret J. Larché" />
+<meta name="citation_author" content="Dean A. Lee" />
+<meta name="citation_author" content="Viviane Labrie" />
+<meta name="citation_author" content="Patrik Brundin" />
+<meta name="citation_author" content="Sophie M. Poznanski" />
+<meta name="citation_author" content="Amanda J. Lee" />
+<meta name="citation_author" content="Keiichi Iwaya" />
+<meta name="citation_author" content="Manabu Kinoshita" />
+<meta name="citation_author" content="Hiromi Miyazaki" />
+<meta name="citation_author" content="Hiroyuki Nakashima" />
+<meta name="citation_author" content="Masahiro Nakashima" />
+<meta name="citation_author" content="Makoto Nishikawa" />
+<meta name="citation_author" content="Takuya Ishikiriyama" />
+<meta name="citation_author" content="Shoichiro Kato" />
+<meta name="citation_author" content="Sadayuki Hiroi" />
+<meta name="citation_author" content="Nariyoshi Shinomiya" />
+<meta name="citation_author" content="Shuhji Seki" />
+<meta name="citation_author" content="Kelly Roveran Genga" />
+<meta name="citation_author" content="James A. Russell" />
+<meta name="citation_author" content="Satz Mengensatzproduktion" />
+<meta name="citation_author" content="Druckerei Stückle" />
+<meta name="citation_author" content="Druckerei Stückle" />
+
+
+
+    <meta name="citation_online_date" content="2017/09/19" />
+    <meta name="citation_publication_date" content="2017" />
+
+<meta name="citation_publisher" content="Karger Publishers" />
+<meta name="citation_doi" content="10.1159/000481584" />
+    <meta name="citation_fulltext_world_readable" content="" />
+    <meta name="citation_volume" content="9" />
+    <meta name="citation_issue" content="5" />
+
+<meta name="citation_language" content="english" />
+<meta name="citation_abstract_html_url" content="https://www.karger.com/Article/Abstract/481584" />
+<meta name="citation_fulltext_html_url" content="https://www.karger.com/Article/FullText/481584" />
+<meta name="citation_pdf_url" content="https://www.karger.com/Article/Pdf/481584" />
+
+    <meta name="citation_journal_title" content="Journal of Innate Immunity" />
+    <meta name="citation_journal_abbrev" content="JIN" />
+    <meta name="citation_issn" content="1662-811X" />
+    <meta name="citation_issn" content="1662-8128" />
+
+
+    <meta name="date-creation-yyyymmdd" content="20170919" />
+<meta name="keywords" content="Journal of Innate Immunity 2017, Vol. 9, No. 5, 276623" />
+
+
+
+    <meta name="subject" content="Immunology" />
+
+
+
+
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" />
+
+
+
+
+    <style type="text/css">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </style>
+    
+    <script src="https://cdn.pbgrd.com/core-karger.js" async></script>
+    <script src="/Scripts/readmore.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.scrollNav.min.js" type="text/javascript"></script>
+    <script src="/Scripts/custom.FullText.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.bxslider_new.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var doiformatted = '10.1159/000481584';
+            var actualArticle = '481584';
+
+            loadDataInline(doiformatted, '#resultUnsiloInline', '/ASync/GetSimilarArticlesUnsiloAsync');
+            //loadData(doiformatted);
+
+            $("#keyworSelector").hide();
+
+            $("#closeSelector").click(function (e) {
+                e.preventDefault();
+                $("#keyworSelector").slideToggle("slow");
+            });
+
+            $(".dkeyword").click(function (e) {
+                e.preventDefault();
+                $('#pdata').html('<i class="far fa-spinner fa-pulse"></i> Loading...');
+                $('#selectedKeyword').html($(this).data('option'));
+
+                $("#keyworSelector").slideDown("slow");
+
+                $.ajax({
+                    url: '/ASync/GetQueryArticlesAsync',
+                    data: "query=" + $(this).data('option') + "&artNr=481584",
+                    success: function (data) {
+                        $('#pdata').html('');
+
+                        var items = [];
+                        var i = 0;
+                        items.push('<div><ul>');
+                        $.each(data, function (key, val) {
+                            if (val.ArtikelNummer !== actualArticle) {
+                                i++;
+                                items.push('<li id="' + key + '"><a href="/Article/FullText/' + val.ArtikelNummer + '" title="' + val.ArtikelCitation + ' (DOI: 10.1159/' + ('000000000' + val.ArtikelNummer).slice(-9) + ')"  onclick="ga(\'send\', \'event\', \'FullText\', \'Select Related Article\', \'Keyword Box\');">' + val.ArtikelTitel + '</a><br /><div style="font-size:12px;color:#333;">' + val.ArtikelCitation + '</div></li>');
+                            }
+                        });
+                        items.push('</ul></div>');
+                        if (i > 0) {
+                            $('<span/>', {
+                                html: items.join('')
+                            }).appendTo($('#pdata'));
+                        } else {
+                            $('<span>Sorry, no further results found</span>').appendTo($('#pdata'));
+                        }
+                    }
+                });
+            });
+
+        });
+
+        
+
+        var relatedArticlesSlider = undefined;
+
+        function loadDataInline(doiformatted, divId, urlAsync) {
+            $(divId).html('');
+            $('#TapRelatedContainer').hide();
+            $.ajax({
+                url: urlAsync,
+                data: "doiformatted=" + doiformatted + "&textlength=180&authorsCount=4&titlelength=100",
+                success: function (data) {
+                    var items = [];
+                    var i = 0;
+                    items.push('<div class="relatedArticlesSlider">');
+                    $.each(data, function (key, val) {
+                        i++;
+                        var sliderItem = '<div class="slide ' + val.ArticleType + '" id="' + key + '">';
+                        if (val.LogoUrl !== "") {
+                            sliderItem += '<a href="/Article/FullText/' + val.ArtikelNummer + '" title="' + val.ArtikelCitation + ' (DOI: 10.1159/' + ('000000000' + val.ArtikelNummer).slice(-9) + ')" onclick="ga(\'send\', \'event\', \'FullText\', \'Select Related Article\', \'Sidebar\');" class="NoArrow"><img src="' + val.LogoUrl + '" alt="Journal Logo" /></a>';
+                        } else {
+                            sliderItem += '<span class="relatedArticlesPlaceholder"></span>';
+                        }
+                        sliderItem += '<span class="smallText citation">' + val.ArtikelCitation + '</span>';
+                        sliderItem += '<a style="display: inline-block; margin-bottom:5px;" href="/Article/FullText/' + val.ArtikelNummer + '" title="' + val.ArtikelCitation + ' (DOI: 10.1159/' + ('000000000' + val.ArtikelNummer).slice(-9) + ')" onclick="ga(\'send\', \'event\', \'FullText\', \'Select Related Article\', \'Sidebar\');"><strong>' + val.ArtikelTitel + '</strong></a>';
+                        sliderItem += '<span class="smallText">' + val.Authors + '</span>';
+                        sliderItem += '<span>' + val.Abstract + '</span>';
+                        sliderItem += '<a class="goToLink" href="/Article/FullText/' + val.ArtikelNummer + '" title="' + val.ArtikelCitation + ' (DOI: 10.1159/' + ('000000000' + val.ArtikelNummer).slice(-9) + ')" onclick="ga(\'send\', \'event\', \'FullText\', \'Select Related Article\', \'Sidebar\');"><strong>Go to Article</strong></a>';
+                        sliderItem += '</div>';
+                        items.push(sliderItem);
+                    });
+                    items.push('</div><br/>');
+                    if (i > 0) {
+                        $('#TapRelatedContainer').show();
+                        $('<span/>', {
+                            html: items.join('')
+                        }).appendTo($(divId));
+                        if ($(document).width() <= 500) {
+                            loadSlider(1.7, 1.0);
+                        } else {
+                            loadSlider(2.4, 1.4);
+                        }
+                    }
+                }
+            });
+        }
+
+        function loadSlider(maxSlides, moveSlides) {
+            if (relatedArticlesSlider !== undefined) {
+                relatedArticlesSlider.destroySlider();
+            }
+
+            relatedArticlesSlider = $('.relatedArticlesSlider').bxSlider({
+                pager: false,
+                slideWidth: 240,
+                minSlides: maxSlides,
+                maxSlides: maxSlides,
+                moveSlides: moveSlides,
+                infiniteLoop: false,
+                slideMargin: 10,
+                adaptiveHeight: false,
+                preventDefaultSwipeY: false,
+                oneToOneTouch: false,
+                nextSelector: '#relatedArticlesNext',
+                prevSelector: '#relatedArticlesPrev',
+                nextText: '<i class="fas fa-chevron-right"></i>',
+                prevText: '<i class="fas fa-chevron-left"></i>',
+                hideControlOnEnd: true,
+                onSliderResize: function (currentIndex) {
+                    if ($(document).width() <= 500) {
+                        loadSlider(1.7, 1.0);
+                    } else {
+                        loadSlider(2.4, 1.4);
+                    }
+                },
+                onSlideAfter: function (slideElement, oldIndex, newIndex) {
+                    //console.log(oldIndex + " - " + newIndex);
+                }
+            });
+        }
+    </script>
+
+    <script src="/Scripts/jquery.plugin_password_strength.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+            $('#RePassword').password_strength();
+        });
+    </script>
+
+    <script type="text/javascript" src="//content.readcube.com/karger/checkout.js"></script>
+
+
+
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+        window.cookieconsent_options = {
+            "message": "This website uses cookies to ensure you get the best experience on our website. By using this website, you agree with the Karger Cookie Policy.",
+            "dismiss": "Got it",
+            "learnMore": "More info",
+            "link": "/Info/PrivacyPolicy",
+            "theme": "dark-top",
+            markup: ['<div class="cc_banner-wrapper {{containerClasses}}">', '<div class="cc_banner cc_container cc_container--open">', '<p class="cc_message">{{options.message}} <a data-cc-if="options.link" target="{{ options.target }}" class="cc_more_info" href="{{options.link || "#null"}}">{{options.learnMore}}</a></p>', '<a href="#" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">{{options.dismiss}}</a>', '', "</div>", "</div>"]
+        };
+    </script>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+
+</head>
+
+<body>
+    
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZ3XGMX"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <noscript>
+        <div id="jsnotice" class="prompt-bar">
+            <p>
+                JavaScript is currently disabled, this site works much better if you enable JavaScript in your browser.
+            </p>
+        </div>
+    </noscript>
+    <script>
+        function statusChangeCallback(response) {
+            console.log('statusChangeCallback');
+            //console.log(response);
+            if (response.status === 'connected') {
+                // Logged into your app and Facebook.
+                window.location = "https://www.karger.com/MyKarger/FacebookLogin/" +
+                           response.authResponse.accessToken +
+                           "/?returnURL=" + "";
+            }
+        }
+        function executeFacebookLogin() {
+            track_MyKarger_Login_wFB();
+
+            FB.login(function (response) {
+                statusChangeCallback(response);
+            }, {scope: 'public_profile,email'});
+        }
+    </script>
+
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=1643959495891315&autoLogAppEvents=0&status=1"></script>
+
+    <!-- contact form modal -->
+    <div id="peopleModal" class="modal fade" style="display:none;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Username" aria-hidden="true">&times;</button>
+        <span id="contactPeopleTitle"></span>
+        <hr />
+        <form name="formular" action="/Form/PeopleContact" method="post" class="formController">
+            <input type="hidden" id="url" name="url" value="/Article/Abstract/481584" />
+            <input type="hidden" id="EmployeeNr" name="EmployeeNr" value="0" />
+            <input type="hidden" id="directMail" name="directMail" value="" />
+            <input type="hidden" id="dataSubject" name="dataSubject" value="" />
+            <input type="hidden" id="gtoken" name="gtoken" value="delete me" />
+            <input type="hidden" id="grcAction" name="grcAction" value="" />
+            <fieldset class="peopleContactForm">
+                <div class="control-group">
+                    <label class="control-label" for="title">Title</label>
+                    <div class="controls">
+                        <select id="title" name="title">
+                            <option value="*">(Title)</option>
+                            <option value="Mr">Mr</option>
+                            <option value="Ms">Ms</option>
+                            <option value="Dr.">Dr.</option>
+                            <option value="Professor">Professor</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="firstName">First Name*</label>
+                    <div class="controls">
+                        <input type="text" id="firstName" name="firstName" class="inputMandatory" data-placeholder="*Required" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="lastName">Last Name*</label>
+                    <div class="controls">
+                        <input type="text" id="lastName" name="lastName" class="inputMandatory" data-placeholder="*Required" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="company">Company/Institution </label>
+                    <div class="controls">
+                        <input type="text" id="company" name="company" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="email">E-Mail*</label>
+                    <div class="controls">
+                        <input type="text" id="email" name="email" class="inputMandatory" data-placeholder="*Required" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="message">Message</label>
+                    <div class="controls">
+                        <textarea id="message" name="message" cols="23" rows="10"></textarea>
+                    </div>
+                </div>
+                <p class="klein">*indicates required fields</p>
+                <div class="control-group">
+                    <label class="control-label" for="input01"></label>
+                    <div class="controls">
+                        
+                        <p><input class="btn" type="submit" value="Submit"></p>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+        <div class="small">
+            This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+        </div>
+    </div>
+    <!-- contact form modal end-->
+
+    <script>
+
+    </script>
+
+    <a name="top" id="top"></a>
+
+    <div class="container-fluid" id="web">
+        <div class="navbar navbar navbar-fixed-top hidden-desktop visible-tablet visible-phone" id="mobilemain">
+            <div class="navbar-inner">
+                <div id="mobilemain_header">
+                    <div class="container-fluid">
+                        <a class="brand NoArrow" href="/">
+                            <img src="/images/Karger_White_152px.png" alt="Karger Publishers" />
+                        </a>
+                        <div id="mobilemainButtons">
+
+                            <button type="button" class="btn btn-navbar collapsed" data-toggle="collapse" data-target="#hsearch">
+                                <i class="fal fa-search"></i>
+                            </button>
+
+                            <span id="selectionInfo">
+                                <a href="/MyKarger/MySelection" data-gtmnav="nav_header_mykarger-reading-list" class="btn btn-navbar">
+                                        <span class="selectionInfoIcon"><i class="fal fa-bookmark"></i></span>
+                                    <span class="selectionInfoNr">0</span>
+                                </a>
+                            </span>
+
+                            <span id="cartInfo">
+                                <a href="/MyKarger/MyCart" data-gtmnav="nav_header_mykarger-cart" class="btn btn-navbar">
+                                        <span class="cartInfoIcon"><i class="fal fa-shopping-cart"></i></span>
+                                    <span class="cartInfoNr">0</span>
+                                </a>
+                            </span>
+
+                            <span>
+                                <a href="/MyKarger/Index" data-gtmnav="nav_header_mykarger-overview" class="btn btn-navbar">
+                                            <span class="Icon_Institutional"></span>
+                                </a>
+                            </span>
+
+                            <a href="#menu" class="btn btn-navbar mobibtn" onclick="toggleNav()"><i class="far fa-bars"></i><i class="far fa-times" style="display: none"></i></a>
+
+                        </div>
+                    </div>
+
+                        <div class="institutionalMessage">
+                            UCLA Biomedical Library                                <br /><img src="/MyKarger/ShowLogo/30099" alt="logo" />
+                        </div>
+                </div>
+                <div>
+                    <div class="nav-collapse collapse center" id="hsearch" style="height: 0px;">
+                        <form method="get" name="q" action="/Search/" id="searchmobile">
+                            <input class="form-control ais-search-box--input" name="q" placeholder="What are you looking for?" autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" value="" type="text" aria-label="Homepage Search">
+                            <button class="btn btn-karger iconLink" type="submit" name="q_Submit" data-gtmnav="nav_header_search" alt="Submit Search" aria-label="Submit Homepage Search"><i class="far fa-search"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+                        
+            <div id="jsAlertBoxMobile" class="alert" style="display:none;"><a class="close" data-dismiss="alert" href="#">&times;</a><span></span></div>
+
+            
+        </div>
+
+        <div id="headerContainer" class="row-fluid">
+
+            <div id="header" class="visible-desktop hidden-tablet hidden-phone">
+                <div id="headerContent" class="row-fluid">
+                    <div class="span7">
+                        <div class="brand-logo">
+                            <a href="/" title="Karger Home" class="NoArrow NoLink">
+                                <img src="/images/Karger_White_152px.png" alt="Karger Publishers" />
+                                
+                            </a>
+                        </div>
+                        <nav id="headerMenu" class="visible-desktop">
+                            <ul>
+                                <li  id="jmenu"><a data-gtmnav="nav_header_journal-index" href="/Journal/Index">Journals</a></li>
+                                <li    id="bmenu">
+                                    <a data-gtmnav="nav_header_book-index" href="/Book/Index">Books</a>
+                                </li>
+                                <li ><a href="/MyKarger/LoginThinkific" target="_blank" data-gtmnav="nav_header_courses">Courses</a></li>
+                                <li   id="cmenu">
+                                    <a data-gtmnav="nav_header_online-collections" href="/Collections/OverviewCollections">Collections</a>
+                                </li>
+                                <li ><a href="/SubjectArea" data-gtmnav="nav_header_subject-area-index">Subject Guide</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div class="span5">
+                        <div class="header-icons">
+
+                                <div class="divenderElement pr-0 loginIcon">
+                                            <a href="/MyKarger/Index" class="NoArrow" data-toggle="tooltip" rel="tooltip" data-placement="bottom" data-container="body" title="UCLA Biomedical Library                                ">
+                                                <span class="Icon_Institutional"></span> Login
+                                            </a>
+
+
+                                        <div class="institutionalMessage">
+                                            UCLA Biomedical Library                                <br /><img src="/MyKarger/ShowLogo/30099" alt="logo" />
+                                        </div>
+
+                                </div>
+
+                            <div class="divenderElement">
+                                <span id="cartInfo" data-toggle="tooltip" rel="tooltip" data-placement="bottom" data-container="body" title="Cart">
+                                    <a href="/MyKarger/MyCart" data-gtmnav="nav_header_mykarger-cart" class="NoArrow">
+                                            <span class="cartInfoIcon"><i class="fal fa-shopping-cart"></i></span>
+                                        <span class="cartInfoNr">0</span>
+                                    </a>
+                                </span>
+                            </div>
+
+                            <div class="divenderElement">
+                                <span id="selectionInfo" data-toggle="tooltip" rel="tooltip" data-placement="bottom" data-container="body" title="Reading List">
+                                    <a href="/MyKarger/MySelection" data-gtmnav="nav_header_mykarger-reading-list" class="NoArrow">
+                                            <span class="selectionInfoIcon"><i class="fal fa-bookmark"></i></span>
+                                        <span class="selectionInfoNr">0</span>
+                                    </a>
+                                </span>
+                            </div>
+
+
+                            <div class="divenderElement headerSearchIcon dNone">
+                                <a href="javascript:void(0)" class="NoArrow collapsed" data-toggle="collapse" data-target="#nhsearch"><i class="fal fa-search"></i></a>
+                            </div>
+
+                            <div class="clear"></div>
+
+                            <div class="text-right">
+                                <div class="divenderElement hsearch pr-0">
+                                    <form method="get" name="q" action="/Search/" id="searchtopbar">
+                                        <input type="text" class="form-control" name="q" placeholder="What are you looking for?" aria-label="Homepage Search"><button id="q_Submit" class="btn btn-karger" type="submit" name="q_Submit" data-gtmnav="nav_header_search" alt="Submit Search" aria-label="Submit Homepage Search"><i class="far fa-search"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="nav-collapse collapse" id="nhsearch" style="height: 0px;">
+
+                <form method="get" name="q" action="/Search/" id="searchnewheader">
+                    <input class="form-control ais-search-box--input" name="q" placeholder="What are you looking for?" autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" value="" type="text" aria-label="Homepage Search">
+                    <button class="btn btn-karger iconLink" type="submit" name="q_Submit" data-gtmnav="nav_header_search" alt="Submit Search" aria-label="Submit Homepage Search"><i class="far fa-search"></i></button>
+                </form>
+
+            </div>
+
+
+
+            <div>
+                    <div class="row-fluid submenu">
+
+
+
+<a data-toggle="collapse" data-target=".mnav-collapse" class="btn slide-in hidden-desktop collapsed">
+    Journal Menu
+</a>
+<div class="navbar nav-collapse mnav-collapse">
+    <ul class="nav submenu" id="journalMenu">
+
+
+            <li ><a class="" data-gtmnav="nav_sub_journal-home" href="/Journal/Home/234234">Journal Home</a></li>
+                <li ><a data-gtmnav="nav_sub_journal-about" href="/Journal/Details/234234">About This Journal</a></li>
+                <li ><a data-gtmnav="nav_sub_journal-guidelines" href="/Journal/Guidelines/234234">Guidelines</a></li>
+                <li ><a data-gtmnav="nav_sub_journal-contact" href="/Journal/Contact/234234">Journal Contact</a></li>
+            <li class="visible-phone"><a href="/Journal/Home/234234#years">Contents: all years</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    $("#jmenu").addClass("active");
+</script>
+</div>
+
+                <div class="visible-desktop hidden-tablet hidden-phone">
+                                        
+                    <div id="jsAlertBox" class="alert" style="display:none;"><a class="close" data-dismiss="alert" href="#">&times;</a><span></span></div>
+
+                    
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="clear"></div>
+
+        <div id="mainContent" class="row-fluid">
+            <div class="span6 content">
+                <div class="inhalt">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="divAjax" loadUrl="/ASync/AGetWerbung?pNr=234234&typ=1&urlC=Article&urlA=Abstract"></div>
+    <div Class="row-fluid">
+
+        <div Class="span6 alpha">
+            
+            <h2>Journal of Innate Immunity</h2>
+        </div>
+        <div class="span6 omega">
+        </div>
+    </div>
+
+
+<div class="clear"></div>
+
+
+
+
+
+<div id="title">
+    
+    
+
+    <div>
+         <div class="row-fluid">
+                 <div class="span8">
+                    <h3>Front and Back Matter</h3>
+                 </div>
+
+                    <div class="span4 right">
+                        <span class="text-right">
+                            <b>Free Access</b>
+                        </span>
+                    </div>
+                     </div>
+    </div>
+
+<Table class="articleTable" style="margin-right: 5px;border: 0;">
+                  
+        <tr>
+        <td class="pagenr" width="7%"
+                             style="width:0;padding:0"
+            >
+             </td>                                  <td style = "border:0px;" valign="top" width="100%">
+
+                    <h1 class="abstractbig">Front & Back Matter</h1>
+
+                        <span class="autoren">
+
+              </span>
+
+
+
+
+
+            
+             
+    
+
+
+
+
+            
+
+        
+                <div Class="clear"></div>
+                <div id="keyworSelector" >
+                    <span style="float:right;"><a href="#" id="closeSelector" class="small NoArrow"><i class="far fa-times" aria-hidden="true"></i></a></span><h4 id="myModalLabel">Related Articles for "<span id="selectedKeyword"></span>"</h4>
+                    <div id="pdata" ></div>  
+                </div>
+    </td>
+    
+
+    
+    </tr>
+    <tr>
+        <td colspan="2">
+                
+        </td>    
+    </tr>
+</table>
+
+
+<script>
+    function keywordSelector() {
+        $('#keyworSelector').show();
+        $(window).scrollTop($('#keyworSelector').offset().top);
+    }
+</script>
+
+<div class="articleDetails">
+    <div class="row-fluid">
+        <div class="span12">
+J Innate Immun 2017;9:X        </div>
+    </div>
+    <div class="row-fluid">
+        <div Class="span12">
+            <a href="https://doi.org/10.1159/000481584" class="blocklink">https://doi.org/10.1159/000481584</a>
+        </div>
+        
+    </div>
+</div>
+
+</div>
+
+<div class="clear"></div>
+<a name="abstract"></a>
+<div class="tabbable">
+<ul class="nav nav-tabs small">
+    <li class="active"><a href="/Article/Abstract/481584">Abstract</a></li>
+    
+
+    <li><a href="/Article/Pdf/481584" target="_blank" onclick="ga('send', 'event', 'FullText', 'Download', 'Tab FullText PDF');">PDF</a></li>
+
+    
+</ul>
+<div class="tab-content">
+
+
+
+<div class="tab-pane active" id="tab3">
+         
+                <br /><strong>First-Page Preview</strong><br /> 
+                <a href="/Article/ShowPic/481584/?image=000481584-1.jpg" class="imagebox cboxElement NoArrow"><img  src="/Article/ShowPic/481584/?image=000481584-1.jpg" alt="Abstract of Front and Back Matter" /></a>
+
+
+
+    
+    
+    <div id="TapRelatedContainer">
+        <br />
+        <hr />
+
+            <br />
+            <h2 class="ignoreScrollNav" style="margin-bottom: 10px; color:#555555;">Related Articles:</h2>
+
+        
+        <div class="relatedArticlesContainer">
+            <div id="resultUnsiloInline"></div>
+            <div id="relatedArticlesPrev"></div>
+            <div id="relatedArticlesNext"></div>
+        </div>
+    </div>
+
+    
+
+            
+
+
+<hr />
+<a name="AI"></a><a name="PD"></a>
+<h2>Article / Publication Details</h2>
+
+ <div class="row-fluid"> 
+   <div class="span6 small adetails">       
+   <p>
+Published online: September 19, 2017<br />
+Issue release date: September 2017</p>
+
+<p>
+ISSN: <a href="https://www.karger.com/?issn=1662-811X">1662-811X</a> (Print) <br />eISSN: <a href="https://www.karger.com/?issn=1662-8128">1662-8128</a> (Online)</p>
+
+<p>
+For additional information: <a href="https://www.karger.com/JIN/">https://www.karger.com/JIN</a>    
+</p>
+</div>
+</div>
+
+
+</div>
+
+
+<div class="tab-pane" id="tab6">
+
+</div>
+
+
+<div class="tab-pane" id="tab8">
+    <div class="">
+
+
+
+
+    </div>
+</div>
+</div>
+</div>
+
+
+<hr />
+<a name="Dosage"></a>
+
+<h2>Copyright / Drug Dosage / Disclaimer</h2>
+Copyright: All rights reserved. No part of this publication may be translated into other languages, reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying, recording, microcopying, or by any information storage and retrieval system, without permission in writing from the publisher.<br />
+Drug Dosage: The authors and the publisher have exerted every effort to ensure that drug selection and dosage set forth in this text are in accord with current recommendations and practice at the time of publication. However, in view of ongoing research, changes in government regulations, and the constant flow of information relating to drug therapy and drug reactions, the reader is urged to check the package insert for each drug for any changes in indications and dosage and for added warnings and precautions. This is particularly important when the recommended agent is a new and/or infrequently employed drug.<br />
+Disclaimer: The statements, opinions and data contained in this publication are solely those of the individual authors and contributors and not of the publishers and the editor(s). The appearance of advertisements or/and product references in the publication is not a warranty, endorsement, or approval of the products or services advertised or of their effectiveness, quality or safety. The publisher and the editor(s) disclaim responsibility for any injury to persons or property resulting from any ideas, methods, instructions or products referred to in the content or advertisements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+
+                <div Class="span3">
+                    <div Class="sidebar">
+                        
+
+                        
+
+    <a name="moption" id="moption"></a>
+
+
+    <div class="hidden-desktop"><br /></div>
+
+    <div class="searchtitel">Article Tools</div>
+    <div class="search bright">
+        
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>  
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1159/000481584" data-link-target="_blank" data-hide-no-mentions="true" style="margin-top: 3px;margin-right: -3px;float:right;margin-left:3px;"></div> 
+
+<ul class="ohneAufl"> 
+        <li><a href="/Form/Permission?articlenr=481584" class='NoArrow'><i class="fas fa-gavel"></i> Get Permission</a></li>
+
+
+        <li id="Citation"><a href="#" class="NoArrow"><i class="fas fa-quote-right"></i> Citation Download</a></li>
+        <script>
+            $(document).ready(function () {
+                $("#Citation").click(function () {
+                    $("#CitationB").slideToggle("slow");
+                });
+            });
+        </script>
+        <div id="CitationB" style="display:none;">
+            <ul>
+                <li><a href="/Article/CitationTxt/481584">Text-File</a></li>
+                <li><a href="/Article/CitationEndNote/481584">RIS-File</a> <a data-placement="top" data-toggle="tooltip" rel="tooltip" href="#" data-original-title="compatible with EndNote, Reference Manager, ProCite, RefWorks" class="NoArrow"><i class="fas fa-question-circle"></i></a></li>
+            </ul>
+        </div>
+
+
+    <li id="sselectA"><a href="javascript:addToSelection2(481584)" class="NoArrow"><i class="far fa-bookmark"></i> Add to my Reading List</a></li>       
+    <li id="sselectR" style="display:none;"><a href="javascript:removeFromSelection(481584)" class="NoArrow"><i class="fas fa-bookmark"></i> Remove from my Reading List</a></li>
+</ul>
+
+    </div>
+
+    <div class="searchtitel">Article Details</div>
+    <div class="search bright">
+        
+
+<div class="articleDetailsSidebar">
+    <p>
+2017,  Vol.9,  <a href="/Journal/Issue/276623">No. 5</a>       
+    </p>
+
+            <p>September 2017</p>
+
+
+
+
+    
+    
+
+    
+    <p>
+                    <span>Article</span> <a class="next" href="/Article/FullText/479653">NEXT</a>
+    </p>
+
+</div>
+    </div>
+
+
+    <div Class="searchtitel">Recommend This</div>
+    <div Class="search bright">
+                
+<div class="btn-toolbar" style="margin-left: 0px;">
+    <div class="btn-group social">
+        <a href="https://www.facebook.com/sharer.php?u=https://www.karger.com/Article/Abstract/481584" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share this on Facebook" class="iconLink onlyIcon" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com/intent/tweet?text=Journal of Innate Immunity 2017, Vol. 9, No. 5 - https://www.karger.com/Article/Abstract/481584 &#64;KargerPublisher" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Tweet this page" target="_blank" class="iconLink onlyIcon"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.karger.com/Article/Abstract/481584&source=karger.com" target="_blank" class="iconLink onlyIcon" title="Share this on LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+        <a href="mailto:?subject=Article Recommendation&body=I thought you might be interested in this publication:%20 Journal of Innate Immunity 2017, Vol. 9, No. 5%0A%0A https://www.karger.com/Article/Abstract/481584" class="iconLink onlyIcon" target="_blank" title="E-Mail this"><i class="fas fa-envelope"></i></a>
+    </div>
+</div>
+        
+    </div>
+
+
+
+
+
+            <div class="search">
+                <a class="NoArrow" href="/OpenAccess"><img alt="Open Access Gateway" title="Open Access Gateway" src="/images/openaccess.png"  /></a>
+            </div>                              
+
+
+    
+
+
+
+                    </div>
+                </div>
+
+                <div Class="span3">
+                    <div Class="rightsidebar">
+                        
+    <div id="pbgrd-skyscraper"></div>
+    
+
+                    </div>
+                </div>
+
+        </div>
+
+        <div id="footer">
+            
+    <div class="row-fluid">
+    <div class="span6" id="footer_socialmedia">
+        <div class="visible-desktop hidden-tablet hidden-phone">
+            <h5>SOCIAL MEDIA</h5>
+            
+        <p class="socialmedia">
+            <a href="https://www.facebook.com/KargerPublishers/?fref=ts" class="NoArrow" target="_blank" data-gtmNav="nav_footer_facebook">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                    <i class="fab fa-facebook-f fa-stack-1x"></i>
+                </span>
+            </a>
+            <a href="https://www.linkedin.com/company/karger-publishers?trk=company_logo" class="NoArrow" target="_blank" data-gtmNav="nav_footer_linkedin">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                    <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                </span>
+            </a>
+            <a href="https://twitter.com/KargerPublisher" class="NoArrow" target="_blank" data-gtmNav="nav_footer_twitter">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                    <i class="fab fa-twitter fa-stack-1x"></i>
+                </span>
+            </a>
+            <a href="https://www.youtube.com/channel/UCnpxr2XR2_ikKqYrdbajSAw" class="NoArrow" target="_blank" data-gtmNav="nav_footer_youtube">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                    <i class="fab fa-youtube fa-stack-1x"></i>
+                </span>
+            </a>
+            <a href="/Images/WeChat_QRcode.jpg" class="NoArrow imagebox cboxElement" target="_blank" data-gtmNav="nav_footer_wechat">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                    <i class="fab fa-weixin fa-stack-1x"></i>
+                </span>
+            </a>
+        </p>
+            
+        </div>
+        <div class="hidden-desktop visible-tablet visible-phone text-center">
+            <h5>SOCIAL MEDIA</h5>
+            <p class="socialmedia">
+                <a href="https://www.facebook.com/KargerPublishers/?fref=ts" class="NoArrow" target="_blank" data-gtmNav="nav_footer_facebook">
+                    <span class="fa-stack fa-lg" aria-hidden="true">
+                        <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                        <i class="fab fa-facebook-f fa-stack-1x"></i>
+                    </span>
+                </a>
+                <a href="https://www.linkedin.com/company/karger-publishers?trk=company_logo" class="NoArrow" target="_blank" data-gtmNav="nav_footer_linkedin">
+                    <span class="fa-stack fa-lg" aria-hidden="true">
+                        <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                        <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/KargerPublisher" class="NoArrow" target="_blank" data-gtmNav="nav_footer_twitter">
+                    <span class="fa-stack fa-lg" aria-hidden="true">
+                        <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                        <i class="fab fa-twitter fa-stack-1x"></i>
+                    </span>
+                </a>
+                <a href="https://www.youtube.com/channel/UCnpxr2XR2_ikKqYrdbajSAw" class="NoArrow" target="_blank" data-gtmNav="nav_footer_youtube">
+                    <span class="fa-stack fa-lg" aria-hidden="true">
+                        <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                        <i class="fab fa-youtube fa-stack-1x"></i>
+                    </span>
+                </a>
+                <a href="/Images/WeChat_QRcode.jpg" class="NoArrow imagebox cboxElement" target="_blank" data-gtmNav="nav_footer_wechat">
+                    <span class="fa-stack fa-lg" aria-hidden="true">
+                        <i class="fas fa-circle fa-inverse fa-stack-2x"></i>
+                        <i class="fab fa-weixin fa-stack-1x"></i>
+                    </span>
+                </a>
+            </p>
+        </div>
+    </div>
+    <div class="hidden-phone hidden-tablet">
+        <div class="span2">
+            <h5>ABOUT US</h5>
+            <ul>
+                <li><a class="blocklink" data-gtmnav="nav_footer_company" href="/Company/Index">Company</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_people" href="/Company/Directory">People</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_career" href="/Career/Index">Career</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_newsroom" href="/Company/PressService">Newsroom</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_contact" href="/Contact/Index">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="hidden-phone hidden-tablet">
+        <div class="span2">
+            <h5>SERVICES</h5>
+            <ul>
+                <li><a class="blocklink" data-gtmnav="nav_footer_site-licenses" href="/Services/SiteLicenses">Site Licenses</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_pricing" href="/Pricing/Index">Pricing</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_downloads" href="/Downloads/Index">Downloads</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_rights-and-permissions" href="/Services/RightsPermissions">Rights &amp; Permissions</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_help" href="/Help/Index">Help</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="hidden-phone hidden-tablet">
+        <div class="span2">
+            <h5>RESOURCES</h5>
+            <ul>
+                <li><a class="blocklink" data-gtmnav="nav_footer_authors" href="/Resources/Authors">Authors</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_booksellers" href="/Resources/Booksellers">Booksellers</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_industry" href="/Resources/Industry">Industry</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_librarians" href="/Resources/Librarians">Librarians</a></li>
+                
+                <li><a class="blocklink" data-gtmnav="nav_footer_readers" href="/Resources/Readers">Readers</a></li>
+                <li><a class="blocklink" data-gtmnav="nav_footer_students" href="/Resources/Students">Students</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="row-fluid">
+    <div class="visible-desktop hidden-tablet hidden-phone">
+        <div class="span6" id="footer_legallinks">
+            <p><a data-gtmnav="nav_footer_privacy-policy" href="/Info/PrivacyPolicy">Privacy Policy</a> | <a data-gtmnav="nav_footer_terms-of-use" href="/Info/Terms">Terms of Use</a> | <a data-gtmnav="nav_footer_imprint" href="/Imprint/Index">Imprint</a></p>
+            <p>Karger International: <a href="/" data-gtmNav="nav_footer_karger-com">COM</a> | <a href="/de" data-gtmNav="nav_footer_karger-de">DE</a> | <a href="/cn" data-gtmNav="nav_footer_karger-cn">CN</a></p>
+        </div>
+        <div class="span6 text-right copyright">
+            <br />
+            <p>&copy; 2021 S. Karger AG, Basel</p>
+        </div>
+    </div>
+    <div class="hidden-desktop visible-tablet visible-phone">
+        <div class="span12 text-center" id="footer_legallinks">
+            <p><a data-gtmnav="nav_footer_privacy-policy" href="/Info/PrivacyPolicy">Privacy Policy</a> | <a data-gtmnav="nav_footer_terms-of-use" href="/Info/Terms">Terms of Use</a> | <a data-gtmnav="nav_footer_imprint" href="/Imprint/Index">Imprint</a></p>
+            <p>Karger International: <a href="/" data-gtmNav="nav_footer_karger-com">COM</a> | <a href="/de" data-gtmNav="nav_footer_karger-de">DE</a> | <a href="/cn" data-gtmNav="nav_footer_karger-cn">CN</a></p>
+        </div>
+        <div class="span12 text-center copyright">
+            <br />
+            <p>&copy; 2021 S. Karger AG, Basel</p>
+        </div>
+    </div>
+</div>
+<div style="position:relative;">
+    <span id="easterEgg" style="color:transparent; font-size: 10px; position:absolute; bottom: 10px; left: 10px; cursor: default;">&nbsp;&nbsp;</span>
+    <img id="easterEggImg" src="/Images/surveySkeleton.gif" style="display:none; height: 300px; position: fixed; bottom: -170px; left: -50px;-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); -ms-filter: "FlipH"; filter: FlipH;" alt="Hi from Karger Devs" />
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#easterEgg').click(function () {
+            $('#easterEggImg').show();
+            setTimeout(function () { $('#easterEggImg').hide(); }, 8000);
+        });
+    });
+</script>
+
+
+        </div>
+
+    </div>
+
+
+    <nav id="menu" class="hidden-desktop visible-tablet visible-phone">
+    <div class="accordion">
+
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <span class="accordion-toggle collapsed" data-toggle="collapse" data-target="#sub_journals">JOURNALS</span>
+            </div>
+            <div id="sub_journals" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <ul>
+                        <li><a data-gtmnav="nav_main_journal-index" href="/Journal/Index">Our Program</a></li>
+                        <li><a data-gtmnav="nav_main_journal-scout" href="/Journal/JournalScout">Journal Scout BETA</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <span class="accordion-toggle collapsed" data-toggle="collapse" data-target="#sub_books">BOOKS</span>
+            </div>
+            <div id="sub_books" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <ul>
+                        <li><a data-gtmnav="nav_main_book-index" href="/Book/Index">Complete Title Index</a></li>
+                        <li><a data-gtmnav="nav_main_book-series" href="/BookSeries/Index">Series</a></li>
+                        <li><a data-gtmnav="nav_main_book-nonseries" href="/Book/NonSerialIndex">Non-Serial Books</a></li>
+                        <li><a data-gtmnav="nav_main_book-news" href="/Book/BookNews">News</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <div class="accordion-nosubmenu"><a href="/MyKarger/LoginThinkific" target="_blank" data-gtmnav="nav_header_courses">COURSES</a></div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <span class="accordion-toggle collapsed" data-toggle="collapse" data-target="#sub_collections">COLLECTIONS</span>
+            </div>
+            <div id="sub_collections" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <ul>
+                        <li><a data-gtmnav="nav_main_online-collections" href="/Collections/OverviewCollections">Online Collections</a></li>
+                        <li><a data-gtmnav="nav_main_subject-packages" href="/Collections/OverviewPackages">Subject Packages</a></li>
+                        <li><a data-gtmnav="nav_main_topic-article-packages" href="/Tap/Index">Topic Article Packages</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <div class="accordion-nosubmenu"><a data-gtmnav="nav_main_subject-area-index" description="" href="/SubjectArea/">SUBJECT GUIDE</a></div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <span class="accordion-toggle collapsed" data-toggle="collapse" data-target="#sub_services">SERVICES</span>
+            </div>
+            <div id="sub_services" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <ul>
+                        <li><a data-gtmnav="nav_main_downloads" href="/Downloads/Index">Downloads</a></li>
+                        <li><a data-gtmnav="nav_main_help" href="/Help/Index">Help</a></li>
+                        <li><a data-gtmnav="nav_main_pricing" href="/Pricing/Index">Pricing</a></li>
+                        <li><a data-gtmnav="nav_main_rights-and-permissions" href="/Services/RightsPermissions">Rights &amp; Permissions</a></li>
+                        <li><a data-gtmnav="nav_main_site-licenses" href="/Services/SiteLicenses">Site Licenses</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <span class="accordion-toggle collapsed" data-toggle="collapse" data-target="#sub_resources">RESOURCES</span>
+            </div>
+            <div id="sub_resources" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <ul>
+                        <li><a data-gtmnav="nav_main_authors" href="/Resources/Authors">Authors</a></li>
+                        <li><a data-gtmnav="nav_main_booksellers" href="/Resources/Booksellers">Booksellers</a></li>
+                        <li><a data-gtmnav="nav_main_industry" href="/Resources/Industry">Industry</a></li>
+                        <li><a data-gtmnav="nav_main_librarians" href="/Resources/Librarians">Librarians</a></li>
+                        <li><a data-gtmnav="nav_main_readers" href="/Resources/Readers">Readers</a></li>
+                        <li><a data-gtmnav="nav_main_students" href="/Resources/Students">Students</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <span class="accordion-toggle collapsed" data-toggle="collapse" data-target="#sub_aboutus">ABOUT US</span>
+            </div>
+            <div id="sub_aboutus" class="accordion-body collapse">
+                <div class="accordion-inner">
+                    <ul>
+                        <li><a data-gtmnav="nav_main_company" href="/Company/Index">Company</a></li>
+                        <li><a data-gtmnav="nav_main_people" href="/Company/Directory">People</a></li>
+                        <li><a data-gtmnav="nav_main_career" href="/Career/Index">Career</a></li>
+                        <li><a data-gtmnav="nav_main_newsroom" href="/Company/PressService">Newsroom</a></li>
+                        <li><a data-gtmnav="nav_main_contact" href="/Contact/Index">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</nav>
+
+
+    <script src="/bundle/js_core_bottom?v=fRWR0e70Ytyj2S1Q4LABvx0YecECP9v1skxI28RUHF41"></script>
+
+
+    
+        
+            <script type="text/javascript">
+                $("#ReadCubeShareLink").on('click', function (e) {
+                    e.preventDefault();
+                    $('#myModal').modal('show').find('.modal-body').load($(this).attr('href'));
+                });
+
+                function reloadIFrames() {
+                    $("iframe").each(function () {
+                        var src = $(this).attr('src');
+                        $(this).attr('src', src);
+                    });
+                }
+            </script>
+        
+
+
+
+
+    <!-- SignUp Modal -->
+    <div class="modal fade" tabindex="-1" role="dialog" id="modal_SignUp" style="display: none;">
+        <div class="modal-dialog modal-xl" role="document">
+            <div class="modal-content">
+                <div class="modal-body" id="modal_SignUp-Process">
+
+                    <div class="modal_Image"></div>
+
+                    <div class="modal_Steps">
+
+                        <img src="/Images/kargerlogo.gif" alt="karger Logo" class="pull-left" id="kargerlogo" />
+                        <button type="button" class="close pull-right" aria-label="Close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+                        <div class="clear"></div>
+
+
+                        <!-- Set email for new account -->
+                        <div id="modal_SignUp-SetAccountEmail" class="modal_SignUp-Step">
+                            <h2>Sign up for MyKarger</h2>
+
+                            <form onsubmit="return false">
+                                <input type="hidden" id="gcmptoken_SignUp_SetAccountEmail" name="gcmptoken_SignUp_SetAccountEmail" value="" />
+
+                                <div class="wrapper-progressBar mb-20">
+                                    <ul class="progressBar">
+                                        <li id="step1" class="active" title="Set E-mail address"> </li>
+                                        <li id="step2a"> </li>
+                                        <li id="step3"> </li>
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+
+                                <p class="mt-20 mb-20">
+                                    Manage with MyKarger your orders simply and fast, save your favorite articles in your reading list, edit your newsletter profile and benefit from attractive discounts.
+                                </p>
+
+                                <div class="form-group">
+                                    <label for="signUp_emailaddress">E-mail address</label>
+                                    <input type="text" id="signUp_emailaddress" class="form-control signUp_emailaddress" placeholder="example@mail.com" autofocus />
+                                    <span class="small text-danger" id="signUp_emailaddress_error"></span>
+                                </div>
+
+                                <div class="right mt-20 mb-20">
+                                    <button type="button" class="btn btn-karger" id="signUp_SetAccountEmail_Submit" onclick="signUp_startprocess(); GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '1', 'Button Click Next');" disabled>next</button>
+                                </div>
+
+                                <p class="small pt-20">
+                                    This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+                                </p>
+
+                            </form>
+                        </div>
+
+
+                        <!-- Set password for new account -->
+                        <div id="modal_SignUp-SetPassword" class="modal_SignUp-Step dNone">
+                            <h2>Set Your Password</h2>
+
+                            <form onsubmit="return false">
+                                <div class="wrapper-progressBar mb-20">
+                                    <ul class="progressBar">
+                                        <li id="step1" class="done" onclick="signUp_goToStep('SetAccountEmail', 'backward')" title="Set E-mail address"> </li>
+                                        <li id="step2a" class="active" title="Set Password"> </li>
+                                        <li id="step3"> </li>
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+
+                                <p class="mt-20 mb-20">
+                                    Your password must comply with the following rules:
+
+                                    <ul class="ul bold passwordChecker">
+                                        <li class="req req1">One number <span class="visible-desktop">(0-9)</span></li>
+                                        <li class="req req2">One special character (e.g. ~^*_=+)</li>
+                                        <li class="req req3">Minimum 8 characters</li>
+                                    </ul>
+                                </p>
+
+                                <div class="form-group mt-20">
+                                    <span class="signUp_togglePW pull-right"><i class="far fa-eye-slash" aria-hidden="true" title="Show/Hide Password"></i> <span class="small pw-text">Hide password</span></span>
+                                    <label for="signUp_newPassword">Password</label>
+                                    <input type="text" id="signUp_newPassword" name="signUp_newPassword" class="form-control signUp_password" placeholder="Password" />
+                                </div>
+
+                                <div class="right mt-20">
+                                    <button type="button" class="btn btn-karger" id="setPassword_Submit" onclick="signUp_goToStep('CompleteName'); GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '2', 'Button Click Next'); GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '3', 'Start Name');" disabled>Next</button>
+                                </div>
+
+                            </form>
+                        </div>
+
+
+                        <!-- User already exists: Login -->
+                        <div id="modal_SignUp-UserExists" class="modal_SignUp-Step dNone">
+                            <h2>Log in to MyKarger?</h2>
+
+                            <form method="post" novalidate="novalidate" id="signUp_ExistingUser" onsubmit="return false">
+                                <input id="ReturnURL" name="ReturnURL" value="/Article/Abstract/481584" type="hidden">
+
+                                <div class="wrapper-progressBar mb-20">
+                                    <ul class="progressBar">
+                                        <li id="step1" class="done" onclick="signUp_goToStep('SetAccountEmail', 'backward')" title="Set E-mail address"> </li>
+                                        <li id="step2b" class="active" title="Login with existing Password"> </li>
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+
+                                <p class="mt-20 mb-20">
+                                    We found an already existing MyKarger account with this e-mail address: <span class="bold" id="givenMailAddress"></span>
+                                </p>
+
+                                <div class="form-group mt-20">
+                                    <span class="signUp_togglePW pull-right"><i class="far fa-eye-slash" aria-hidden="true" title="Show/Hide Password"></i> <span class="small pw-text">Hide password</span></span>
+                                    <label for="signUp_existingPassword">Password</label>
+                                    <input type="text" id="signUp_existingPassword" name="signUp_existingPassword" class="form-control signUp_password" placeholder="Password" />
+                                    <span class="small text-danger dNone" id="signUp_existingPasswordIncorrect"></span>
+                                </div>
+
+                                <div class="form-group mt-20 pull-left">
+                                    <input data-val="true" id="signUp_RememberMe" name="signUp_RememberMe" type="checkbox" value="true" class="pull-left">
+                                    <input name="signUp_RememberMe" type="hidden" value="false">
+                                    <label for="signUp_RememberMe" class="form-control ml-20">Keep me logged in</label>
+                                </div>
+                                <div class="pull-right right mt-20">
+                                    <button type="button" class="btn btn-karger" id="btn_UserExists-SignIn" onclick="signIn_ExistingUser(); GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '2', 'Button Click Login');" disabled>Login</button><br />
+                                    <button type="button" class="btn btn-passiv mt-10 forgotPasswordLink" id="btn_UserExists-ForgotPW" onClick="GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '2', 'Button Click Forgot Password');">Forgot password</button>
+                                </div>
+                                <div class="clear"></div>
+
+                            </form>
+                        </div>
+
+
+                        <!-- Complete your name and accept Terms & Conditions -->
+                        <div id="modal_SignUp-CompleteName" class="modal_SignUp-Step dNone">
+                            <h2>Complete Your Name</h2>
+
+                            <form onsubmit="return false">
+                                <input type="hidden" id="gcmptoken_SignUp_CompleteName" name="gcmptoken_SignUp_CompleteName" value="" />
+                                <input type="hidden" id="signUp_returnUrl" name="signUp_returnUrl" value="" />
+
+                                <div class="wrapper-progressBar mb-20">
+                                    <ul class="progressBar">
+                                        <li id="step1" class="done" onclick="signUp_goToStep('SetAccountEmail', 'backward')" title="Set E-mail address"> </li>
+                                        <li id="step2" class="done" onclick="signUp_goToStep('SetPassword')" title="Set Password"> </li>
+                                        <li id="step3" class="active"> </li>
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+
+                                <div class="form-group mt-20">
+                                    <label for="signUp_firstname">First Name</label>
+                                    <input type="text" id="signUp_firstname" class="form-control" placeholder="First Name" />
+                                </div>
+
+                                <div class="form-group mt-20">
+                                    <label for="signUp_firstname">Last Name</label>
+                                    <input type="text" id="signUp_lastname" class="form-control" placeholder="Last Name" />
+                                </div>
+
+                                <div class="form-group mt-20">
+                                    <input type="checkbox" id="signUp_TermsAndConditions" Class="pull-left" />
+                                    <label for="signUp_TermsAndConditions" class="form-control ml-20">I have read the Karger <a href="/Info/Terms" target="_blank">Terms and Conditions</a> and agree.</label>
+                                </div>
+
+                                <div id="signUp_createAccount_error" class="small text-danger"></div>
+
+                                <div class="right mt-20">
+                                    <button type="button" class="btn btn-karger" id="signUp_createAccount" onclick="signUp_CreateAccount(); GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '3', 'Button Click Create Account');" disabled>create account</button>
+                                </div>
+
+                            </form>
+                        </div>
+
+
+                        <!-- Account created -->
+                        <div id="modal_SignUp-AccountCreated" Class="modal_SignUp-Step dNone">
+                            <h2>Thank You For Registering</h2>
+
+                            <p class="mt-20 mb-20" style="display: flex; align-items: center;">
+                                <span class="fa-stack fa-lg mr-10">
+                                    <i class="fas fa-circle fa-stack-2x"></i>
+                                    <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+                                </span>
+
+                                Your MyKarger account has been created.
+                            </p>
+
+                            <p class="bold mb-20">
+                                Please check your e-mails to validate your e-mail address.
+                            </p>
+
+                            <div class="mt-20">
+                                <button type="button" class="btn btn-karger" id="signUp_btnDone" data-dismiss="modal" onclick="GTMDatalayerSignUpMyKarger('Sign Up MyKarger', '4', 'Button Click Done');">done</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- ResetPassword Modal -->
+    <div class="modal fade" tabindex="-1" role="dialog" id="modal_ResetPassword" style="display: none;">
+        <div class="modal-dialog modal-xl" role="document">
+            <div class="modal-content">
+                <div class="modal-body" id="modal_ResetPassword-Process">
+
+                    <div class="modal_Image"></div>
+
+                    <div class="modal_Steps">
+
+                        <img src="/Images/kargerlogo.gif" alt="karger Logo" class="pull-left" id="kargerlogo" />
+                        <button type="button" class="close pull-right " aria-label="Close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+                        <div class="clear"></div>
+
+                        <!-- RESET PASSWORD -->
+                        <div id="modal_ResetPassword-Request" class="modal_SignUp-Step modal_ResetPW-Step">
+                            <h2>Reset Your Password</h2>
+                            <form id="resetPassword" method="post" novalidate="novalidate" onsubmit="return false">
+
+                                <p class="mb-20">
+                                    To reset your password, enter your e-mail address or your user ID you registered with. You will be sent an e-mail containing a link to reset your password.
+                                </p>
+
+                                <div class="form-group">
+                                    <label for="signUp_resetEmailaddress">E-mail address / User ID</label>
+                                    <input type="text" id="signUp_resetEmailaddress" class="form-control" placeholder="example@mail.com" />
+                                    <span class="small text-danger dNone" id="signUp_resetEmailaddress_error">Something went wrong</span>
+                                </div>
+
+                                <div class="right mt-20">
+                                    <button type="button" id="resetPassword_Submit" class="btn btn-karger" onclick="resetPassword_submitMailOrID(); GTMDatalayerSignUpMyKarger('Reset Password', '1', 'Button Click Submit');">Submit</button>
+                                </div>
+                            </form>
+                        </div>
+
+                        <div id="modal_ResetPassword-Confirm" class="modal_SignUp-Step modal_ResetPW-Step dNone">
+                            <h2>Check Your E-Mails</h2>
+
+                            <form>
+                                <p class="mb-20">
+                                    A link to reset your password has been sent to your e-mail address. Follow the instructions and try to log in again.
+                                </p>
+
+                                <div class="mt-20">
+                                    <button type="button" class="btn btn-karger" data-dismiss="modal" onclick="GTMDatalayerSignUpMyKarger('Reset Password', '2', 'Button Click Close');">Close</button>
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+
+
+    <!-- Start of Tawk.to Script -->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/56e2c5b37e2d1fbd025c2274/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!-- End of Tawk.to Script -->
+    <!-- People contact script -->
+    <script type="text/javascript" src="/Scripts/peopleFormModal.js"></script>
+
+    <a id="overallToTop" class="NoArrow hidden-print" href="#top" data-gtmnav="nav_back_to_top"><span>TOP</span> <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+
+</body>
+</html>
