@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Wong Research Lab',
   tagline: 'Let\'s Talk Science!',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://wong-lab.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Wong-Lab', // Usually your GitHub org/user name.
-  projectName: 'wonglab-web', // Usually your repo name.
+  projectName: 'wong-lab.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Wong Research Lab',

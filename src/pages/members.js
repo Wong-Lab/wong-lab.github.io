@@ -5,6 +5,8 @@ import TOC from '@theme/TOC'
 import memberIndex from '../../members.yaml'
 import styles from './members.module.css'
 
+// import PlaceholderImage from '../../static/img/undraw_unicorn.svg'
+
 
 const toc = [
   { id: 'gerard', value: 'Gerard Wong', children: [] },
@@ -90,11 +92,19 @@ function Members({ id, category, members }) {
         key={name.split(' ').join('+') + '+' + role.split(' ').join('+')}
         className="col col--3"
       >
-        <img
-          src={profileImage ? `/img/profiles/${profileImage}` : '/img/undraw_unicorn.svg'}
-          alt={`${name}'s profile image`}
-          className={styles.memberImage}
-        />
+        {profileImage
+          ? <img
+              src={`/img/profiles/${profileImage}`}
+              alt={`${name}'s profile image`}
+              className={styles.memberImage}
+            />
+          // : <PlaceholderImage />}
+          : <img
+              src={`/img/undraw_unicorn.svg`}
+              alt={`${name}'s profile image`}
+              className={styles.memberImage}
+            />
+        }
         <div>
           <h3>{name}{id === 'scientists' && ', Ph.D.'}</h3>
           <MultilineDetails details={[

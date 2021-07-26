@@ -21,15 +21,16 @@
     "clsx": "^1.1.1",
     "dedent": "^0.7.0",
     "file-loader": "^6.2.0",
+    "image-webpack-loader": "^7.0.1",
     "js-yaml": "^3.14.1",
+    "my-loaders": "file:plugins/my-loaders",
     "node-fetch": "^2.6.1",
     "p-throttle": "^4.1.1",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "url-loader": "^4.1.1",
-    "yaml-loader": "^0.6.0",
-    "my-loaders": "file:plugins/my-loaders"
+    "yaml-loader": "^0.6.0"
   },
   "browserslist": {
     "production": [

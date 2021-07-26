@@ -42,6 +42,8 @@ const cleanAbstract = abstract => dedent(abstract
 const encodeDOI = doi => doi
   .replaceAll('/', '~')
   .replaceAll(':', '+')
+  .replaceAll('(', '[')
+  .replaceAll(')', ']')
 
 const isSamePerson = (name, candidate) =>
   name.toUpperCase().split(' ').every(n => candidate.toUpperCase().includes(n))
