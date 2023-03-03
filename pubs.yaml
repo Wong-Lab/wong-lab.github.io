@@ -1,11 +1,8 @@
 - doi: 10.1073/pnas.2105566118
   pdf: 10.1073~pnas.2105566118.pdf
-  # the following is only necessary before CrossRef is updated with this paper
-  title: >-
-    Interaction between the type 4 pili machinery and a diguanylate cyclase
+  title: Interaction between the type 4 pili machinery and a diguanylate cyclase
     fine-tune c-di-GMP levels during early biofilm formation
-  container-title: >-
-    Proceedings of the National Academy of Sciences
+  container-title: Proceedings of the National Academy of Sciences
   author:
     - given: Shanice S.
       family: Webster
@@ -19,27 +16,249 @@
       family: Wong
     - given: George A.
       family: O’Toole
-  published:
-    date-parts:
-      - [2021, 06, 29]
+  published: 2021
   tags:
     - bacterial biofilms
     - Pseudomonas aeruginosa
     - c-di-GMP
     - alignment complex
     - surface sensing
-
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: http://orcid.org/0000-0001-7900-8758
+      name: Shanice S. Webster
+      first: true
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0001-9780-9495
+      name: William C. Schmidt
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.2105566118
+  checked: true
 - doi: 10.1016/j.jbc.2021.100828
   pdf: 10.1016~j.jbc.2021.100828.pdf
+  title: Sequence determinants in the cathelicidin LL-37 that promote inflammation
+    via presentation of RNA to scavenger receptors
+  container: Journal of Biological Chemistry
+  shortContainer: Journal of Biological Chemistry
+  authors:
+    - orcid: http://orcid.org/0000-0001-5321-1694
+      name: Nikhil N. Kulkarni
+      first: true
+    - orcid: http://orcid.org/0000-0002-5892-6477
+      name: Alan M. O’Neill
+      first: false
+    - orcid: http://orcid.org/0000-0003-3678-6781
+      name: Tatsuya Dokoshi
+      first: false
+    - orcid: http://orcid.org/0000-0002-8663-0446
+      name: Elizabeth W.C. Luo
+      first: false
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-1401-7861
+      name: Richard L. Gallo
+      first: false
+  URL: http://dx.doi.org/10.1016/j.jbc.2021.100828
+  published: 2021
+  checked: true
 - doi: 10.1088/1478-3975/abdc0e
   pdf: 10.1088~1478-3975~abdc0e.pdf
-
+  title: "Roadmap on emerging concepts in the physical biology of bacterial
+    biofilms: from surface sensing to community formation"
+  container: Physical Biology
+  shortContainer: Phys. Biol.
+  authors:
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C L Wong
+      first: true
+    - orcid: http://orcid.org/0000-0002-7402-983X
+      name: Jyot D Antani
+      first: false
+    - orcid: ""
+      name: Pushkar P Lele
+      first: false
+    - orcid: ""
+      name: Jing Chen
+      first: false
+    - orcid: http://orcid.org/0000-0002-0326-9529
+      name: Beiyan Nan
+      first: false
+    - orcid: ""
+      name: Marco J Kühn
+      first: false
+    - orcid: ""
+      name: Alexandre Persat
+      first: false
+    - orcid: ""
+      name: Jean-Louis Bru
+      first: false
+    - orcid: http://orcid.org/0000-0001-5904-8859
+      name: Nina Molin Høyland-Kroghsbo
+      first: false
+    - orcid: http://orcid.org/0000-0002-2056-9937
+      name: Albert Siryaporn
+      first: false
+    - orcid: http://orcid.org/0000-0001-6084-4772
+      name: Jacinta C Conrad
+      first: false
+    - orcid: ""
+      name: Francesco Carrara
+      first: false
+    - orcid: ""
+      name: Yutaka Yawata
+      first: false
+    - orcid: ""
+      name: Roman Stocker
+      first: false
+    - orcid: ""
+      name: Yves V Brun
+      first: false
+    - orcid: ""
+      name: Gregory B Whitfield
+      first: false
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K Lee
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: William C Schmidt
+      first: false
+    - orcid: http://orcid.org/0000-0002-3149-4002
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: George A O’Toole
+      first: false
+    - orcid: ""
+      name: Kyle A Floyd
+      first: false
+    - orcid: ""
+      name: Fitnat H Yildiz
+      first: false
+    - orcid: ""
+      name: Shuai Yang
+      first: false
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Masanori Toyofuku
+      first: false
+    - orcid: ""
+      name: Leo Eberl
+      first: false
+    - orcid: ""
+      name: Nobuhiko Nomura
+      first: false
+    - orcid: ""
+      name: Lori A Zacharoff
+      first: false
+    - orcid: ""
+      name: Mohamed Y El-Naggar
+      first: false
+    - orcid: http://orcid.org/0000-0002-6041-5297
+      name: Sibel Ebru Yalcin
+      first: false
+    - orcid: http://orcid.org/0000-0001-5611-6633
+      name: Nikhil S Malvankar
+      first: false
+    - orcid: ""
+      name: Mauricio D Rojas-Andrade
+      first: false
+    - orcid: ""
+      name: Allon I Hochbaum
+      first: false
+    - orcid: ""
+      name: Jing Yan
+      first: false
+    - orcid: ""
+      name: Howard A Stone
+      first: false
+    - orcid: ""
+      name: Ned S Wingreen
+      first: false
+    - orcid: ""
+      name: Bonnie L Bassler
+      first: false
+    - orcid: http://orcid.org/0000-0002-0392-2137
+      name: Yilin Wu
+      first: false
+    - orcid: ""
+      name: Haoran Xu
+      first: false
+    - orcid: ""
+      name: Knut Drescher
+      first: false
+    - orcid: ""
+      name: Jörn Dunkel
+      first: false
+  URL: http://dx.doi.org/10.1088/1478-3975/abdc0e
+  published: 2021
+  checked: true
 - doi: 10.1073/pnas.1917623117
   pdf: 10.1073~pnas.1917623117.pdf
   additional: >
-      [Commentary in PNAS, "An ancient neuropeptide defends the brain against
-      infection"](https://doi.org/10.1073/pnas.2023990118)
-
+    [Commentary in PNAS, "An ancient neuropeptide defends the brain
+    against infection"](https://doi.org/10.1073/pnas.2023990118)
+  title: PACAP is a pathogen-inducible resident antimicrobial neuropeptide
+    affording rapid and contextual molecular host defense of the brain
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: true
+    - orcid: http://orcid.org/0000-0003-2567-4418
+      name: Liana C. Chan
+      first: false
+    - orcid: ""
+      name: Huiyuan Wang
+      first: false
+    - orcid: ""
+      name: Juelline Lieng
+      first: false
+    - orcid: ""
+      name: Mandy Hung
+      first: false
+    - orcid: http://orcid.org/0000-0002-5279-9753
+      name: Yashes Srinivasan
+      first: false
+    - orcid: ""
+      name: Jennifer Wang
+      first: false
+    - orcid: ""
+      name: James A. Waschek
+      first: false
+    - orcid: http://orcid.org/0000-0002-8829-9726
+      name: Andrew L. Ferguson
+      first: false
+    - orcid: http://orcid.org/0000-0003-2224-2708
+      name: Kuo-Fen Lee
+      first: false
+    - orcid: http://orcid.org/0000-0002-7079-5211
+      name: Nannette Y. Yount
+      first: false
+    - orcid: ""
+      name: Michael R. Yeaman
+      first: false
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1917623117
+  published: 2020
+  checked: true
 - doi: 10.1053/j.gastro.2020.08.038
   pdf: 10.1053~j.gastro.2020.08.038.pdf
   first-authors:
@@ -49,360 +268,4455 @@
   corresponding-authors:
     - Xinhua Chen
     - Gerard Wong
-
+  title: Clostridioides difficile Toxin A Remodels Membranes and Mediates DNA
+    Entry Into Cells to Activate Toll-Like Receptor 9 Signaling
+  container: Gastroenterology
+  shortContainer: Gastroenterology
+  authors:
+    - orcid: http://orcid.org/0000-0002-3944-3816
+      name: Xinhua Chen
+      first: true
+    - orcid: ""
+      name: Xiaotong Yang
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Jun Huang
+      first: false
+    - orcid: ""
+      name: Dan Li
+      first: false
+    - orcid: ""
+      name: Hua Xu
+      first: false
+    - orcid: ""
+      name: Kelsey S. Shields
+      first: false
+    - orcid: ""
+      name: Mária Džunková
+      first: false
+    - orcid: ""
+      name: Joshua Hansen
+      first: false
+    - orcid: ""
+      name: Ishan J. Patel
+      first: false
+    - orcid: ""
+      name: Eric U. Yee
+      first: false
+    - orcid: ""
+      name: Douglas T. Golenbock
+      first: false
+    - orcid: ""
+      name: Marianne A. Grant
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Ciarán P. Kelly
+      first: false
+  URL: http://dx.doi.org/10.1053/j.gastro.2020.08.038
+  published: 2020
+  checked: true
 - doi: 10.3389/fimmu.2020.01873
   pdf: 10.3389~fimmu.2020.01873.pdf
+  title: Discovery of Novel Type II Bacteriocins Using a New High-Dimensional
+    Bioinformatic Algorithm
+  container: Frontiers in Immunology
+  shortContainer: Front. Immunol.
+  authors:
+    - orcid: ""
+      name: Nannette Y. Yount
+      first: true
+    - orcid: ""
+      name: David C. Weaver
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Michael R. Yeaman
+      first: false
+  URL: http://dx.doi.org/10.3389/fimmu.2020.01873
+  published: 2020
+  checked: true
 - doi: 10.3389/fimmu.2020.01629
   pdf: 10.3389~fimmu.2020.01629.pdf
+  title: "Functional Reciprocity of Amyloids and Antimicrobial Peptides:
+    Rethinking the Role of Supramolecular Assembly in Host Defense, Immune
+    Activation, and Inflammation"
+  container: Frontiers in Immunology
+  shortContainer: Front. Immunol.
+  authors:
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Yashes Srinivasan
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Lauren K. Nicastro
+      first: false
+    - orcid: ""
+      name: Çagla Tükel
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.3389/fimmu.2020.01629
+  published: 2020
+  checked: true
 - doi: 10.1021/acsami.0c04329
   pdf: 10.1021~acsami.0c04329.pdf
-  
+  title: Selective Promotion of Adhesion of <i>Shewanella oneidensis</i> on
+    Mannose-Decorated Glycopolymer Surfaces
+  container: ACS Applied Materials &amp; Interfaces
+  shortContainer: ACS Appl. Mater. Interfaces
+  authors:
+    - orcid: http://orcid.org/0000-0002-3234-7418
+      name: Thomas D. Young
+      first: true
+    - orcid: ""
+      name: Walter T. Liau
+      first: false
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Michael Mellody
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0003-2355-6258
+      name: Andrea M. Kasko
+      first: false
+    - orcid: http://orcid.org/0000-0001-5527-6248
+      name: Paul S. Weiss
+      first: false
+  URL: http://dx.doi.org/10.1021/acsami.0c04329
+  published: 2020
+  checked: true
 - doi: 10.1073/pnas.1920469117
   pdf: 10.1073~pnas.1920469117.pdf
   additional: >
     [Commentary in PNAS, "Linking neurons to immunity: Lessons from
     Hydra"](https://doi.org/10.1073/pnas.2011637117)
-
+  title: Prototypical pacemaker neurons interact with the resident microbiota
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: http://orcid.org/0000-0003-1764-0613
+      name: Alexander Klimovich
+      first: true
+    - orcid: http://orcid.org/0000-0003-0738-1574
+      name: Stefania Giacomello
+      first: false
+    - orcid: ""
+      name: Åsa Björklund
+      first: false
+    - orcid: http://orcid.org/0000-0003-4621-586X
+      name: Louis Faure
+      first: false
+    - orcid: ""
+      name: Marketa Kaucka
+      first: false
+    - orcid: http://orcid.org/0000-0002-8101-6498
+      name: Christoph Giez
+      first: false
+    - orcid: ""
+      name: Andrea P. Murillo-Rincon
+      first: false
+    - orcid: ""
+      name: Ann-Sophie Matt
+      first: false
+    - orcid: http://orcid.org/0000-0003-1693-5057
+      name: Doris Willoweit-Ohl
+      first: false
+    - orcid: ""
+      name: Gabriele Crupi
+      first: false
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: false
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0003-2743-5197
+      name: Mauro D’Amato
+      first: false
+    - orcid: http://orcid.org/0000-0001-5471-0356
+      name: Igor Adameyko
+      first: false
+    - orcid: http://orcid.org/0000-0002-9488-5545
+      name: Thomas C. G. Bosch
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1920469117
+  published: 2020
+  checked: true
 - doi: 10.1128/AAC.00210-20
   pdf: 10.1128~AAC.00210-20.pdf
+  title: Chemokine CCL28 Is a Potent Therapeutic Agent for Oropharyngeal Candidiasis
+  container: Antimicrobial Agents and Chemotherapy
+  shortContainer: Antimicrob Agents Chemother
+  authors:
+    - orcid: ""
+      name: Jie He
+      first: true
+    - orcid: ""
+      name: Monica A. Thomas
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Emma Van Why
+      first: false
+    - orcid: ""
+      name: Pippa Simpson
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Mitchell H. Grayson
+      first: false
+    - orcid: ""
+      name: Brian F. Volkman
+      first: false
+    - orcid: ""
+      name: Anna R. Huppler
+      first: false
+  URL: http://dx.doi.org/10.1128/aac.00210-20
+  published: 2020
+  checked: true
 - doi: 10.1016/j.bbamem.2020.183302
   pdf: 10.1016~j.bbamem.2020.183302.pdf
+  title: How do cyclic antibiotics with activity against Gram-negative bacteria
+    permeate membranes? A machine learning informed experimental study
+  container: Biochimica et Biophysica Acta (BBA) - Biomembranes
+  shortContainer: Biochimica et Biophysica Acta (BBA) - Biomembranes
+  authors:
+    - orcid: ""
+      name: Michelle W. Lee
+      first: true
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Carsten Kroll
+      first: false
+    - orcid: ""
+      name: Christoph Bieniossek
+      first: false
+    - orcid: ""
+      name: Kenneth Bradley
+      first: false
+    - orcid: ""
+      name: Kurt E. Amrein
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.bbamem.2020.183302
+  published: 2020
+  checked: true
 - doi: 10.1021/acsinfecdis.0c00011
   pdf: 10.1021~acsinfecdis.0c00011.pdf
+  title: Switchable Membrane Remodeling and Antifungal Defense by Metamorphic
+    Chemokine XCL1
+  container: ACS Infectious Diseases
+  shortContainer: ACS Infect. Dis.
+  authors:
+    - orcid: http://orcid.org/0000-0002-8952-8551
+      name: Acacia F. Dishman
+      first: true
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: false
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Jie He
+      first: false
+    - orcid: ""
+      name: Anna R. Huppler
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-6681-5179
+      name: Brian F. Volkman
+      first: false
+  URL: http://dx.doi.org/10.1021/acsinfecdis.0c00011
+  published: 2020
+  checked: true
 - doi: 10.1038/s41467-020-15331-8
   pdf: 10.1038~s41467-020-15331-8.pdf
+  title: c-di-GMP modulates type IV MSHA pilus retraction and surface attachment
+    in Vibrio cholerae
+  container: Nature Communications
+  shortContainer: Nat Commun
+  authors:
+    - orcid: http://orcid.org/0000-0003-3261-7999
+      name: Kyle A. Floyd
+      first: true
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0001-5074-0304
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Mahmoud Nametalla
+      first: false
+    - orcid: ""
+      name: Aneesa Valentine
+      first: false
+    - orcid: ""
+      name: Benjamin Crair
+      first: false
+    - orcid: ""
+      name: Shiwei Zhu
+      first: false
+    - orcid: http://orcid.org/0000-0002-8335-2612
+      name: Hannah Q. Hughes
+      first: false
+    - orcid: ""
+      name: Jennifer L. Chlebek
+      first: false
+    - orcid: ""
+      name: Daniel C. Wu
+      first: false
+    - orcid: http://orcid.org/0000-0001-8384-7909
+      name: Jin Hwan Park
+      first: false
+    - orcid: http://orcid.org/0000-0002-9729-9656
+      name: Ali M. Farhat
+      first: false
+    - orcid: http://orcid.org/0000-0002-6574-4276
+      name: Charles J. Lomba
+      first: false
+    - orcid: ""
+      name: Courtney K. Ellison
+      first: false
+    - orcid: http://orcid.org/0000-0002-9289-1909
+      name: Yves V. Brun
+      first: false
+    - orcid: http://orcid.org/0000-0002-2693-0885
+      name: Javier Campos-Gomez
+      first: false
+    - orcid: http://orcid.org/0000-0003-2203-1230
+      name: Ankur B. Dalia
+      first: false
+    - orcid: http://orcid.org/0000-0003-3108-6735
+      name: Jun Liu
+      first: false
+    - orcid: ""
+      name: Nicolas Biais
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Fitnat H. Yildiz
+      first: false
+  URL: http://dx.doi.org/10.1038/s41467-020-15331-8
+  published: 2020
+  checked: true
 - doi: 10.1371/journal.pgen.1008703
   pdf: 10.1371~journal.pgen.1008703.pdf
+  title: "Reciprocal c-di-GMP signaling: Incomplete flagellum biogenesis triggers
+    c-di-GMP signaling pathways that promote biofilm formation"
+  container: PLOS Genetics
+  shortContainer: PLoS Genet
+  authors:
+    - orcid: http://orcid.org/0000-0003-4650-5672
+      name: Daniel C. Wu
+      first: true
+    - orcid: http://orcid.org/0000-0002-5580-7499
+      name: David Zamorano-Sánchez
+      first: false
+    - orcid: http://orcid.org/0000-0002-0434-4594
+      name: Fernando A. Pagliai
+      first: false
+    - orcid: http://orcid.org/0000-0001-8384-7909
+      name: Jin Hwan Park
+      first: false
+    - orcid: http://orcid.org/0000-0003-3261-7999
+      name: Kyle A. Floyd
+      first: false
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0001-7777-5726
+      name: Giordan Kitts
+      first: false
+    - orcid: http://orcid.org/0000-0002-0048-5402
+      name: Christopher B. Rose
+      first: false
+    - orcid: http://orcid.org/0000-0001-7609-3037
+      name: Eric M. Bilotta
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-6384-7167
+      name: Fitnat H. Yildiz
+      first: false
+  URL: http://dx.doi.org/10.1371/journal.pgen.1008703
+  published: 2020
+  checked: true
 - doi: 10.1128/mBio.02644-19
   pdf: 10.1128~mBio.02644-19.pdf
+  title: "Social Cooperativity of Bacteria during Reversible Surface Attachment in
+    Young Biofilms: a Quantitative Comparison of Pseudomonas aeruginosa PA14 and
+    PAO1"
+  container: mBio
+  shortContainer: mBio
+  authors:
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: true
+    - orcid: ""
+      name: Jérémy Vachier
+      first: false
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Amy E. Baker
+      first: false
+    - orcid: ""
+      name: Rachel R. Bennett
+      first: false
+    - orcid: http://orcid.org/0000-0003-0795-802X
+      name: Catherine R. Armbruster
+      first: false
+    - orcid: http://orcid.org/0000-0003-3010-8453
+      name: Kimberley A. Lewis
+      first: false
+    - orcid: ""
+      name: Rebecca L. Tarnopol
+      first: false
+    - orcid: http://orcid.org/0000-0002-6574-4276
+      name: Charles J. Lomba
+      first: false
+    - orcid: ""
+      name: Deborah A. Hogan
+      first: false
+    - orcid: ""
+      name: Matthew R. Parsek
+      first: false
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1128/mbio.02644-19
+  published: 2020
+  checked: true
 - doi: 10.7554/eLife.45084
   pdf: 10.7554~eLife.45084.pdf
+  title: Heterogeneity in surface sensing suggests a division of labor in
+    Pseudomonas aeruginosa populations
+  container: eLife
+  authors:
+    - orcid: http://orcid.org/0000-0003-0795-802X
+      name: Catherine R Armbruster
+      first: true
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K Lee
+      first: false
+    - orcid: ""
+      name: Jessica Parker-Gilham
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Aiguo Xia
+      first: false
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Keiji Murakami
+      first: false
+    - orcid: http://orcid.org/0000-0001-7563-0232
+      name: Boo Shan Tseng
+      first: false
+    - orcid: ""
+      name: Lucas R Hoffman
+      first: false
+    - orcid: http://orcid.org/0000-0003-2313-0388
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Caroline S Harwood
+      first: false
+    - orcid: ""
+      name: Gerard CL Wong
+      first: false
+    - orcid: http://orcid.org/0000-0003-2932-7966
+      name: Matthew R Parsek
+      first: false
+  URL: http://dx.doi.org/10.7554/elife.45084
+  published: 2019
+  checked: true
 - doi: 10.1094/MPMI-04-19-0111-R
   pdf: 10.1094~MPMI-04-19-0111-R.pdf
+  title: Extended Hopanoid Loss Reduces Bacterial Motility and Surface Attachment
+    and Leads to Heterogeneity in Root Nodule Growth Kinetics in a
+    <i>Bradyrhizobium-Aeschynomene</i> Symbiosis
+  container: Molecular Plant-Microbe Interactions®
+  shortContainer: MPMI
+  authors:
+    - orcid: ""
+      name: Brittany J. Belin
+      first: true
+    - orcid: ""
+      name: Elise M. Tookmanian
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0003-1647-1918
+      name: Dianne K. Newman
+      first: false
+  URL: http://dx.doi.org/10.1094/mpmi-04-19-0111-r
+  published: 2019
+  checked: true
 - doi: 10.1038/s41586-019-1167-6
   pdf: 10.1038~s41586-019-1167-6.pdf
+  title: Externalized histone H4 orchestrates chronic inflammation by inducing
+    lytic cell death
+  container: Nature
+  shortContainer: Nature
+  authors:
+    - orcid: ""
+      name: Carlos Silvestre-Roig
+      first: true
+    - orcid: ""
+      name: Quinte Braster
+      first: false
+    - orcid: ""
+      name: Kanin Wichapong
+      first: false
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Jean Marie Teulon
+      first: false
+    - orcid: ""
+      name: Nihel Berrebeh
+      first: false
+    - orcid: ""
+      name: Janine Winter
+      first: false
+    - orcid: ""
+      name: José M. Adrover
+      first: false
+    - orcid: ""
+      name: Giancarlo Santiago Santos
+      first: false
+    - orcid: ""
+      name: Alexander Froese
+      first: false
+    - orcid: ""
+      name: Patricia Lemnitzer
+      first: false
+    - orcid: ""
+      name: Almudena Ortega-Gómez
+      first: false
+    - orcid: ""
+      name: Raphael Chevre
+      first: false
+    - orcid: ""
+      name: Julian Marschner
+      first: false
+    - orcid: ""
+      name: Ariane Schumski
+      first: false
+    - orcid: ""
+      name: Carla Winter
+      first: false
+    - orcid: ""
+      name: Laura Perez-Olivares
+      first: false
+    - orcid: ""
+      name: Chang Pan
+      first: false
+    - orcid: ""
+      name: Nicole Paulin
+      first: false
+    - orcid: ""
+      name: Tom Schoufour
+      first: false
+    - orcid: ""
+      name: Helene Hartwig
+      first: false
+    - orcid: ""
+      name: Silvia González-Ramos
+      first: false
+    - orcid: ""
+      name: Frits Kamp
+      first: false
+    - orcid: ""
+      name: Remco T. A. Megens
+      first: false
+    - orcid: ""
+      name: Kerri A. Mowen
+      first: false
+    - orcid: ""
+      name: Matthias Gunzer
+      first: false
+    - orcid: ""
+      name: Lars Maegdefessel
+      first: false
+    - orcid: ""
+      name: Tilman Hackeng
+      first: false
+    - orcid: ""
+      name: Esther Lutgens
+      first: false
+    - orcid: ""
+      name: Mat Daemen
+      first: false
+    - orcid: ""
+      name: Julia von Blume
+      first: false
+    - orcid: ""
+      name: Hans-Joachim Anders
+      first: false
+    - orcid: ""
+      name: Viacheslav O. Nikolaev
+      first: false
+    - orcid: ""
+      name: Jean-Luc Pellequer
+      first: false
+    - orcid: ""
+      name: Christian Weber
+      first: false
+    - orcid: ""
+      name: Andrés Hidalgo
+      first: false
+    - orcid: ""
+      name: Gerry A. F. Nicolaes
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Oliver Soehnlein
+      first: false
+  URL: http://dx.doi.org/10.1038/s41586-019-1167-6
+  published: 2019
+  checked: true
 - doi: 10.1128/mBio.00670-19
   pdf: 10.1128~mBio.00670-19.pdf
+  title: >-
+    Functional Specialization in
+                <i>Vibrio cholerae</i>
+                Diguanylate Cyclases: Distinct Modes of Motility Suppression and c-di-GMP Production
+  container: mBio
+  shortContainer: mBio
+  authors:
+    - orcid: ""
+      name: David Zamorano-Sánchez
+      first: true
+    - orcid: ""
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Mauro Salinas
+      first: false
+    - orcid: ""
+      name: Wiriya Thongsomboon
+      first: false
+    - orcid: ""
+      name: Lynette Cegelski
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Fitnat H. Yildiz
+      first: false
+  URL: http://dx.doi.org/10.1128/mbio.00670-19
+  published: 2019
+  checked: true
 - doi: 10.1038/s41467-019-09683-z
   pdf: 10.1038~s41467-019-09683-z.pdf
+  title: CXCL4 assembles DNA into liquid crystalline complexes to amplify
+    TLR9-mediated interferon-α production in systemic sclerosis
+  container: Nature Communications
+  shortContainer: Nat Commun
+  authors:
+    - orcid: ""
+      name: Roberto Lande
+      first: true
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Raffaella Palazzo
+      first: false
+    - orcid: ""
+      name: Barbara Marinari
+      first: false
+    - orcid: ""
+      name: Immacolata Pietraforte
+      first: false
+    - orcid: ""
+      name: Giancarlo Santiago Santos
+      first: false
+    - orcid: ""
+      name: Yves Mattenberger
+      first: false
+    - orcid: ""
+      name: Francesca Spadaro
+      first: false
+    - orcid: ""
+      name: Katia Stefanantoni
+      first: false
+    - orcid: ""
+      name: Nicoletta Iannace
+      first: false
+    - orcid: ""
+      name: Aleksandra Maria Dufour
+      first: false
+    - orcid: ""
+      name: Mario Falchi
+      first: false
+    - orcid: ""
+      name: Manuela Bianco
+      first: false
+    - orcid: ""
+      name: Elisabetta Botti
+      first: false
+    - orcid: ""
+      name: Luca Bianchi
+      first: false
+    - orcid: ""
+      name: Montserrat Alvarez
+      first: false
+    - orcid: ""
+      name: Valeria Riccieri
+      first: false
+    - orcid: ""
+      name: Marie-Elise Truchetet
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Carlo Chizzolini
+      first: false
+    - orcid: ""
+      name: Loredana Frasca
+      first: false
+  URL: http://dx.doi.org/10.1038/s41467-019-09683-z
+  published: 2019
+  checked: true
 - doi: 10.1073/pnas.1819250116
   pdf: 10.1073~pnas.1819250116.pdf
+  title: Unifying structural signature of eukaryotic α-helical host defense peptides
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: http://orcid.org/0000-0002-7079-5211
+      name: Nannette Y. Yount
+      first: true
+    - orcid: ""
+      name: David C. Weaver
+      first: false
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Huiyuan Wang
+      first: false
+    - orcid: http://orcid.org/0000-0003-2567-4418
+      name: Liana C. Chan
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Michael R. Yeaman
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1819250116
+  published: 2019
+  checked: true
 - doi: 10.1038/s41467-019-08868-w
   pdf: 10.1038~s41467-019-08868-w.pdf
-
+  title: Helical antimicrobial peptides assemble into protofibril scaffolds that
+    present ordered dsDNA to TLR9
+  container: Nature Communications
+  shortContainer: Nat Commun
+  authors:
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Changsheng Zhang
+      first: false
+    - orcid: http://orcid.org/0000-0002-6281-3918
+      name: Jeremy Di Domizio
+      first: false
+    - orcid: http://orcid.org/0000-0003-2313-0388
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Will Connell
+      first: false
+    - orcid: ""
+      name: Mandy Hung
+      first: false
+    - orcid: ""
+      name: Nicolas Malkoff
+      first: false
+    - orcid: ""
+      name: Veronica Veksler
+      first: false
+    - orcid: ""
+      name: Michel Gilliet
+      first: false
+    - orcid: http://orcid.org/0000-0002-5613-1910
+      name: Pengyu Ren
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1038/s41467-019-08868-w
+  published: 2019
+  checked: true
 - doi: 10.1016/j.semcdb.2018.02.002
   pdf: 10.1016~j.semcdb.2018.02.002.pdf
-  additional: >
+  additional: |
     Invited review for special issue "Antimicrobial Peptides"
-
+  title: Modulation of toll-like receptor signaling by antimicrobial peptides
+  container: Seminars in Cell &amp; Developmental Biology
+  shortContainer: Seminars in Cell &amp; Developmental Biology
+  authors:
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.semcdb.2018.02.002
+  published: 2019
+  checked: true
 - doi: 10.1016/j.cocis.2018.11.003
   pdf: 10.1016~j.cocis.2018.11.003.pdf
+  title: "Machine learning antimicrobial peptide sequences: Some surprising
+    variations on the theme of amphiphilic assembly"
+  container: Current Opinion in Colloid &amp; Interface Science
+  shortContainer: Current Opinion in Colloid &amp; Interface Science
+  authors:
+    - orcid: ""
+      name: Michelle W. Lee
+      first: true
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Andrew L. Ferguson
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.cocis.2018.11.003
+  published: 2018
+  checked: true
 - doi: 10.1021/acs.bioconjchem.8b00176
   pdf: 10.1021~acs.bioconjchem.8b00176.pdf
-
+  title: What Can Pleiotropic Proteins in Innate Immunity Teach Us about
+    Bioconjugation and Molecular Design?
+  container: Bioconjugate Chemistry
+  shortContainer: Bioconjugate Chem.
+  authors:
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: true
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/acs.bioconjchem.8b00176
+  published: 2018
+  checked: true
 - doi: 10.1073/pnas.1720071115
   pdf: 10.1073~pnas.1720071115.pdf
   additional: >
     [Read UCLA Press
     Release](http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla)
-
+  title: Multigenerational memory and adaptive adhesion in early bacterial biofilm
+    communities
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: true
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Amy E. Baker
+      first: false
+    - orcid: ""
+      name: Rachel R. Bennett
+      first: false
+    - orcid: ""
+      name: Yun Luo
+      first: false
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Joshua A. Keefe
+      first: false
+    - orcid: ""
+      name: Joshua S. Helali
+      first: false
+    - orcid: ""
+      name: Jie Ma
+      first: false
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: http://orcid.org/0000-0002-2861-4392
+      name: George A. O’Toole
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1720071115
+  published: 2018
+  checked: true
 - doi: 10.1038/s41598-018-22409-3
   pdf: 10.1038~s41598-018-22409-3.pdf
+  title: Cathelicidin promotes inflammation by enabling binding of self-RNA to
+    cell surface scavenger receptors
+  container: Scientific Reports
+  shortContainer: Sci Rep
+  authors:
+    - orcid: ""
+      name: Toshiya Takahashi
+      first: true
+    - orcid: ""
+      name: Nikhil Nitin Kulkarni
+      first: false
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y Lee
+      first: false
+    - orcid: ""
+      name: Ling-juan Zhang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-1401-7861
+      name: Richard L. Gallo
+      first: false
+  URL: http://dx.doi.org/10.1038/s41598-018-22409-3
+  published: 2018
+  checked: true
 - doi: 10.1002/9783527697106.ch18
   pdf: 10.1002~9783527697106.ch18.pdf
-
+  title: Applications of Synchrotron-Based Spectroscopic Techniques in Studying
+    Nucleic Acids and Nucleic-Acid-Based Nanomaterials
+  container: Synchrotron Radiation in Materials Science
+  authors:
+    - orcid: ""
+      name: Peiwen Wu
+      first: true
+    - orcid: ""
+      name: Yang Yu
+      first: false
+    - orcid: ""
+      name: Claire E. McGhee
+      first: false
+    - orcid: ""
+      name: Li H. Tan
+      first: false
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Gerard Wong
+      first: false
+    - orcid: ""
+      name: Yi Lu
+      first: false
+  URL: http://dx.doi.org/10.1002/9783527697106.ch18
+  published: 2018
+  checked: true
+- doi: 10.1016/j.bmc.2017.07.012
+  pdf: 10.1016~j.bmc.2017.07.012.pdf
+  additional: |
+    Invited review for "Peptide Therapeutics" symposium-in-print
+  title: Machine learning-enabled discovery and design of membrane-active peptides
+  container: Bioorganic &amp; Medicinal Chemistry
+  shortContainer: Bioorganic &amp; Medicinal Chemistry
+  authors:
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Andrew L. Ferguson
+      first: false
+  URL: http://dx.doi.org/10.1016/j.bmc.2017.07.012
+  published: 2018
+  checked: true
 - doi: 10.1021/acscentsci.7b00338
   pdf: 10.1021~acscentsci.7b00338.pdf
   additional: >
     [Read UCLA Press
     Release](http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses)
     ![ACS Central Science Cover](/img/covers/10.1021~acscentsci.7b00338.jpg)
-
+  title: Molecular Motor Dnm1 Synergistically Induces Membrane Curvature To
+    Facilitate Mitochondrial Fission
+  container: ACS Central Science
+  shortContainer: ACS Cent. Sci.
+  authors:
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: true
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0002-3310-3992
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Nolan W. Kennedy
+      first: false
+    - orcid: http://orcid.org/0000-0002-1445-6522
+      name: Ammon E. Posey
+      first: false
+    - orcid: http://orcid.org/0000-0001-5074-0304
+      name: Wujing Xian
+      first: false
+    - orcid: http://orcid.org/0000-0002-8829-9726
+      name: Andrew L. Ferguson
+      first: false
+    - orcid: http://orcid.org/0000-0001-6228-3905
+      name: R. Blake Hill
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/acscentsci.7b00338
+  published: 2017
+  checked: true
 - doi: 10.1021/acsnano.7b05234
   pdf: 10.1021~acsnano.7b05234.pdf
+  title: Crystallinity of Double-Stranded RNA-Antimicrobial Peptide Complexes
+    Modulates Toll-Like Receptor 3-Mediated Inflammation
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Toshiya Takahashi
+      first: false
+    - orcid: ""
+      name: Tine Curk
+      first: false
+    - orcid: ""
+      name: Jure Dobnikar
+      first: false
+    - orcid: ""
+      name: Richard L. Gallo
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.7b05234
+  published: 2017
+  checked: true
 - doi: 10.1021/acsnano.7b04738
   pdf: 10.1021~acsnano.7b04738.pdf
-
-- doi: 10.1016/j.bmc.2017.07.012
-  pdf: 10.1016~j.bmc.2017.07.012.pdf
-  additional: >
-    Invited review for "Peptide Therapeutics" symposium-in-print
-
+  title: High-Speed “4D” Computational Microscopy of Bacterial Surface Motility
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: true
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Rachel R. Bennett
+      first: false
+    - orcid: ""
+      name: Xiang Ji
+      first: false
+    - orcid: ""
+      name: Soheil Soltani
+      first: false
+    - orcid: ""
+      name: Mark C. Harrison
+      first: false
+    - orcid: ""
+      name: Amy E. Baker
+      first: false
+    - orcid: ""
+      name: Yun Luo
+      first: false
+    - orcid: ""
+      name: Tom Chou
+      first: false
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+    - orcid: http://orcid.org/0000-0001-9890-5104
+      name: Andrea M. Armani
+      first: false
+    - orcid: http://orcid.org/0000-0002-3149-4002
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.7b04738
+  published: 2017
+  checked: true
 - doi: 10.1159/000477990
   pdf: 10.1159~000477990.pdf
   additional: >
-    Highlighted in [Science](http://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut)
-    <a href="https://www.karger.com/Article/Abstract/481584">![Cover](/img/covers/10.1159~000477990.jpg)</a>
-
+    Highlighted in
+    [Science](http://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut)
+    <a
+    href="https://www.karger.com/Article/Abstract/481584">![Cover](/img/covers/10.1159~000477990.jpg)</a>
+  title: A Role for Neuronal Alpha-Synuclein in Gastrointestinal Immunity
+  container: Journal of Innate Immunity
+  shortContainer: J Innate Immun
+  authors:
+    - orcid: ""
+      name: Ethan Stolzenberg
+      first: true
+    - orcid: ""
+      name: Deborah Berry
+      first: false
+    - orcid: ""
+      name: De Yang
+      first: false
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Alexander Kroemer
+      first: false
+    - orcid: ""
+      name: Stuart Kaufman
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Joost J. Oppenheim
+      first: false
+    - orcid: ""
+      name: Supti Sen
+      first: false
+    - orcid: ""
+      name: Thomas Fishbein
+      first: false
+    - orcid: ""
+      name: Ad Bax
+      first: false
+    - orcid: ""
+      name: Brent Harris
+      first: false
+    - orcid: ""
+      name: Denise Barbut
+      first: false
+    - orcid: ""
+      name: Michael A. Zasloff
+      first: false
+  URL: http://dx.doi.org/10.1159/000477990
+  published: 2017
+  checked: true
 - doi: 10.1098/rsfs.2016.0153
   pdf: 10.1098~rsfs.2016.0153.pdf
   additional: >
-    Invited review for special issue "Self-assembled peptides: from nanostructure to bioactivity"
-
+    Invited review for special issue "Self-assembled peptides: from
+    nanostructure to bioactivity"
+  title: What can machine learning do for antimicrobial peptides, and what can
+    antimicrobial peptides do for machine learning?
+  container: Interface Focus
+  shortContainer: Interface Focus.
+  authors:
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: true
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Benjamin M. Fulan
+      first: false
+    - orcid: http://orcid.org/0000-0002-8829-9726
+      name: Andrew L. Ferguson
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1098/rsfs.2016.0153
+  published: 2017
+  checked: true
 - doi: 10.1371/journal.ppat.1006315
   pdf: 10.1371~journal.ppat.1006315.pdf
+  title: Bacterial amyloid curli acts as a carrier for DNA to elicit an autoimmune
+    response via TLR2 and TLR9
+  container: PLOS Pathogens
+  shortContainer: PLoS Pathog
+  authors:
+    - orcid: ""
+      name: Sarah A. Tursi
+      first: true
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: http://orcid.org/0000-0003-4449-2441
+      name: Nicole J. Medeiros
+      first: false
+    - orcid: ""
+      name: Michael H. Lee
+      first: false
+    - orcid: ""
+      name: Lauren K. Nicastro
+      first: false
+    - orcid: ""
+      name: Bettina Buttaro
+      first: false
+    - orcid: http://orcid.org/0000-0003-4737-8003
+      name: Stefania Gallucci
+      first: false
+    - orcid: ""
+      name: Ronald Paul Wilson
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0001-7073-0226
+      name: Çagla Tükel
+      first: false
+  URL: http://dx.doi.org/10.1371/journal.ppat.1006315
+  published: 2017
+  checked: true
 - doi: 10.1021/acs.bioconjchem.6b00725
   pdf: 10.1021~acs.bioconjchem.6b00725.pdf
+  title: Designing Hybrid Antibiotic Peptide Conjugates To Cross Bacterial Membranes
+  container: Bioconjugate Chemistry
+  shortContainer: Bioconjugate Chem.
+  authors:
+    - orcid: ""
+      name: Stephanie Deshayes
+      first: true
+    - orcid: ""
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Shadi Kordbacheh
+      first: false
+    - orcid: ""
+      name: Juelline Lieng
+      first: false
+    - orcid: ""
+      name: Jennifer Wang
+      first: false
+    - orcid: ""
+      name: Sandra Zarmer
+      first: false
+    - orcid: ""
+      name: Samantha St. Germain
+      first: false
+    - orcid: ""
+      name: Laura Voyen
+      first: false
+    - orcid: ""
+      name: Julia Thulin
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0003-2355-6258
+      name: Andrea M. Kasko
+      first: false
+  URL: http://dx.doi.org/10.1021/acs.bioconjchem.6b00725
+  published: 2017
+  checked: true
 - doi: 10.1021/acsnano.6b07981
   pdf: 10.1021~acsnano.6b07981.pdf
+  title: Interactions between Membranes and “Metaphilic” Polypeptide Architectures
+    with Diverse Side-Chain Populations
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: true
+    - orcid: ""
+      name: Ming Han
+      first: false
+    - orcid: ""
+      name: Guilherme Volpe Bossa
+      first: false
+    - orcid: ""
+      name: Carly Snell
+      first: false
+    - orcid: ""
+      name: Ziyuan Song
+      first: false
+    - orcid: ""
+      name: Haoyu Tang
+      first: false
+    - orcid: http://orcid.org/0000-0002-4573-0555
+      name: Lichen Yin
+      first: false
+    - orcid: ""
+      name: Jianjun Cheng
+      first: false
+    - orcid: ""
+      name: Sylvio May
+      first: false
+    - orcid: http://orcid.org/0000-0003-2364-1866
+      name: Erik Luijten
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.6b07981
+  published: 2017
+  checked: true
 - doi: 10.1038/srep45467
   pdf: 10.1038~srep45467.pdf
+  title: Emergence of complex behavior in pili-based motility in early stages of
+    P. aeruginosa surface adaptation
+  container: Scientific Reports
+  shortContainer: Sci Rep
+  authors:
+    - orcid: ""
+      name: Yifat Brill-Karniely
+      first: true
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Daan Frenkel
+      first: false
+    - orcid: ""
+      name: Jure Dobnikar
+      first: false
+  URL: http://dx.doi.org/10.1038/srep45467
+  published: 2017
+  checked: true
 - doi: 10.4049/jimmunol.1601226
   pdf: 10.4049~jimmunol.1601226.pdf
+  title: Direct Antimicrobial Activity of IFN-β
+  container: The Journal of Immunology
+  authors:
+    - orcid: http://orcid.org/0000-0003-1917-0512
+      name: Amber Kaplan
+      first: true
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Andrea J. Wolf
+      first: false
+    - orcid: ""
+      name: Jose J. Limon
+      first: false
+    - orcid: http://orcid.org/0000-0002-8992-9267
+      name: Courtney A. Becker
+      first: false
+    - orcid: http://orcid.org/0000-0001-7497-8157
+      name: Minna Ding
+      first: false
+    - orcid: http://orcid.org/0000-0002-8384-2793
+      name: Ramachandran Murali
+      first: false
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: George Y. Liu
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-2989-658X
+      name: David M. Underhill
+      first: false
+  URL: http://dx.doi.org/10.4049/jimmunol.1601226
+  published: 2017
+  checked: true
 - doi: 10.1103/PhysRevLett.117.178102
   pdf: 10.1103~PhysRevLett.117.178102.pdf
+  title: |-
+    Multicellular Self-Organization of 
+    <i>P. aeruginosa</i>
+     due to Interactions with Secreted Trails
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Anatolij Gelimson
+      first: true
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: W. Till Kranz
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.117.178102
+  published: 2016
+  checked: true
 - doi: 10.1021/acsnano.6b03655
   pdf: 10.1021~acsnano.6b03655.pdf
-
+  title: Nanoelectronic Investigation Reveals the Electrochemical Basis of
+    Electrical Conductivity in <i>Shewanella</i> and <i>Geobacter</i>
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: ""
+      name: Mengning Ding
+      first: true
+    - orcid: ""
+      name: Hui-Ying Shiu
+      first: false
+    - orcid: ""
+      name: Shiue-Lin Li
+      first: false
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Gongming Wang
+      first: false
+    - orcid: ""
+      name: Hao Wu
+      first: false
+    - orcid: ""
+      name: Nathan O. Weiss
+      first: false
+    - orcid: ""
+      name: Thomas D. Young
+      first: false
+    - orcid: ""
+      name: Paul S. Weiss
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Kenneth H. Nealson
+      first: false
+    - orcid: ""
+      name: Yu Huang
+      first: false
+    - orcid: ""
+      name: Xiangfeng Duan
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.6b03655
+  published: 2016
+  checked: true
 - doi: 10.1021/acsnano.6b05123
   pdf: 10.1021~acsnano.6b05123.pdf
   see-also:
     - doi: 10.1021/acsnano.6b06461
     - pdf: 10.1021~acsnano.6b06461.pdf
-
+  title: Evolution of Cell Size Homeostasis and Growth Rate Diversity during
+    Initial Surface Colonization of <i>Shewanella oneidensis</i>
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: ""
+      name: Calvin K. Lee
+      first: true
+    - orcid: ""
+      name: Alexander J. Kim
+      first: false
+    - orcid: ""
+      name: Giancarlo S. Santos
+      first: false
+    - orcid: ""
+      name: Peter Y. Lai
+      first: false
+    - orcid: ""
+      name: Stella Y. Lee
+      first: false
+    - orcid: ""
+      name: David F. Qiao
+      first: false
+    - orcid: ""
+      name: Jaime De Anda
+      first: false
+    - orcid: ""
+      name: Thomas D. Young
+      first: false
+    - orcid: ""
+      name: Yujie Chen
+      first: false
+    - orcid: ""
+      name: Annette R. Rowe
+      first: false
+    - orcid: ""
+      name: Kenneth H. Nealson
+      first: false
+    - orcid: ""
+      name: Paul S. Weiss
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.6b05123
+  published: 2016
+  checked: true
 - doi: 10.1073/pnas.1609893113
   pdf: 10.1073~pnas.1609893113.pdf
+  title: Mapping membrane activity in undiscovered peptide sequence space using
+    machine learning
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Benjamin M. Fulan
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-8829-9726
+      name: Andrew L. Ferguson
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1609893113
+  published: 2016
+  checked: true
 - doi: 10.1103/PhysRevLett.117.038101
   pdf: 10.1103~PhysRevLett.117.038101.pdf
+  title: Effective Dynamics of Microorganisms That Interact with Their Own Trail
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: W. Till Kranz
+      first: true
+    - orcid: ""
+      name: Anatolij Gelimson
+      first: false
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.117.038101
+  published: 2016
+  checked: true
 - doi: 10.1371/journal.ppat.1005705
   pdf: 10.1371~journal.ppat.1005705.pdf
+  title: S100A12 Is Part of the Antimicrobial Network against Mycobacterium leprae
+    in Human Macrophages
+  container: PLOS Pathogens
+  shortContainer: PLoS Pathog
+  authors:
+    - orcid: ""
+      name: Susan Realegeno
+      first: true
+    - orcid: ""
+      name: Kindra M. Kelly-Scumpia
+      first: false
+    - orcid: ""
+      name: Angeline Tilly Dang
+      first: false
+    - orcid: ""
+      name: Jing Lu
+      first: false
+    - orcid: ""
+      name: Rosane Teles
+      first: false
+    - orcid: ""
+      name: Philip T. Liu
+      first: false
+    - orcid: ""
+      name: Mirjam Schenk
+      first: false
+    - orcid: http://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Euzenir N. Sarno
+      first: false
+    - orcid: ""
+      name: Thomas H. Rea
+      first: false
+    - orcid: ""
+      name: Maria T. Ochoa
+      first: false
+    - orcid: ""
+      name: Matteo Pellegrini
+      first: false
+    - orcid: ""
+      name: Robert L. Modlin
+      first: false
+  URL: http://dx.doi.org/10.1371/journal.ppat.1005705
+  published: 2016
+  checked: true
 - doi: 10.1073/pnas.1603016113
   pdf: 10.1073~pnas.1603016113.pdf
+  title: |-
+    Three-dimensional architecture of
+                <i>Vibrio cholera</i>
+                biofilms
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+  URL: http://dx.doi.org/10.1073/pnas.1603016113
+  published: 2016
+  checked: true
 - doi: 10.1007/978-3-319-32949-9_10
   pdf: 10.1007~978-3-319-32949-9_10.pdf
+  title: How to Teach Old Antibiotics New Tricks
+  container: Host Defense Peptides and Their Potential as Therapeutic Agents
+  authors:
+    - orcid: ""
+      name: Stephanie Deshayes
+      first: true
+    - orcid: ""
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Andrea Kasko
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1007/978-3-319-32949-9_10
+  published: 2016
+  checked: true
 - doi: 10.1016/j.mib.2016.02.004
   pdf: 10.1016~j.mib.2016.02.004.pdf
-
+  title: "Sensational biofilms: surface sensing in bacteria"
+  container: Current Opinion in Microbiology
+  shortContainer: Current Opinion in Microbiology
+  authors:
+    - orcid: ""
+      name: George A O’Toole
+      first: true
+    - orcid: ""
+      name: Gerard CL Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.mib.2016.02.004
+  published: 2016
+  checked: true
 - doi: 10.1016/j.cis.2016.02.003
   pdf: 10.1016~j.cis.2016.02.003.pdf
-  additional: >
+  additional: |
     Invited review for special issue "Polyelectrolytes"
-
+  title: A review of immune amplification via ligand clustering by self-assembled
+    liquid-crystalline DNA complexes
+  container: Advances in Colloid and Interface Science
+  shortContainer: Advances in Colloid and Interface Science
+  authors:
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: true
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Roberto Lande
+      first: false
+    - orcid: ""
+      name: Tine Curk
+      first: false
+    - orcid: ""
+      name: Daan Frenkel
+      first: false
+    - orcid: http://orcid.org/0000-0002-1169-6619
+      name: Jure Dobnikar
+      first: false
+    - orcid: ""
+      name: Michel Gilliet
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.cis.2016.02.003
+  published: 2016
+  checked: true
 - doi: 10.1021/acs.langmuir.5b04332
   pdf: 10.1021~acs.langmuir.5b04332.pdf
+  title: Oxidation of Membrane Curvature-Regulating Phosphatidylethanolamine Lipid
+    Results in Formation of Bilayer and Cubic Structures
+  container: Langmuir
+  shortContainer: Langmuir
+  authors:
+    - orcid: ""
+      name: Shalene Sankhagowit
+      first: true
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Noah Malmstadt
+      first: false
+  URL: http://dx.doi.org/10.1021/acs.langmuir.5b04332
+  published: 2016
+  checked: true
 - doi: 10.1098/rsif.2015.0966
   pdf: 10.1098~rsif.2015.0966.pdf
-- doi: 10.1021/acsnano.5b07826
-  pdf: 10.1021~acsnano.5b07826.pdf
+  title: Species-dependent hydrodynamics of flagellum-tethered bacteria in early
+    biofilm development
+  container: Journal of The Royal Society Interface
+  shortContainer: J. R. Soc. Interface.
+  authors:
+    - orcid: ""
+      name: Rachel R. Bennett
+      first: true
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Jaime De Anda
+      first: false
+    - orcid: ""
+      name: Kenneth H. Nealson
+      first: false
+    - orcid: ""
+      name: Fitnat H. Yildiz
+      first: false
+    - orcid: ""
+      name: George A. O'Toole
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+  URL: http://dx.doi.org/10.1098/rsif.2015.0966
+  published: 2016
+  checked: true
 - doi: 10.1038/srep17790
   pdf: 10.1038~srep17790.pdf
+  title: Interplay between type IV pili activity and exopolysaccharides secretion
+    controls motility patterns in single cells of Myxococcus xanthus
+  container: Scientific Reports
+  shortContainer: Sci Rep
+  authors:
+    - orcid: ""
+      name: Wei Hu
+      first: true
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: false
+    - orcid: ""
+      name: Jing Wang
+      first: false
+    - orcid: ""
+      name: Chuandong Wang
+      first: false
+    - orcid: ""
+      name: Renate Lux
+      first: false
+    - orcid: ""
+      name: Yuezhong Li
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Wenyuan Shi
+      first: false
+  URL: http://dx.doi.org/10.1038/srep17790
+  published: 2016
+  checked: true
+- doi: 10.1021/acsnano.5b07826
+  pdf: 10.1021~acsnano.5b07826.pdf
+  title: "Tools for the Microbiome: Nano and Beyond"
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: ""
+      name: Julie S. Biteen
+      first: true
+    - orcid: ""
+      name: Paul C. Blainey
+      first: false
+    - orcid: ""
+      name: Zoe G. Cardon
+      first: false
+    - orcid: ""
+      name: Miyoung Chun
+      first: false
+    - orcid: ""
+      name: George M. Church
+      first: false
+    - orcid: ""
+      name: Pieter C. Dorrestein
+      first: false
+    - orcid: ""
+      name: Scott E. Fraser
+      first: false
+    - orcid: ""
+      name: Jack A. Gilbert
+      first: false
+    - orcid: ""
+      name: Janet K. Jansson
+      first: false
+    - orcid: ""
+      name: Rob Knight
+      first: false
+    - orcid: ""
+      name: Jeff F. Miller
+      first: false
+    - orcid: ""
+      name: Aydogan Ozcan
+      first: false
+    - orcid: ""
+      name: Kimberly A. Prather
+      first: false
+    - orcid: ""
+      name: Stephen R. Quake
+      first: false
+    - orcid: ""
+      name: Edward G. Ruby
+      first: false
+    - orcid: ""
+      name: Pamela A. Silver
+      first: false
+    - orcid: ""
+      name: Sharif Taha
+      first: false
+    - orcid: ""
+      name: Ger van den Engh
+      first: false
+    - orcid: ""
+      name: Paul S. Weiss
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Aaron T. Wright
+      first: false
+    - orcid: ""
+      name: Thomas D. Young
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.5b07826
+  published: 2015
+  checked: true
 - doi: 10.1016/j.tim.2015.09.002
   pdf: 10.1016~j.tim.2015.09.002.pdf
-
+  title: How Bacteria Use Type IV Pili Machinery on Surfaces
+  container: Trends in Microbiology
+  shortContainer: Trends in Microbiology
+  authors:
+    - orcid: ""
+      name: Berenike Maier
+      first: true
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.tim.2015.09.002
+  published: 2015
+  checked: true
 - doi: 10.1073/pnas.1507893112
   pdf: 10.1073~pnas.1507893112.pdf
-  additional: >
+  additional: |
     [Read Press Release](https://news.illinois.edu/blog/view/6367/269573)
-
+  title: Helical antimicrobial polypeptides with radial amphiphilicity
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Menghua Xiong
+      first: true
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Rachael A. Mansbach
+      first: false
+    - orcid: ""
+      name: Ziyuan Song
+      first: false
+    - orcid: ""
+      name: Yan Bao
+      first: false
+    - orcid: ""
+      name: Richard M. Peek
+      first: false
+    - orcid: ""
+      name: Catherine Yao
+      first: false
+    - orcid: ""
+      name: Lin-Feng Chen
+      first: false
+    - orcid: http://orcid.org/0000-0002-8829-9726
+      name: Andrew L. Ferguson
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Jianjun Cheng
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1507893112
+  published: 2015
+  checked: true
 - doi: 10.1109/TMBMC.2015.2465515
   pdf: 10.1109~TMBMC.2015.2465515.pdf
+  title: A Dynamic Network Formation Model for Understanding Bacterial
+    Self-Organization Into Micro-Colonies
+  container: IEEE Transactions on Molecular, Biological and Multi-Scale Communications
+  shortContainer: IEEE Trans. Mol. Biol. Multi-Scale Commun.
+  authors:
+    - orcid: ""
+      name: Luca Canzian
+      first: true
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Mihaela van der Schaar
+      first: false
+  URL: http://dx.doi.org/10.1109/tmbmc.2015.2465515
+  published: 2015
+  checked: true
 - doi: 10.1073/pnas.1501430112
   pdf: 10.1073~pnas.1501430112.pdf
+  title: Viral fusion protein transmembrane domain adopts β-strand structure to
+    facilitate membrane topological changes for virus-cell fusion
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Hongwei Yao
+      first: true
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Alan J. Waring
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Mei Hong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1501430112
+  published: 2015
+  checked: true
 - doi: 10.1371/journal.ppat.1005068
   pdf: 10.1371~journal.ppat.1005068.pdf
-
+  title: C-di-GMP Regulates Motile to Sessile Transition by Modulating MshA Pili
+    Biogenesis and Near-Surface Motility Behavior in Vibrio cholerae
+  container: PLOS Pathogens
+  shortContainer: PLoS Pathog
+  authors:
+    - orcid: ""
+      name: Christopher J. Jones
+      first: true
+    - orcid: ""
+      name: Andrew Utada
+      first: false
+    - orcid: ""
+      name: Kimberly R. Davis
+      first: false
+    - orcid: ""
+      name: Wiriya Thongsomboon
+      first: false
+    - orcid: ""
+      name: David Zamorano Sanchez
+      first: false
+    - orcid: ""
+      name: Vinita Banakar
+      first: false
+    - orcid: ""
+      name: Lynette Cegelski
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Fitnat H. Yildiz
+      first: false
+  URL: http://dx.doi.org/10.1371/journal.ppat.1005068
+  published: 2015
+  checked: true
 - doi: 10.1038/nmat4298
   pdf: 10.1038~nmat4298.pdf
   additional: >
-    [Read Nature News and Views](http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html)
-    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-researchers-discover-molecular-rules-that-govern-autoimmune-disorders)
-
+    [Read Nature News and
+    Views](http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html) [Read
+    Press
+    Release](http://newsroom.ucla.edu/releases/ucla-researchers-discover-molecular-rules-that-govern-autoimmune-disorders)
+  title: Liquid-crystalline ordering of antimicrobial peptide-DNA complexes
+    controls TLR9 activation
+  container: Nature Materials
+  shortContainer: Nature Mater
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Roberto Lande
+      first: false
+    - orcid: ""
+      name: Tine Curk
+      first: false
+    - orcid: ""
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Calvin Lee
+      first: false
+    - orcid: ""
+      name: Loredana Frasca
+      first: false
+    - orcid: ""
+      name: Daan Frenkel
+      first: false
+    - orcid: ""
+      name: Jure Dobnikar
+      first: false
+    - orcid: ""
+      name: Michel Gilliet
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1038/nmat4298
+  published: 2015
+  checked: true
 - doi: 10.1021/acscentsci.5b00054
   pdf: 10.1021~acscentsci.5b00054.pdf
   additional: >
-    [Read Press Release](https://www.sciencedaily.com/releases/2015/04/150415092803.htm)
-
+    [Read Press
+    Release](https://www.sciencedaily.com/releases/2015/04/150415092803.htm)
+  title: Reinventing Cell Penetrating Peptides Using Glycosylated Methionine
+    Sulfonium Ion Sequences
+  container: ACS Central Science
+  shortContainer: ACS Cent. Sci.
+  authors:
+    - orcid: ""
+      name: Jessica R. Kramer
+      first: true
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Kristine M. Mayle
+      first: false
+    - orcid: ""
+      name: Daniel T. Kamei
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Timothy J. Deming
+      first: false
+  URL: http://dx.doi.org/10.1021/acscentsci.5b00054
+  published: 2015
+  checked: true
 - doi: 10.1038/nrmicro3433
   pdf: 10.1038~nrmicro3433.pdf
+  title: "Living in the matrix: assembly and control of Vibrio cholerae biofilms"
+  container: Nature Reviews Microbiology
+  shortContainer: Nat Rev Microbiol
+  authors:
+    - orcid: ""
+      name: Jennifer K. Teschler
+      first: true
+    - orcid: ""
+      name: David Zamorano-Sánchez
+      first: false
+    - orcid: ""
+      name: Andrew S. Utada
+      first: false
+    - orcid: ""
+      name: Christopher J. A. Warner
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Roger G. Linington
+      first: false
+    - orcid: ""
+      name: Fitnat H. Yildiz
+      first: false
+  URL: http://dx.doi.org/10.1038/nrmicro3433
+  published: 2015
+  checked: true
 - doi: 10.1038/jid.2015.40
   pdf: 10.1038~jid.2015.40.pdf
+  title: "Pentobra: A Potent Antibiotic with Multiple Layers of Selective
+    Antimicrobial Mechanisms against Propionibacterium Acnes"
+  container: Journal of Investigative Dermatology
+  shortContainer: Journal of Investigative Dermatology
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: George W. Agak
+      first: false
+    - orcid: ""
+      name: Stephanie Deshayes
+      first: false
+    - orcid: ""
+      name: Yang Yu
+      first: false
+    - orcid: ""
+      name: Alyssa Blacker
+      first: false
+    - orcid: ""
+      name: Jackson Champer
+      first: false
+    - orcid: ""
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Andrea M. Kasko
+      first: false
+    - orcid: ""
+      name: Jenny Kim
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1038/jid.2015.40
+  published: 2015
+  checked: true
 - doi: 10.1128/mBio.02456-14
   pdf: 10.1128~mBio.02456-14.pdf
+  title: A Hierarchical Cascade of Second Messengers Regulates Pseudomonas
+    aeruginosa Surface Behaviors
+  container: mBio
+  shortContainer: mBio
+  authors:
+    - orcid: ""
+      name: Yun Luo
+      first: true
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Amy E. Baker
+      first: false
+    - orcid: ""
+      name: Sherry L. Kuchma
+      first: false
+    - orcid: ""
+      name: Kimberly A. Coggan
+      first: false
+    - orcid: ""
+      name: Matthew C. Wolfgang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+  URL: http://dx.doi.org/10.1128/mbio.02456-14
+  published: 2015
+  checked: true
 - doi: 10.1021/ja507576a
   pdf: 10.1021~ja507576a.pdf
-
+  title: "Ternary Nylon-3 Copolymers as Host-Defense Peptide Mimics: Beyond
+    Hydrophobic and Cationic Subunits"
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Saswata Chakraborty
+      first: true
+    - orcid: ""
+      name: Runhui Liu
+      first: false
+    - orcid: ""
+      name: Zvi Hayouka
+      first: false
+    - orcid: ""
+      name: Xinyu Chen
+      first: false
+    - orcid: ""
+      name: Jeffrey Ehrhardt
+      first: false
+    - orcid: ""
+      name: Qin Lu
+      first: false
+    - orcid: ""
+      name: Eileen Burke
+      first: false
+    - orcid: ""
+      name: Yiqing Yang
+      first: false
+    - orcid: ""
+      name: Bernard Weisblum
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Kristyn S. Masters
+      first: false
+    - orcid: ""
+      name: Samuel H. Gellman
+      first: false
+  URL: http://dx.doi.org/10.1021/ja507576a
+  published: 2014
+  checked: true
 - doi: 10.1021/nn502201a
   pdf: 10.1021~nn502201a.pdf
   additional: >
-    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
-
+    [Read Press
+    Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
+  title: Engineering Persister-Specific Antibiotics with Synergistic Antimicrobial
+    Functions
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Stephanie Deshayes
+      first: false
+    - orcid: ""
+      name: Sinead Hawker
+      first: false
+    - orcid: ""
+      name: Alyssa Blacker
+      first: false
+    - orcid: ""
+      name: Andrea M. Kasko
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/nn502201a
+  published: 2014
+  checked: true
 - doi: 10.1038/ncomms5913
   pdf: 10.1038~ncomms5913.pdf
+  title: Vibrio cholerae use pili and flagella synergistically to effect motility
+    switching and conditional surface attachment
+  container: Nature Communications
+  shortContainer: Nat Commun
+  authors:
+    - orcid: ""
+      name: Andrew S. Utada
+      first: true
+    - orcid: ""
+      name: Rachel R. Bennett
+      first: false
+    - orcid: ""
+      name: Jiunn C. N. Fong
+      first: false
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: false
+    - orcid: ""
+      name: Fitnat H. Yildiz
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1038/ncomms5913
+  published: 2014
+  checked: true
 - doi: 10.1016/j.bbamem.2014.04.007
   pdf: 10.1016~j.bbamem.2014.04.007.pdf
+  title: Two interdependent mechanisms of antimicrobial activity allow for
+    efficient killing in nylon-3-based polymeric mimics of innate immunity
+    peptides
+  container: Biochimica et Biophysica Acta (BBA) - Biomembranes
+  shortContainer: Biochimica et Biophysica Acta (BBA) - Biomembranes
+  authors:
+    - orcid: ""
+      name: Michelle W. Lee
+      first: true
+    - orcid: ""
+      name: Saswata Chakraborty
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Rajan Murgai
+      first: false
+    - orcid: ""
+      name: Samuel H. Gellman
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.bbamem.2014.04.007
+  published: 2014
+  checked: true
 - doi: 10.1016/j.cossms.2013.09.004
   pdf: 10.1016~j.cossms.2013.09.004.pdf
+  title: "Antimicrobial peptides and induced membrane curvature: Geometry,
+    coordination chemistry, and molecular engineering"
+  container: Current Opinion in Solid State and Materials Science
+  shortContainer: Current Opinion in Solid State and Materials Science
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.cossms.2013.09.004
+  published: 2013
+  checked: true
 - doi: 10.1021/ja400146z
   pdf: 10.1021~ja400146z.pdf
-
+  title: Influenza Virus A M2 Protein Generates Negative Gaussian Membrane
+    Curvature Necessary for Budding and Scission
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Jun Wang
+      first: false
+    - orcid: ""
+      name: William F. DeGrado
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja400146z
+  published: 2013
+  checked: true
 - doi: 10.1038/nature12155
   pdf: 10.1038~nature12155.pdf
   additional: >
-    [Read Nature News and Views](http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html)
-    [Read Press Release](http://newsroom.ucla.edu/releases/study-shows-lucky-bacteria-strike-245840)
-
+    [Read Nature News and
+    Views](http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html)
+    [Read Press
+    Release](http://newsroom.ucla.edu/releases/study-shows-lucky-bacteria-strike-245840)
+  title: Psl trails guide exploration and microcolony formation in Pseudomonas
+    aeruginosa biofilms
+  container: Nature
+  shortContainer: Nature
+  authors:
+    - orcid: ""
+      name: Kun Zhao
+      first: true
+    - orcid: ""
+      name: Boo Shan Tseng
+      first: false
+    - orcid: ""
+      name: Bernard Beckerman
+      first: false
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: false
+    - orcid: ""
+      name: Joe J. Harrison
+      first: false
+    - orcid: ""
+      name: Erik Luijten
+      first: false
+    - orcid: ""
+      name: Matthew R. Parsek
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1038/nature12155
+  published: 2013
+  checked: true
 - doi: 10.1021/ma302577e
   pdf: 10.1021~ma302577e.pdf
+  title: A Critical Evaluation of Random Copolymer Mimesis of Homogeneous
+    Antimicrobial Peptides
+  container: Macromolecules
+  shortContainer: Macromolecules
+  authors:
+    - orcid: ""
+      name: Kan Hu
+      first: true
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Rui Zhu
+      first: false
+    - orcid: ""
+      name: Yunjiang Jiang
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Gang Wei
+      first: false
+    - orcid: ""
+      name: Edmund F. Palermo
+      first: false
+    - orcid: ""
+      name: Kenichi Kuroda
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Lihua Yang
+      first: false
+  URL: http://dx.doi.org/10.1021/ma302577e
+  published: 2013
+  checked: true
 - doi: 10.1073/pnas.1215089110
   pdf: 10.1073~pnas.1215089110.pdf
+  title: |-
+    Earthquake-like dynamics in
+                <i>Myxococcus xanthus</i>
+                social motility
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: true
+    - orcid: ""
+      name: Wei Hu
+      first: false
+    - orcid: ""
+      name: Karin A. Dahmen
+      first: false
+    - orcid: ""
+      name: Wenyuan Shi
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1215089110
+  published: 2013
+  checked: true
 - doi: 10.1021/ja308459j
   pdf: 10.1021~ja308459j.pdf
+  title: Molecular Basis for Nanoscopic Membrane Curvature Generation from Quantum
+    Mechanical Models and Synthetic Transporter Sequences
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Michael Lis
+      first: false
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Anastassia N. Alexandrova
+      first: false
+    - orcid: ""
+      name: Gregory N. Tew
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja308459j
+  published: 2012
+  checked: true
 - doi: 10.1074/jbc.M112.358721
   pdf: 10.1074~jbc.M112.358721.pdf
+  title: Arginine in α-Defensins
+  container: Journal of Biological Chemistry
+  shortContainer: Journal of Biological Chemistry
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Kenneth P. Tai
+      first: false
+    - orcid: ""
+      name: Karishma Kamdar
+      first: false
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Kun Zhao
+      first: false
+    - orcid: ""
+      name: André J. Ouellette
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1074/jbc.m112.358721
+  published: 2012
+  checked: true
 - doi: 10.1039/C2SM25405K
   pdf: 10.1039~C2SM25405K.pdf
+  title: Enhanced activity of cyclic transporter sequences driven by phase
+    behavior of peptide-lipid complexes
+  container: Soft Matter
+  shortContainer: Soft Matter
+  authors:
+    - orcid: ""
+      name: Kun Zhao
+      first: true
+    - orcid: ""
+      name: Uh-Joo Choe
+      first: false
+    - orcid: ""
+      name: Daniel T. Kamei
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1039/c2sm25405k
+  published: 2012
+  checked: true
 - doi: 10.1002/9781118180396.ch3
   pdf: 10.1002~9781118180396.ch3.pdf
+  title: Molecular Solvation Dynamics from Inelastic X-Ray Scattering Measurements
+  container: Advances in Chemical Physics
+  authors:
+    - orcid: ""
+      name: R. H. Coridan
+      first: true
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1002/9781118180396.ch3
+  published: 2012
+  checked: true
 - doi: 10.1103/PhysRevE.85.031501
   pdf: 10.1103~PhysRevE.85.031501.pdf
+  title: Dynamics of confined water reconstructed from inelastic x-ray scattering
+    measurements of bulk response functions
+  container: Physical Review E
+  shortContainer: Phys. Rev. E
+  authors:
+    - orcid: ""
+      name: Robert H. Coridan
+      first: true
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Peter Abbamonte
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physreve.85.031501
+  published: 2012
+  checked: true
 - doi: 10.1016/B978-0-12-381268-1.00016-1
   pdf: 10.1016~B978-0-12-381268-1.00016-1.pdf
-
+  title: Small-Angle X-ray Scattering Studies of Peptide-Lipid Interactions Using
+    the Mouse Paneth Cell α-Defensin Cryptdin-4
+  container: Methods in Enzymology
+  authors:
+    - orcid: ""
+      name: Abhijit Mishra
+      first: true
+    - orcid: ""
+      name: Kenneth P. Tai
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: André J. Ouellette
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/b978-0-12-381268-1.00016-1
+  published: 2011
+  checked: true
 - doi: 10.1073/pnas.1108795108
   pdf: 10.1073~pnas.1108795108.pdf
   additional: >
-    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290)
-
+    [Read Press
+    Release](http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290)
+  title: Translocation of HIV TAT peptide and analogues induced by multiplexed
+    membrane and cytoskeletal interactions
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Abhijit Mishra
+      first: true
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Victor Z. Sun
+      first: false
+    - orcid: ""
+      name: April R. Rodriguez
+      first: false
+    - orcid: ""
+      name: Rong Tong
+      first: false
+    - orcid: ""
+      name: Li Tang
+      first: false
+    - orcid: ""
+      name: Jianjun Cheng
+      first: false
+    - orcid: ""
+      name: Timothy J. Deming
+      first: false
+    - orcid: ""
+      name: Daniel T. Kamei
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1108795108
+  published: 2011
+  checked: true
 - doi: 10.1073/pnas.1108558108
   pdf: 10.1073~pnas.1108558108.pdf
   additional: >
-    [Read Press Release](https://www.sciencedaily.com/releases/2011/09/110919151306.htm)
-
+    [Read Press
+    Release](https://www.sciencedaily.com/releases/2011/09/110919151306.htm)
+  title: Squalamine as a broad-spectrum systemic antiviral agent with therapeutic
+    potential
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Michael Zasloff
+      first: true
+    - orcid: ""
+      name: A. Paige Adams
+      first: false
+    - orcid: ""
+      name: Bernard Beckerman
+      first: false
+    - orcid: ""
+      name: Ann Campbell
+      first: false
+    - orcid: ""
+      name: Ziying Han
+      first: false
+    - orcid: ""
+      name: Erik Luijten
+      first: false
+    - orcid: ""
+      name: Isaura Meza
+      first: false
+    - orcid: ""
+      name: Justin Julander
+      first: false
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Wei Qu
+      first: false
+    - orcid: ""
+      name: John M. Taylor
+      first: false
+    - orcid: ""
+      name: Scott C. Weaver
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1108558108
+  published: 2011
+  checked: true
 - doi: 10.1073/pnas.1105073108
   pdf: 10.1073~pnas.1105073108.pdf
   additional: >
-    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547)
-
+    [Read Press
+    Release](http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547)
+  title: Bacteria use type-IV pili to slingshot on surfaces
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Fan Jin
+      first: true
+    - orcid: ""
+      name: Jacinta C. Conrad
+      first: false
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1105073108
+  published: 2011
+  checked: true
 - doi: 10.1557/mrs.2011.64
   pdf: 10.1557~mrs.2011.64.pdf
+  title: "All together now: Integrating biofilm research across disciplines"
+  container: MRS Bulletin
+  shortContainer: MRS Bull.
+  authors:
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: true
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+  URL: http://dx.doi.org/10.1557/mrs.2011.64
+  published: 2011
+  checked: true
 - doi: 10.1021/ja200079a
   pdf: 10.1021~ja200079a.pdf
+  title: Criterion for Amino Acid Composition of Defensins and Antimicrobial
+    Peptides Based on Geometry of Membrane Destabilization
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: true
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Matthew Davis
+      first: false
+    - orcid: ""
+      name: Lori K. Sanders
+      first: false
+    - orcid: ""
+      name: Dat Tran
+      first: false
+    - orcid: ""
+      name: Angie Garcia
+      first: false
+    - orcid: ""
+      name: Kenneth P. Tai
+      first: false
+    - orcid: ""
+      name: Paul B. McCray
+      first: false
+    - orcid: ""
+      name: André J. Ouellette
+      first: false
+    - orcid: ""
+      name: Michael E. Selsted
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja200079a
+  published: 2011
+  checked: true
 - doi: 10.1371/journal.ppat.1001264
   pdf: 10.1371~journal.ppat.1001264.pdf
+  title: The Pel Polysaccharide Can Serve a Structural and Protective Role in the
+    Biofilm Matrix of Pseudomonas aeruginosa
+  container: PLoS Pathogens
+  shortContainer: PLoS Pathog
+  authors:
+    - orcid: ""
+      name: Kelly M. Colvin
+      first: true
+    - orcid: ""
+      name: Vernita D. Gordon
+      first: false
+    - orcid: ""
+      name: Keiji Murakami
+      first: false
+    - orcid: ""
+      name: Bradley R. Borlee
+      first: false
+    - orcid: ""
+      name: Daniel J. Wozniak
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Matthew R. Parsek
+      first: false
+  URL: http://dx.doi.org/10.1371/journal.ppat.1001264
+  published: 2011
+  checked: true
 - doi: 10.1016/j.bpj.2011.02.020
   pdf: 10.1016~j.bpj.2011.02.020.pdf
+  title: Flagella and Pili-Mediated Near-Surface Single-Cell Motility Mechanisms
+    in P. aeruginosa
+  container: Biophysical Journal
+  shortContainer: Biophysical Journal
+  authors:
+    - orcid: ""
+      name: Jacinta C. Conrad
+      first: true
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: false
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Vernita D. Gordon
+      first: false
+    - orcid: ""
+      name: Dominick A. Motto
+      first: false
+    - orcid: ""
+      name: Margie A. Mathewson
+      first: false
+    - orcid: ""
+      name: Wiktor G. Stopka
+      first: false
+    - orcid: ""
+      name: Daria C. Zelasko
+      first: false
+    - orcid: ""
+      name: Joshua D. Shrout
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.bpj.2011.02.020
+  published: 2011
+  checked: true
 - doi: 10.1126/science.1194238
   pdf: 10.1126~science.1194238.pdf
+  title: Bacteria Use Type IV Pili to Walk Upright and Detach from Surfaces
+  container: Science
+  shortContainer: Science
+  authors:
+    - orcid: ""
+      name: Maxsim L. Gibiansky
+      first: true
+    - orcid: ""
+      name: Jacinta C. Conrad
+      first: false
+    - orcid: ""
+      name: Fan Jin
+      first: false
+    - orcid: ""
+      name: Vernita D. Gordon
+      first: false
+    - orcid: ""
+      name: Dominick A. Motto
+      first: false
+    - orcid: ""
+      name: Margie A. Mathewson
+      first: false
+    - orcid: ""
+      name: Wiktor G. Stopka
+      first: false
+    - orcid: ""
+      name: Daria C. Zelasko
+      first: false
+    - orcid: ""
+      name: Joshua D. Shrout
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1126/science.1194238
+  published: 2010
+  checked: true
 - doi: 10.1002/adma.200904098
   pdf: 10.1002~adma.200904098.pdf
+  title: Ultrafast Imaging and the Phase Problem for Inelastic X-Ray Scattering
+  container: Advanced Materials
+  shortContainer: Adv. Mater.
+  authors:
+    - orcid: ""
+      name: Peter Abbamonte
+      first: true
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: David G. Cahill
+      first: false
+    - orcid: ""
+      name: James P. Reed
+      first: false
+    - orcid: ""
+      name: Robert H. Coridan
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Young Il Joe
+      first: false
+    - orcid: ""
+      name: Diego Casa
+      first: false
+  URL: http://dx.doi.org/10.1002/adma.200904098
+  published: 2010
+  checked: true
 - doi: 10.1146/annurev.physchem.58.032806.104436
   pdf: 10.1146~annurev.physchem.58.032806.104436.pdf
+  title: "Electrostatics of Strongly Charged Biological Polymers: Ion-Mediated
+    Interactions and Self-Organization in Nucleic Acids and Proteins"
+  container: Annual Review of Physical Chemistry
+  shortContainer: Annu. Rev. Phys. Chem.
+  authors:
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: true
+    - orcid: ""
+      name: Lois Pollack
+      first: false
+  URL: http://dx.doi.org/10.1146/annurev.physchem.58.032806.104436
+  published: 2010
+  checked: true
 - doi: 10.1016/j.febslet.2009.11.046
   pdf: 10.1016~j.febslet.2009.11.046.pdf
+  title: Arginine-rich cell-penetrating peptides
+  container: FEBS Letters
+  authors:
+    - orcid: ""
+      name: Nathan Schmidt
+      first: true
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1016/j.febslet.2009.11.046
+  published: 2009
+  checked: true
 - doi: 10.1021/la902290t
   pdf: 10.1021~la902290t.pdf
+  title: Influence of Salts and Natural Organic Matter on the Stability of
+    Bacteriophage MS2
+  container: Langmuir
+  shortContainer: Langmuir
+  authors:
+    - orcid: ""
+      name: Steven E. Mylon
+      first: true
+    - orcid: ""
+      name: Claudia I. Rinciog
+      first: false
+    - orcid: ""
+      name: Nathan Schmidt
+      first: false
+    - orcid: ""
+      name: Leonardo Gutierrez
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Thanh H. Nguyen
+      first: false
+  URL: http://dx.doi.org/10.1021/la902290t
+  published: 2009
+  checked: true
 - doi: 10.1016/j.radphyschem.2009.05.024
   pdf: 10.1016~j.radphyschem.2009.05.024.pdf
+  title: EXAFS studies of catalytic DNA sensors for mercury contamination of water
+  container: Radiation Physics and Chemistry
+  shortContainer: Radiation Physics and Chemistry
+  authors:
+    - orcid: ""
+      name: B. Ravel
+      first: true
+    - orcid: ""
+      name: S.C. Slimmer
+      first: false
+    - orcid: ""
+      name: X. Meng
+      first: false
+    - orcid: ""
+      name: G.C.L. Wong
+      first: false
+    - orcid: ""
+      name: Y. Lu
+      first: false
+  URL: http://dx.doi.org/10.1016/j.radphyschem.2009.05.024
+  published: 2009
+  checked: true
 - doi: 10.1103/PhysRevLett.103.237402
   pdf: 10.1103~PhysRevLett.103.237402.pdf
+  title: Hydration Dynamics at Femtosecond Time Scales and Angstrom Length Scales
+    from Inelastic X-Ray Scattering
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Robert H. Coridan
+      first: true
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: false
+    - orcid: ""
+      name: Rahul Godawat
+      first: false
+    - orcid: ""
+      name: Michael Krisch
+      first: false
+    - orcid: ""
+      name: Shekhar Garde
+      first: false
+    - orcid: ""
+      name: Peter Abbamonte
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.103.237402
+  published: 2009
+  checked: true
 - doi: 10.1103/PhysRevLett.103.238102
   pdf: 10.1103~PhysRevLett.103.238102.pdf
-- doi: 10.1088/0953-8984/17/14/001
-  pdf: 10.1088~0953-8984.pdf
+  title: Cooperativity and Frustration in Protein-Mediated Parallel Actin Bundles
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Homin Shin
+      first: true
+    - orcid: ""
+      name: Kirstin R. Purdy Drew
+      first: false
+    - orcid: ""
+      name: James R. Bartles
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Gregory M. Grason
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.103.238102
+  published: 2009
+  checked: true
 - doi: 10.1021/ja9067063
   pdf: 10.1021~ja9067063.pdf
+  title: Divalent Metal Ion Triggered Activity of a Synthetic Antimicrobial in
+    Cardiolipin Membranes
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Abhigyan Som
+      first: true
+    - orcid: ""
+      name: Lihua Yang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Gregory N. Tew
+      first: false
+  URL: http://dx.doi.org/10.1021/ja9067063
+  published: 2009
+  checked: true
 - doi: 10.1016/j.chembiol.2009.08.011
   pdf: 10.1016~j.chembiol.2009.08.011.pdf
+  title: Inorganic Mercury Detection and Controlled Release of Chelating Agents
+    from Ion-Responsive Liposomes
+  container: Chemistry &amp; Biology
+  shortContainer: Chemistry &amp; Biology
+  authors:
+    - orcid: ""
+      name: Mehmet Veysel Yigit
+      first: true
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Rong Tong
+      first: false
+    - orcid: ""
+      name: Jianjun Cheng
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Yi Lu
+      first: false
+  URL: http://dx.doi.org/10.1016/j.chembiol.2009.08.011
+  published: 2009
+  checked: true
 - doi: 10.1002/anie.200901452
   pdf: 10.1002~anie.200901452.pdf
+  title: Reversible Cell-Specific Drug Delivery with Aptamer-Functionalized Liposomes
+  container: Angewandte Chemie International Edition
+  shortContainer: Angew. Chem. Int. Ed.
+  authors:
+    - orcid: ""
+      name: Zehui Cao
+      first: true
+    - orcid: ""
+      name: Rong Tong
+      first: false
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Weichen Xu
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Jianjun Cheng
+      first: false
+    - orcid: ""
+      name: Yi Lu
+      first: false
+  URL: http://dx.doi.org/10.1002/anie.200901452
+  published: 2009
+  checked: true
 - doi: 10.1021/ja803925n
   pdf: 10.1021~ja803925n.pdf
+  title: Cationic Amphiphiles Increase Activity of Aminoglycoside Antibiotic
+    Tobramycin in the Presence of Airway Polyelectrolytes
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Kirstin R. Purdy Drew
+      first: true
+    - orcid: ""
+      name: Lori K. Sanders
+      first: false
+    - orcid: ""
+      name: Zachary W. Culumber
+      first: false
+    - orcid: ""
+      name: Olena Zribi
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja803925n
+  published: 2008
+  checked: true
 - doi: 10.1103/PhysRevE.78.030701
   pdf: 10.1103~PhysRevE.78.030701.pdf
+  title: Elasticity-mediated nematiclike bacterial organization in model
+    extracellular DNA matrix
+  container: Physical Review E
+  shortContainer: Phys. Rev. E
+  authors:
+    - orcid: ""
+      name: Ivan I. Smalyukh
+      first: true
+    - orcid: ""
+      name: John Butler
+      first: false
+    - orcid: ""
+      name: Joshua D. Shrout
+      first: false
+    - orcid: ""
+      name: Matthew R. Parsek
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physreve.78.030701
+  published: 2008
+  checked: true
 - doi: 10.1103/PhysRevLett.101.218303
   pdf: 10.1103~PhysRevLett.101.218303.pdf
+  title: "Self-Organized Gels in DNA/F-Actin Mixtures without Crosslinkers:
+    Networks of Induced Nematic Domains with Tunable Density"
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: true
+    - orcid: ""
+      name: John C. Butler
+      first: false
+    - orcid: ""
+      name: Olena V. Zribi
+      first: false
+    - orcid: ""
+      name: Ivan I. Smalyukh
+      first: false
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: false
+    - orcid: ""
+      name: Kirstin R. Purdy
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.101.218303
+  published: 2008
+  checked: true
 - doi: 10.1073/pnas.0806456105
   pdf: 10.1073~pnas.0806456105.pdf
+  title: "Mechanism of a prototypical synthetic membrane-active antimicrobial:
+    Efficient hole-punching via interaction with negative intrinsic curvature
+    lipids"
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Lihua Yang
+      first: true
+    - orcid: ""
+      name: Vernita D. Gordon
+      first: false
+    - orcid: ""
+      name: Dallas R. Trinkle
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Matthew A. Davis
+      first: false
+    - orcid: ""
+      name: Clarabelle DeVries
+      first: false
+    - orcid: ""
+      name: Abhigyan Som
+      first: false
+    - orcid: ""
+      name: John E. Cronan
+      first: false
+    - orcid: ""
+      name: Gregory N. Tew
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.0806456105
+  published: 2008
+  checked: true
 - doi: 10.1002/anie.200704444
   pdf: 10.1002~anie.200704444.pdf
+  title: "HIV TAT Forms Pores in Membranes by Inducing Saddle-Splay Curvature:
+    Potential Role of Bidentate Hydrogen Bonding"
+  container: Angewandte Chemie International Edition
+  shortContainer: Angew. Chem. Int. Ed.
+  authors:
+    - orcid: ""
+      name: Abhijit Mishra
+      first: true
+    - orcid: ""
+      name: Vernita D. Gordon
+      first: false
+    - orcid: ""
+      name: Lihua Yang
+      first: false
+    - orcid: ""
+      name: Robert Coridan
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1002/anie.200704444
+  published: 2008
+  checked: true
 - doi: 10.1073/pnas.0705898104
   pdf: 10.1073~pnas.0705898104.pdf
+  title: Control of electrostatic interactions between F-actin and genetically
+    modified lysozyme in aqueous media
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Lori K. Sanders
+      first: true
+    - orcid: ""
+      name: Wujing Xian
+      first: false
+    - orcid: ""
+      name: Camilo Guáqueta
+      first: false
+    - orcid: ""
+      name: Michael J. Strohman
+      first: false
+    - orcid: ""
+      name: Chuck R. Vrasich
+      first: false
+    - orcid: ""
+      name: Erik Luijten
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.0705898104
+  published: 2007
+  checked: true
 - doi: 10.1021/ja072310o
   pdf: 10.1021~ja072310o.pdf
+  title: Synthetic Antimicrobial Oligomers Induce a Composition-Dependent
+    Topological Transition in Membranes
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Lihua Yang
+      first: true
+    - orcid: ""
+      name: Vernita D. Gordon
+      first: false
+    - orcid: ""
+      name: Abhijit Mishra
+      first: false
+    - orcid: ""
+      name: Abhigyan Som
+      first: false
+    - orcid: ""
+      name: Kirstin R. Purdy
+      first: false
+    - orcid: ""
+      name: Matthew A. Davis
+      first: false
+    - orcid: ""
+      name: Gregory N. Tew
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja072310o
+  published: 2007
+  checked: true
 - doi: 10.1103/PhysRevLett.98.187802
   pdf: 10.1103~PhysRevLett.98.187802.pdf
+  title: Evolution of Growth Modes for Polyelectrolyte Bundles
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Ghee Hwee Lai
+      first: true
+    - orcid: ""
+      name: Rob Coridan
+      first: false
+    - orcid: ""
+      name: Olena V. Zribi
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.98.187802
+  published: 2007
+  checked: true
 - doi: 10.1103/PhysRevLett.98.058105
   pdf: 10.1103~PhysRevLett.98.058105.pdf
+  title: "Structural Polymorphism of the Actin-Espin System: A Prototypical System
+    of Filaments and Linkers in Stereocilia"
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Kirstin R. Purdy
+      first: true
+    - orcid: ""
+      name: James R. Bartles
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.98.058105
+  published: 2007
+  checked: true
 - doi: 10.1021/la700489e
   pdf: 10.1021~la700489e.pdf
+  title: Temperature Dependence of Thermodiffusion in Aqueous Suspensions of
+    Charged Nanoparticles
+  container: Langmuir
+  shortContainer: Langmuir
+  authors:
+    - orcid: ""
+      name: Shawn A. Putnam
+      first: true
+    - orcid: ""
+      name: David G. Cahill
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/la700489e
+  published: 2007
+  checked: true
 - doi: 10.1016/j.cocis.2006.12.003
   pdf: 10.1016~j.cocis.2006.12.003.pdf
+  title: Electrostatics of rigid polyelectrolytes
+  container: Current Opinion in Colloid &amp; Interface Science
+  shortContainer: Current Opinion in Colloid &amp; Interface Science
+  authors:
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: true
+  URL: http://dx.doi.org/10.1016/j.cocis.2006.12.003
+  published: 2006
+  checked: true
 - doi: 10.1529/biophysj.105.078253
   pdf: 10.1529~biophysj.105.078253.pdf
+  title: The Effect of Salt on Self-Assembled Actin-Lysozyme Complexes
+  container: Biophysical Journal
+  shortContainer: Biophysical Journal
+  authors:
+    - orcid: ""
+      name: Camilo Guáqueta
+      first: true
+    - orcid: ""
+      name: Lori K. Sanders
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Erik Luijten
+      first: false
+  URL: http://dx.doi.org/10.1529/biophysj.105.078253
+  published: 2006
+  checked: true
 - doi: 10.1073/pnas.0601435103
   pdf: 10.1073~pnas.0601435103.pdf
+  title: Counterions between charged polymers exhibit liquid-like organization and
+    dynamics
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: true
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Robert H. Coridan
+      first: false
+    - orcid: ""
+      name: John C. Butler
+      first: false
+    - orcid: ""
+      name: Alexandre Beraud
+      first: false
+    - orcid: ""
+      name: Michael Krisch
+      first: false
+    - orcid: ""
+      name: Harald Sinn
+      first: false
+    - orcid: ""
+      name: Kenneth S. Schweizer
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.0601435103
+  published: 2006
+  checked: true
 - doi: 10.1103/PhysRevLett.96.177801
   pdf: 10.1103~PhysRevLett.96.177801.pdf
+  title: Structure and Dynamics of Liquid Crystalline Pattern Formation in Drying
+    Droplets of DNA
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Ivan I. Smalyukh
+      first: true
+    - orcid: ""
+      name: Olena V. Zribi
+      first: false
+    - orcid: ""
+      name: John C. Butler
+      first: false
+    - orcid: ""
+      name: Oleg D. Lavrentovich
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.96.177801
+  published: 2006
+  checked: true
 - doi: 10.1103/PhysRevE.73.031911
   pdf: 10.1103~PhysRevE.73.031911.pdf
+  title: Condensation of DNA-actin polyelectrolyte mixtures driven by ions of
+    different valences
+  container: Physical Review E
+  shortContainer: Phys. Rev. E
+  authors:
+    - orcid: ""
+      name: Olena V. Zribi
+      first: true
+    - orcid: ""
+      name: Hee Kyung
+      first: false
+    - orcid: ""
+      name: Ramin Golestanian
+      first: false
+    - orcid: ""
+      name: Tanniemola B. Liverpool
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physreve.73.031911
+  published: 2006
+  checked: true
+- doi: 10.1088/0953-8984/17/14/001
+  pdf: 10.1088~0953-8984.pdf
+  title: "Structure and dynamics of condensed multivalent ions within
+    polyelectrolyte bundles: a combined x-ray diffraction and solid-state NMR
+    study"
+  container: "Journal of Physics: Condensed Matter"
+  shortContainer: "J. Phys.: Condens. Matter"
+  authors:
+    - orcid: ""
+      name: Thomas E Angelini
+      first: true
+    - orcid: ""
+      name: Lori K Sanders
+      first: false
+    - orcid: ""
+      name: Hongjun Liang
+      first: false
+    - orcid: ""
+      name: Willy Wriggers
+      first: false
+    - orcid: ""
+      name: Jay X Tang
+      first: false
+    - orcid: ""
+      name: Gerard C L Wong
+      first: false
+  URL: http://dx.doi.org/10.1088/0953-8984/17/14/001
+  published: 2005
+  checked: true
 - doi: 10.1103/PhysRevLett.95.108302
   pdf: 10.1103~PhysRevLett.95.108302.pdf
+  title: Structure and Stability of Self-Assembled Actin-Lysozyme Complexes in
+    Salty Water
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Lori K. Sanders
+      first: true
+    - orcid: ""
+      name: Camilo Guáqueta
+      first: false
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: false
+    - orcid: ""
+      name: Jae-Wook Lee
+      first: false
+    - orcid: ""
+      name: Scott C. Slimmer
+      first: false
+    - orcid: ""
+      name: Erik Luijten
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.95.108302
+  published: 2005
+  checked: true
 - doi: 10.1073/pnas.0502416102
   pdf: 10.1073~pnas.0502416102.pdf
+  title: Polymorphism of DNA-anionic liposome complexes reveals hierarchy of
+    ion-mediated interactions
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Hongjun Liang
+      first: true
+    - orcid: ""
+      name: Daniel Harries
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.0502416102
+  published: 2005
+  checked: true
 - doi: 10.1140/epje/i2004-10097-9
   pdf: 10.1140~epje~i2004-10097-9.pdf
+  title: Direct observation of counterion organization in F-actin polyelectrolyte
+    bundles
+  container: The European Physical Journal E
+  shortContainer: Eur. Phys. J. E
+  authors:
+    - orcid: ""
+      name: T. E. Angelini
+      first: true
+    - orcid: ""
+      name: H. Liang
+      first: false
+    - orcid: ""
+      name: W. Wriggers
+      first: false
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1140/epje/i2004-10097-9
+  published: 2005
+  checked: true
 - doi: 10.1209/epl/i2004-10510-1
   pdf: 10.1209~epl~i2004-10510-1.pdf
+  title: Salt-induced condensation in actin-DNA mixtures
+  container: Europhysics Letters (EPL)
+  shortContainer: Europhys. Lett.
+  authors:
+    - orcid: ""
+      name: O. V Zribi
+      first: true
+    - orcid: ""
+      name: H Kyung
+      first: false
+    - orcid: ""
+      name: R Golestanian
+      first: false
+    - orcid: ""
+      name: T. B Liverpool
+      first: false
+    - orcid: ""
+      name: G. C. L Wong
+      first: false
+  URL: http://dx.doi.org/10.1209/epl/i2004-10510-1
+  published: 2005
+  checked: true
 - doi: 10.1021/ja046718m
   pdf: 10.1021~ja046718m.pdf
+  title: Roles of Anionic and Cationic Template Components in Biomineralization of
+    CdS Nanorods Using Self-Assembled DNA−Membrane Complexes
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Hongjun Liang
+      first: true
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: false
+    - orcid: ""
+      name: Paul V. Braun
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja046718m
+  published: 2004
+  checked: true
 - doi: 10.1126/science.1099510
   pdf: 10.1126~science.1099510.pdf
-
+  title: The Soft Sector in Physics
+  container: Science
+  shortContainer: Science
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+  URL: http://dx.doi.org/10.1126/science.1099510
+  published: 2004
+  checked: true
 - doi: 10.1038/nmat1195
   pdf: 10.1038~nmat1195.pdf
   additional: >
-    [Read Nature News and Views](http://www.nature.com/nmat/journal/v3/n9/full/nmat1200.html)
-
+    [Read Nature News and
+    Views](http://www.nature.com/nmat/journal/v3/n9/full/nmat1200.html)
+  title: Self-assembled virus-membrane complexes
+  container: Nature Materials
+  shortContainer: Nature Mater
+  authors:
+    - orcid: ""
+      name: Lihua Yang
+      first: true
+    - orcid: ""
+      name: Hongjun Liang
+      first: false
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: false
+    - orcid: ""
+      name: John Butler
+      first: false
+    - orcid: ""
+      name: Robert Coridan
+      first: false
+    - orcid: ""
+      name: Jay X. Tang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1038/nmat1195
+  published: 2004
+  checked: true
 - doi: 10.1021/ja036529o
   pdf: 10.1021~ja036529o.pdf
+  title: Molecular Imprinting of Biomineralized CdS Nanostructures: 
+    Crystallographic Control Using Self-Assembled DNA−Membrane Templates
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Hongjun Liang
+      first: true
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: false
+    - orcid: ""
+      name: James Ho
+      first: false
+    - orcid: ""
+      name: Paul V. Braun
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/ja036529o
+  published: 2003
+  checked: true
 - doi: 10.1073/pnas.1533355100
   pdf: 10.1073~pnas.1533355100.pdf
+  title: Like-charge attraction between polyelectrolytes induced by counterion
+    charge density waves
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Thomas E. Angelini
+      first: true
+    - orcid: ""
+      name: Hongjun Liang
+      first: false
+    - orcid: ""
+      name: Willy Wriggers
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1073/pnas.1533355100
+  published: 2003
+  checked: true
 - doi: 10.1103/PhysRevLett.91.028301
   pdf: 10.1103~PhysRevLett.91.028301.pdf
+  title: Ion Multivalence and Like-Charge Polyelectrolyte Attraction
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: John C. Butler
+      first: true
+    - orcid: ""
+      name: Thomas Angelini
+      first: false
+    - orcid: ""
+      name: Jay X. Tang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.91.028301
+  published: 2003
+  checked: true
 - doi: 10.1103/PhysRevLett.91.018103
   pdf: 10.1103~PhysRevLett.91.018103.pdf
+  title: Lamellar Phase of Stacked Two-Dimensional Rafts of Actin Filaments
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+    - orcid: ""
+      name: Alison Lin
+      first: false
+    - orcid: ""
+      name: Jay X. Tang
+      first: false
+    - orcid: ""
+      name: Youli Li
+      first: false
+    - orcid: ""
+      name: Paul A. Janmey
+      first: false
+    - orcid: ""
+      name: Cyrus R. Safinya
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.91.018103
+  published: 2003
+  checked: true
 - doi: 10.1021/la010145z
   pdf: 10.1021~la010145z.pdf
+  title: Controlled Modification of Microstructured Silicon Surfaces for
+    Confinement of Biological Macromolecules and Liquid Crystals
+  container: Langmuir
+  shortContainer: Langmuir
+  authors:
+    - orcid: ""
+      name: T. Pfohl
+      first: true
+    - orcid: ""
+      name: J. H. Kim
+      first: false
+    - orcid: ""
+      name: M. Yasa
+      first: false
+    - orcid: ""
+      name: H. P. Miller
+      first: false
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+    - orcid: ""
+      name: F. Bringezu
+      first: false
+    - orcid: ""
+      name: Z. Wen
+      first: false
+    - orcid: ""
+      name: L. Wilson
+      first: false
+    - orcid: ""
+      name: M. W. Kim
+      first: false
+    - orcid: ""
+      name: Y. Li
+      first: false
+    - orcid: ""
+      name: C. R. Safinya
+      first: false
+  URL: http://dx.doi.org/10.1021/la010145z
+  published: 2001
+  checked: true
 - doi: 10.1063/1.126961
   pdf: 10.1063~1.126961.pdf
+  title: Characterizing the hard x-ray diffraction properties of a GaAs linear
+    Bragg-Fresnel lens
+  container: Applied Physics Letters
+  shortContainer: Appl. Phys. Lett.
+  authors:
+    - orcid: ""
+      name: Youli Li
+      first: true
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Ryan Case
+      first: false
+    - orcid: ""
+      name: Cyrus R. Safinya
+      first: false
+    - orcid: ""
+      name: Ernie Caine
+      first: false
+    - orcid: ""
+      name: Evelyn Hu
+      first: false
+    - orcid: ""
+      name: Partricia Fernandez
+      first: false
+  URL: http://dx.doi.org/10.1063/1.126961
+  published: 2000
+  checked: true
 - doi: 10.1126/science.288.5473.2035
   pdf: 10.1126~science.288.5473.2035.pdf
+  title: "Hierarchical Self-Assembly of F-Actin and Cationic Lipid Complexes:
+    Stacked Three-Layer Tubule Networks"
+  container: Science
+  shortContainer: Science
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+    - orcid: ""
+      name: Jay X. Tang
+      first: false
+    - orcid: ""
+      name: Alison Lin
+      first: false
+    - orcid: ""
+      name: Youli Li
+      first: false
+    - orcid: ""
+      name: Paul A. Janmey
+      first: false
+    - orcid: ""
+      name: Cyrus R. Safinya
+      first: false
+  URL: http://dx.doi.org/10.1126/science.288.5473.2035
+  published: 2000
+  checked: true
 - doi: 10.1063/1.122361
   pdf: 10.1063~1.122361.pdf
-
+  title: "Mesoscopic structure of DNA-membrane self-assemblies: Microdiffraction
+    and manipulation on lithographic substrates"
+  container: Applied Physics Letters
+  shortContainer: Appl. Phys. Lett.
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+    - orcid: ""
+      name: Youli Li
+      first: false
+    - orcid: ""
+      name: Ilya Koltover
+      first: false
+    - orcid: ""
+      name: Cyrus R. Safinya
+      first: false
+    - orcid: ""
+      name: Zhonghou Cai
+      first: false
+    - orcid: ""
+      name: Wenbing Yun
+      first: false
+  URL: http://dx.doi.org/10.1063/1.122361
+  published: 1998
+  checked: true
 - doi: 10.1023/A:1022697927651
   pdf: 10.1023~A+1022697927651.pdf
-  title: >-
-    Structural Studies of DNA–Cationic Lipid Complexes Confined in
-    Lithographically Patterned Microchannel Arrays
-
+  title: Structural Studies of DNA-Cationic Lipid Complexes Confined in Lithographically Patterned Microchannel Arrays
+  container: International Journal of Thermophysics
+  authors:
+    - orcid: ""
+      name: Y. Li
+      first: true
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+    - orcid: ""
+      name: E. Caine
+      first: false
+    - orcid: ""
+      name: E. L. Hu
+      first: false
+    - orcid: ""
+      name: C. R. Safinya
+      first: false
+  URL: http://dx.doi.org/10.1023/a:1022697927651
+  published: 1998
+  checked: true
 - doi: 10.1063/1.1149022
   pdf: 10.1063~1.1149022.pdf
+  title: "Bragg-Fresnel optics for hard x-ray microscopy: Development of
+    fabrication process and x-ray characterization at the Advanced Photon
+    Source"
+  container: Review of Scientific Instruments
+  shortContainer: Review of Scientific Instruments
+  authors:
+    - orcid: ""
+      name: Youli Li
+      first: true
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Cyrus R. Safinya
+      first: false
+    - orcid: ""
+      name: Ernie Caine
+      first: false
+    - orcid: ""
+      name: Evelyn L. Hu
+      first: false
+    - orcid: ""
+      name: Dean Haeffner
+      first: false
+    - orcid: ""
+      name: Patricia Fernandez
+      first: false
+    - orcid: ""
+      name: Wenbing Yun
+      first: false
+  URL: http://dx.doi.org/10.1063/1.1149022
+  published: 1998
+  checked: true
 - doi: 10.1016/S0921-4526(98)00230-0
   pdf: 10.1016~S0921-4526.pdf
+  title: Thinning transitions and fluctuations of freely suspended smectic-A films
+    as studied by specular and diffuse X-ray scattering
+  container: "Physica B: Condensed Matter"
+  shortContainer: "Physica B: Condensed Matter"
+  authors:
+    - orcid: ""
+      name: E.A.L. Mol
+      first: true
+    - orcid: ""
+      name: G.C.L. Wong
+      first: false
+    - orcid: ""
+      name: J.M. Petit
+      first: false
+    - orcid: ""
+      name: F. Rieutord
+      first: false
+    - orcid: ""
+      name: W.H. de Jeu
+      first: false
+  URL: http://dx.doi.org/10.1016/s0921-4526(98)00230-0
+  published: 1998
+  checked: true
 - doi: 10.1038/39271
   pdf: 10.1038~39271.pdf
+  title: Induced long-range order in crosslinked 'one-dimensional' stacks of fluid
+    monolayers
+  container: Nature
+  shortContainer: Nature
+  authors:
+    - orcid: ""
+      name: Gerald C. L. Wong
+      first: true
+    - orcid: ""
+      name: Wim H. de Jeu
+      first: false
+    - orcid: ""
+      name: Henry Shao
+      first: false
+    - orcid: ""
+      name: Keng S. Liang
+      first: false
+    - orcid: ""
+      name: Rudolf Zentel
+      first: false
+  URL: http://dx.doi.org/10.1038/39271
+  published: 1997
+  checked: true
 - doi: 10.1103/PhysRevB.55.1388
   pdf: 10.1103~PhysRevB.55.1388.pdf
+  title: Critical examination of prewetting and surface melting on caprolactam
+  container: Physical Review B
+  shortContainer: Phys. Rev. B
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+    - orcid: ""
+      name: Wim H. de Jeu
+      first: false
+    - orcid: ""
+      name: Gertjan Bögels
+      first: false
+    - orcid: ""
+      name: Erwin P. G. van den Berg
+      first: false
+    - orcid: ""
+      name: Piet Bennema
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevb.55.1388
+  published: 1997
+  checked: true
 - doi: 10.1103/PhysRevLett.79.3439
   pdf: 10.1103~PhysRevLett.79.3439.pdf
+  title: Thermal Fluctuations of Freely Suspended Smectic-A Films from Mesoscopic
+    to Molecular Length Scales
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: E. A. L. Mol
+      first: true
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+    - orcid: ""
+      name: J. M. Petit
+      first: false
+    - orcid: ""
+      name: F. Rieutord
+      first: false
+    - orcid: ""
+      name: W. H. de Jeu
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.79.3439
+  published: 1997
+  checked: true
 - doi: 10.1103/PhysRevLett.77.5221
   pdf: 10.1103~PhysRevLett.77.5221.pdf
+  title: Orientational Wetting in Hybrid Liquid Crystalline Block Copolymers
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: true
+    - orcid: ""
+      name: Jan Commandeur
+      first: false
+    - orcid: ""
+      name: Hartmut Fischer
+      first: false
+    - orcid: ""
+      name: Wim H. de Jeu
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.77.5221
+  published: 1996
+  checked: true
 - doi: 10.1103/PhysRevLett.73.991
   pdf: 10.1103~PhysRevLett.73.991.pdf
+  title: "Parallel Adatom Chains on Si(111): A Chemisorption-Induced Surface
+    Reconstruction"
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: G. C. L. Wong
+      first: true
+    - orcid: ""
+      name: C. A. Lucas
+      first: false
+    - orcid: ""
+      name: D. Loretto
+      first: false
+    - orcid: ""
+      name: A. P. Payne
+      first: false
+    - orcid: ""
+      name: P. H. Fuoss
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.73.991
+  published: 1994
+  checked: true
 - doi: 10.1063/1.112912
   pdf: 10.1063~1.112912.pdf
+  title: Direct observation of interface and surface steps in epitaxial films by
+    dark-field transmission electron microscopy
+  container: Applied Physics Letters
+  shortContainer: Appl. Phys. Lett.
+  authors:
+    - orcid: ""
+      name: D. Loretto
+      first: true
+    - orcid: ""
+      name: F. M. Ross
+      first: false
+    - orcid: ""
+      name: C. A. Lucas
+      first: false
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1063/1.112912
+  published: 1994
+  checked: true
 - doi: 10.1103/PhysRevB.50.14340
   pdf: 10.1103~PhysRevB.50.14340.pdf
+  title: Epitaxial growth mechanisms and structure of CaF<sub>2</sub>-Si(111)
+  container: Physical Review B
+  shortContainer: Phys. Rev. B
+  authors:
+    - orcid: ""
+      name: C. A. Lucas
+      first: true
+    - orcid: ""
+      name: D. Loretto
+      first: false
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevb.50.14340
+  published: 1994
+  checked: true
 - doi: 10.1103/PhysRevLett.70.1826
   pdf: 10.1103~PhysRevLett.70.1826.pdf
+  title: Structural transitions of the CaF<sub>2</sub>-Si(111) interface
+  container: Physical Review Letters
+  shortContainer: Phys. Rev. Lett.
+  authors:
+    - orcid: ""
+      name: C. A. Lucas
+      first: true
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+    - orcid: ""
+      name: D. Loretto
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevlett.70.1826
+  published: 1993
+  checked: true
 - doi: 10.1103/PhysRevB.48.5716
   pdf: 10.1103~PhysRevB.48.5716.pdf
+  title: 'CaF<sub>2</sub>-Si(111) as a model ionic-covalent system: Transition from chemisorption to epitaxy'
+  container: Physical Review B
+  shortContainer: Phys. Rev. B
+  authors:
+    - orcid: ""
+      name: G. C. L. Wong
+      first: true
+    - orcid: ""
+      name: D. Loretto
+      first: false
+    - orcid: ""
+      name: Eli Rotenberg
+      first: false
+    - orcid: ""
+      name: Marjorie A. Olmstead
+      first: false
+    - orcid: ""
+      name: C. A. Lucas
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevb.48.5716
+  published: 1993
+  checked: true
 - doi: 10.1016/0039-6028(93)90554-W
   pdf: 10.1016~0039-6028(93)90554-W.pdf
+  title: Initial stages in the epitaxial growth of NaCl on Ge(001)
+  container: Surface Science
+  shortContainer: Surface Science
+  authors:
+    - orcid: ""
+      name: C.A. Lucas
+      first: true
+    - orcid: ""
+      name: G.C.L. Wong
+      first: false
+    - orcid: ""
+      name: C.S. Dower
+      first: false
+    - orcid: ""
+      name: F.J. Lamelas
+      first: false
+    - orcid: ""
+      name: P.H. Fuoss
+      first: false
+  URL: http://dx.doi.org/10.1016/0039-6028(93)90554-w
+  published: 1993
+  checked: true
 - doi: 10.1103/PhysRevB.47.10375
   pdf: 10.1103~PhysRevB.47.10375.pdf
+  title: "Order-disorder<i>c</i>(4×2)-(2×1) transition on Ge(001): An<i>in
+    situ</i>x-ray scattering study"
+  container: Physical Review B
+  shortContainer: Phys. Rev. B
+  authors:
+    - orcid: ""
+      name: C. A. Lucas
+      first: true
+    - orcid: ""
+      name: C. S. Dower
+      first: false
+    - orcid: ""
+      name: D. F. McMorrow
+      first: false
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+    - orcid: ""
+      name: F. J. Lamelas
+      first: false
+    - orcid: ""
+      name: P. H. Fuoss
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevb.47.10375
+  published: 1993
+  checked: true
 - doi: 10.1557/JMR.1990.0488
   pdf: 10.1557~JMR.1990.0488.pdf
+  title: Solid state amorphization reactions in deformed Ni-Zr multilayered composites
+  container: Journal of Materials Research
+  shortContainer: J. Mater. Res.
+  authors:
+    - orcid: ""
+      name: G. C. Wong
+      first: true
+    - orcid: ""
+      name: W. L. Johnson
+      first: false
+    - orcid: ""
+      name: E. J. Cotts
+      first: false
+  URL: http://dx.doi.org/10.1557/jmr.1990.0488
+  published: 1990
+  checked: true
 - doi: 10.1103/PhysRevB.37.9049
   pdf: 10.1103~PhysRevB.37.9049.pdf
+  title: Calorimetric observations of amorphous and crystalline Ni-Zr alloy
+    formation by solid-state reaction
+  container: Physical Review B
+  shortContainer: Phys. Rev. B
+  authors:
+    - orcid: ""
+      name: E. J. Cotts
+      first: true
+    - orcid: ""
+      name: G. C. Wong
+      first: false
+    - orcid: ""
+      name: W. L. Johnson
+      first: false
+  URL: http://dx.doi.org/10.1103/physrevb.37.9049
+  published: 1988
+  checked: true
