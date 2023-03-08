@@ -86,7 +86,7 @@ jobs:
         id: verify-changed-files
         with:
           files: |
-              pubs.yml
+              pubs.yaml
       - name: Commit Updated Pubs
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         run: |
