@@ -1,8 +1,6 @@
 import path from 'path'
 import Image from 'next/image'
 
-import { loadYAML } from '@/lib/io'
-
 
 function Member({ member }) {
   let { name, role, email, affiliations, office } = member
@@ -11,7 +9,10 @@ function Member({ member }) {
   return (
     <div>
       {typeof profileImg !== 'undefined' &&
-        <Image src={path.join('/profiles', profileImg)} width="50" height="50" />
+        <Image
+          src={path.join('/profiles', profileImg)}
+          alt="Photo of ${name}" width="50" height="50"
+        />
       }
       <span>{name}</span>
       <span>{role}</span>
@@ -24,26 +25,15 @@ function Member({ member }) {
   )
 }
 
-export default async function Members({ }) {
-  let members = await loadYAML(path.join(process.cwd(), 'members.yaml'))
+export default function Members({ members, ...props }) {
   let currentMembers = members.filter(m => 'role' in m && m['role'] !== 'Alumni')
 
   return (
-    <div>
-      Members
+    <section {...props}>
+      <h1>Members</h1>
       {currentMembers.map((m, i) => (
         <Member key={`member-${i}`} member={m} />
       ))}
-    </div>
+    </section>
   )
 }
-
-// export async function getStaticProps(context) {
-//   let members = await loadYAML(path.join(process.cwd(), 'members.yml'))
-
-//   return {
-//     props: {
-//       members
-//     },
-//   }
-// }

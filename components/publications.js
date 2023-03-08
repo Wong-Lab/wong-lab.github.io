@@ -1,10 +1,7 @@
-import path from 'path'
 import Link from 'next/link'
 import Image from 'next/image'
 
 import parse from 'html-react-parser'
-
-import { loadIndex } from '@/lib/pubs'
 
 
 function Pub({ pub, memberNames, ...props }) {
@@ -17,12 +14,15 @@ function Pub({ pub, memberNames, ...props }) {
         {authors.map(({ name, orcid }, i) => (
           <span
             key={`${props.key}-author-${i}`}
-            className={memberNames.has(name) && "font-semibold"}
+            className={memberNames.has(name) ? "font-semibold" : ""}
           >
             {name}
             {orcid && (
               <Link href={orcid}>
-                <Image src="orcid.svg" width="10" height="10" className='inline'/>
+                <Image
+                  src="orcid.svg" alt="orcid-icon" width="10" height="10"
+                  className='inline'
+                />
               </Link>
             )}
             {i != authors.length - 1 && ", "}
@@ -39,17 +39,16 @@ function Pub({ pub, memberNames, ...props }) {
   )
 }
 
-export default async function Publications() {
-  let pubs = await loadIndex(path.join(process.cwd(), 'pubs.yaml'))
+export default function Publications({ pubs, members, ...props }) {
   let memberNames = new Set([])
 
   return (
-    <div className="space-y-6">
+    <section className="space-y-6" {...props}>
       <h1>Publications</h1>
 
       {pubs.map((pub, i) => (
         <Pub key={`pub-${i}`} pub={pub} memberNames={memberNames} />
       ))}
-    </div>
+    </section>
   )
 }

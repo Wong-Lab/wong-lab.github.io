@@ -1,0 +1,408 @@
+- doi: 10.1073/pnas.2105566118
+  pdf: 10.1073~pnas.2105566118.pdf
+  # the following is only necessary before CrossRef is updated with this paper
+  title: >-
+    Interaction between the type 4 pili machinery and a diguanylate cyclase
+    fine-tune c-di-GMP levels during early biofilm formation
+  container-title: >-
+    Proceedings of the National Academy of Sciences
+  author:
+    - given: Shanice S.
+      family: Webster
+      ORCID: https://orcid.org/0000-0001-7900-8758
+    - given: Calvin K.
+      family: Lee
+    - given: William C.
+      family: Schmidt
+      ORCID: https://orcid.org/0000-0001-9780-9495
+    - given: Gerard C. L.
+      family: Wong
+    - given: George A.
+      family: O’Toole
+  published:
+    date-parts:
+      - [2021, 06, 29]
+  tags:
+    - bacterial biofilms
+    - Pseudomonas aeruginosa
+    - c-di-GMP
+    - alignment complex
+    - surface sensing
+
+- doi: 10.1016/j.jbc.2021.100828
+  pdf: 10.1016~j.jbc.2021.100828.pdf
+- doi: 10.1088/1478-3975/abdc0e
+  pdf: 10.1088~1478-3975~abdc0e.pdf
+
+- doi: 10.1073/pnas.1917623117
+  pdf: 10.1073~pnas.1917623117.pdf
+  additional: >
+      [Commentary in PNAS, "An ancient neuropeptide defends the brain against
+      infection"](https://doi.org/10.1073/pnas.2023990118)
+
+- doi: 10.1053/j.gastro.2020.08.038
+  pdf: 10.1053~j.gastro.2020.08.038.pdf
+  first-authors:
+    - Xinhua Chen
+    - Xiaotong Yang
+    - Jaime de Anda
+  corresponding-authors:
+    - Xinhua Chen
+    - Gerard Wong
+
+- doi: 10.3389/fimmu.2020.01873
+  pdf: 10.3389~fimmu.2020.01873.pdf
+- doi: 10.3389/fimmu.2020.01629
+  pdf: 10.3389~fimmu.2020.01629.pdf
+- doi: 10.1021/acsami.0c04329
+  pdf: 10.1021~acsami.0c04329.pdf
+  
+- doi: 10.1073/pnas.1920469117
+  pdf: 10.1073~pnas.1920469117.pdf
+  additional: >
+    [Commentary in PNAS, "Linking neurons to immunity: Lessons from
+    Hydra"](https://doi.org/10.1073/pnas.2011637117)
+
+- doi: 10.1128/AAC.00210-20
+  pdf: 10.1128~AAC.00210-20.pdf
+- doi: 10.1016/j.bbamem.2020.183302
+  pdf: 10.1016~j.bbamem.2020.183302.pdf
+- doi: 10.1021/acsinfecdis.0c00011
+  pdf: 10.1021~acsinfecdis.0c00011.pdf
+- doi: 10.1038/s41467-020-15331-8
+  pdf: 10.1038~s41467-020-15331-8.pdf
+- doi: 10.1371/journal.pgen.1008703
+  pdf: 10.1371~journal.pgen.1008703.pdf
+- doi: 10.1128/mBio.02644-19
+  pdf: 10.1128~mBio.02644-19.pdf
+- doi: 10.7554/eLife.45084
+  pdf: 10.7554~eLife.45084.pdf
+- doi: 10.1094/MPMI-04-19-0111-R
+  pdf: 10.1094~MPMI-04-19-0111-R.pdf
+- doi: 10.1038/s41586-019-1167-6
+  pdf: 10.1038~s41586-019-1167-6.pdf
+- doi: 10.1128/mBio.00670-19
+  pdf: 10.1128~mBio.00670-19.pdf
+- doi: 10.1038/s41467-019-09683-z
+  pdf: 10.1038~s41467-019-09683-z.pdf
+- doi: 10.1073/pnas.1819250116
+  pdf: 10.1073~pnas.1819250116.pdf
+- doi: 10.1038/s41467-019-08868-w
+  pdf: 10.1038~s41467-019-08868-w.pdf
+
+- doi: 10.1016/j.semcdb.2018.02.002
+  pdf: 10.1016~j.semcdb.2018.02.002.pdf
+  additional: >
+    Invited review for special issue "Antimicrobial Peptides"
+
+- doi: 10.1016/j.cocis.2018.11.003
+  pdf: 10.1016~j.cocis.2018.11.003.pdf
+- doi: 10.1021/acs.bioconjchem.8b00176
+  pdf: 10.1021~acs.bioconjchem.8b00176.pdf
+
+- doi: 10.1073/pnas.1720071115
+  pdf: 10.1073~pnas.1720071115.pdf
+  additional: >
+    [Read UCLA Press
+    Release](http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla)
+
+- doi: 10.1038/s41598-018-22409-3
+  pdf: 10.1038~s41598-018-22409-3.pdf
+- doi: 10.1002/9783527697106.ch18
+  pdf: 10.1002~9783527697106.ch18.pdf
+
+- doi: 10.1021/acscentsci.7b00338
+  pdf: 10.1021~acscentsci.7b00338.pdf
+  additional: >
+    [Read UCLA Press
+    Release](http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses)
+    ![ACS Central Science Cover](/img/covers/10.1021~acscentsci.7b00338.jpg)
+
+- doi: 10.1021/acsnano.7b05234
+  pdf: 10.1021~acsnano.7b05234.pdf
+- doi: 10.1021/acsnano.7b04738
+  pdf: 10.1021~acsnano.7b04738.pdf
+
+- doi: 10.1016/j.bmc.2017.07.012
+  pdf: 10.1016~j.bmc.2017.07.012.pdf
+  additional: >
+    Invited review for "Peptide Therapeutics" symposium-in-print
+
+- doi: 10.1159/000477990
+  pdf: 10.1159~000477990.pdf
+  additional: >
+    Highlighted in [Science](http://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut)
+    <a href="https://www.karger.com/Article/Abstract/481584">![Cover](/img/covers/10.1159~000477990.jpg)</a>
+
+- doi: 10.1098/rsfs.2016.0153
+  pdf: 10.1098~rsfs.2016.0153.pdf
+  additional: >
+    Invited review for special issue "Self-assembled peptides: from nanostructure to bioactivity"
+
+- doi: 10.1371/journal.ppat.1006315
+  pdf: 10.1371~journal.ppat.1006315.pdf
+- doi: 10.1021/acs.bioconjchem.6b00725
+  pdf: 10.1021~acs.bioconjchem.6b00725.pdf
+- doi: 10.1021/acsnano.6b07981
+  pdf: 10.1021~acsnano.6b07981.pdf
+- doi: 10.1038/srep45467
+  pdf: 10.1038~srep45467.pdf
+- doi: 10.4049/jimmunol.1601226
+  pdf: 10.4049~jimmunol.1601226.pdf
+- doi: 10.1103/PhysRevLett.117.178102
+  pdf: 10.1103~PhysRevLett.117.178102.pdf
+- doi: 10.1021/acsnano.6b03655
+  pdf: 10.1021~acsnano.6b03655.pdf
+
+- doi: 10.1021/acsnano.6b05123
+  pdf: 10.1021~acsnano.6b05123.pdf
+  see-also:
+    - doi: 10.1021/acsnano.6b06461
+    - pdf: 10.1021~acsnano.6b06461.pdf
+
+- doi: 10.1073/pnas.1609893113
+  pdf: 10.1073~pnas.1609893113.pdf
+- doi: 10.1103/PhysRevLett.117.038101
+  pdf: 10.1103~PhysRevLett.117.038101.pdf
+- doi: 10.1371/journal.ppat.1005705
+  pdf: 10.1371~journal.ppat.1005705.pdf
+- doi: 10.1073/pnas.1603016113
+  pdf: 10.1073~pnas.1603016113.pdf
+- doi: 10.1007/978-3-319-32949-9_10
+  pdf: 10.1007~978-3-319-32949-9_10.pdf
+- doi: 10.1016/j.mib.2016.02.004
+  pdf: 10.1016~j.mib.2016.02.004.pdf
+
+- doi: 10.1016/j.cis.2016.02.003
+  pdf: 10.1016~j.cis.2016.02.003.pdf
+  additional: >
+    Invited review for special issue "Polyelectrolytes"
+
+- doi: 10.1021/acs.langmuir.5b04332
+  pdf: 10.1021~acs.langmuir.5b04332.pdf
+- doi: 10.1098/rsif.2015.0966
+  pdf: 10.1098~rsif.2015.0966.pdf
+- doi: 10.1021/acsnano.5b07826
+  pdf: 10.1021~acsnano.5b07826.pdf
+- doi: 10.1038/srep17790
+  pdf: 10.1038~srep17790.pdf
+- doi: 10.1016/j.tim.2015.09.002
+  pdf: 10.1016~j.tim.2015.09.002.pdf
+
+- doi: 10.1073/pnas.1507893112
+  pdf: 10.1073~pnas.1507893112.pdf
+  additional: >
+    [Read Press Release](https://news.illinois.edu/blog/view/6367/269573)
+
+- doi: 10.1109/TMBMC.2015.2465515
+  pdf: 10.1109~TMBMC.2015.2465515.pdf
+- doi: 10.1073/pnas.1501430112
+  pdf: 10.1073~pnas.1501430112.pdf
+- doi: 10.1371/journal.ppat.1005068
+  pdf: 10.1371~journal.ppat.1005068.pdf
+
+- doi: 10.1038/nmat4298
+  pdf: 10.1038~nmat4298.pdf
+  additional: >
+    [Read Nature News and Views](http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html)
+    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-researchers-discover-molecular-rules-that-govern-autoimmune-disorders)
+
+- doi: 10.1021/acscentsci.5b00054
+  pdf: 10.1021~acscentsci.5b00054.pdf
+  additional: >
+    [Read Press Release](https://www.sciencedaily.com/releases/2015/04/150415092803.htm)
+
+- doi: 10.1038/nrmicro3433
+  pdf: 10.1038~nrmicro3433.pdf
+- doi: 10.1038/jid.2015.40
+  pdf: 10.1038~jid.2015.40.pdf
+- doi: 10.1128/mBio.02456-14
+  pdf: 10.1128~mBio.02456-14.pdf
+- doi: 10.1021/ja507576a
+  pdf: 10.1021~ja507576a.pdf
+
+- doi: 10.1021/nn502201a
+  pdf: 10.1021~nn502201a.pdf
+  additional: >
+    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
+
+- doi: 10.1038/ncomms5913
+  pdf: 10.1038~ncomms5913.pdf
+- doi: 10.1016/j.bbamem.2014.04.007
+  pdf: 10.1016~j.bbamem.2014.04.007.pdf
+- doi: 10.1016/j.cossms.2013.09.004
+  pdf: 10.1016~j.cossms.2013.09.004.pdf
+- doi: 10.1021/ja400146z
+  pdf: 10.1021~ja400146z.pdf
+
+- doi: 10.1038/nature12155
+  pdf: 10.1038~nature12155.pdf
+  additional: >
+    [Read Nature News and Views](http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html)
+    [Read Press Release](http://newsroom.ucla.edu/releases/study-shows-lucky-bacteria-strike-245840)
+
+- doi: 10.1021/ma302577e
+  pdf: 10.1021~ma302577e.pdf
+- doi: 10.1073/pnas.1215089110
+  pdf: 10.1073~pnas.1215089110.pdf
+- doi: 10.1021/ja308459j
+  pdf: 10.1021~ja308459j.pdf
+- doi: 10.1074/jbc.M112.358721
+  pdf: 10.1074~jbc.M112.358721.pdf
+- doi: 10.1039/C2SM25405K
+  pdf: 10.1039~C2SM25405K.pdf
+- doi: 10.1002/9781118180396.ch3
+  pdf: 10.1002~9781118180396.ch3.pdf
+- doi: 10.1103/PhysRevE.85.031501
+  pdf: 10.1103~PhysRevE.85.031501.pdf
+- doi: 10.1016/B978-0-12-381268-1.00016-1
+  pdf: 10.1016~B978-0-12-381268-1.00016-1.pdf
+
+- doi: 10.1073/pnas.1108795108
+  pdf: 10.1073~pnas.1108795108.pdf
+  additional: >
+    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290)
+
+- doi: 10.1073/pnas.1108558108
+  pdf: 10.1073~pnas.1108558108.pdf
+  additional: >
+    [Read Press Release](https://www.sciencedaily.com/releases/2011/09/110919151306.htm)
+
+- doi: 10.1073/pnas.1105073108
+  pdf: 10.1073~pnas.1105073108.pdf
+  additional: >
+    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547)
+
+- doi: 10.1557/mrs.2011.64
+  pdf: 10.1557~mrs.2011.64.pdf
+- doi: 10.1021/ja200079a
+  pdf: 10.1021~ja200079a.pdf
+- doi: 10.1371/journal.ppat.1001264
+  pdf: 10.1371~journal.ppat.1001264.pdf
+- doi: 10.1016/j.bpj.2011.02.020
+  pdf: 10.1016~j.bpj.2011.02.020.pdf
+- doi: 10.1126/science.1194238
+  pdf: 10.1126~science.1194238.pdf
+- doi: 10.1002/adma.200904098
+  pdf: 10.1002~adma.200904098.pdf
+- doi: 10.1146/annurev.physchem.58.032806.104436
+  pdf: 10.1146~annurev.physchem.58.032806.104436.pdf
+- doi: 10.1016/j.febslet.2009.11.046
+  pdf: 10.1016~j.febslet.2009.11.046.pdf
+- doi: 10.1021/la902290t
+  pdf: 10.1021~la902290t.pdf
+- doi: 10.1016/j.radphyschem.2009.05.024
+  pdf: 10.1016~j.radphyschem.2009.05.024.pdf
+- doi: 10.1103/PhysRevLett.103.237402
+  pdf: 10.1103~PhysRevLett.103.237402.pdf
+- doi: 10.1103/PhysRevLett.103.238102
+  pdf: 10.1103~PhysRevLett.103.238102.pdf
+- doi: 10.1088/0953-8984/17/14/001
+  pdf: 10.1088~0953-8984.pdf
+- doi: 10.1021/ja9067063
+  pdf: 10.1021~ja9067063.pdf
+- doi: 10.1016/j.chembiol.2009.08.011
+  pdf: 10.1016~j.chembiol.2009.08.011.pdf
+- doi: 10.1002/anie.200901452
+  pdf: 10.1002~anie.200901452.pdf
+- doi: 10.1021/ja803925n
+  pdf: 10.1021~ja803925n.pdf
+- doi: 10.1103/PhysRevE.78.030701
+  pdf: 10.1103~PhysRevE.78.030701.pdf
+- doi: 10.1103/PhysRevLett.101.218303
+  pdf: 10.1103~PhysRevLett.101.218303.pdf
+- doi: 10.1073/pnas.0806456105
+  pdf: 10.1073~pnas.0806456105.pdf
+- doi: 10.1002/anie.200704444
+  pdf: 10.1002~anie.200704444.pdf
+- doi: 10.1073/pnas.0705898104
+  pdf: 10.1073~pnas.0705898104.pdf
+- doi: 10.1021/ja072310o
+  pdf: 10.1021~ja072310o.pdf
+- doi: 10.1103/PhysRevLett.98.187802
+  pdf: 10.1103~PhysRevLett.98.187802.pdf
+- doi: 10.1103/PhysRevLett.98.058105
+  pdf: 10.1103~PhysRevLett.98.058105.pdf
+- doi: 10.1021/la700489e
+  pdf: 10.1021~la700489e.pdf
+- doi: 10.1016/j.cocis.2006.12.003
+  pdf: 10.1016~j.cocis.2006.12.003.pdf
+- doi: 10.1529/biophysj.105.078253
+  pdf: 10.1529~biophysj.105.078253.pdf
+- doi: 10.1073/pnas.0601435103
+  pdf: 10.1073~pnas.0601435103.pdf
+- doi: 10.1103/PhysRevLett.96.177801
+  pdf: 10.1103~PhysRevLett.96.177801.pdf
+- doi: 10.1103/PhysRevE.73.031911
+  pdf: 10.1103~PhysRevE.73.031911.pdf
+- doi: 10.1103/PhysRevLett.95.108302
+  pdf: 10.1103~PhysRevLett.95.108302.pdf
+- doi: 10.1073/pnas.0502416102
+  pdf: 10.1073~pnas.0502416102.pdf
+- doi: 10.1140/epje/i2004-10097-9
+  pdf: 10.1140~epje~i2004-10097-9.pdf
+- doi: 10.1209/epl/i2004-10510-1
+  pdf: 10.1209~epl~i2004-10510-1.pdf
+- doi: 10.1021/ja046718m
+  pdf: 10.1021~ja046718m.pdf
+- doi: 10.1126/science.1099510
+  pdf: 10.1126~science.1099510.pdf
+
+- doi: 10.1038/nmat1195
+  pdf: 10.1038~nmat1195.pdf
+  additional: >
+    [Read Nature News and Views](http://www.nature.com/nmat/journal/v3/n9/full/nmat1200.html)
+
+- doi: 10.1021/ja036529o
+  pdf: 10.1021~ja036529o.pdf
+- doi: 10.1073/pnas.1533355100
+  pdf: 10.1073~pnas.1533355100.pdf
+- doi: 10.1103/PhysRevLett.91.028301
+  pdf: 10.1103~PhysRevLett.91.028301.pdf
+- doi: 10.1103/PhysRevLett.91.018103
+  pdf: 10.1103~PhysRevLett.91.018103.pdf
+- doi: 10.1021/la010145z
+  pdf: 10.1021~la010145z.pdf
+- doi: 10.1063/1.126961
+  pdf: 10.1063~1.126961.pdf
+- doi: 10.1126/science.288.5473.2035
+  pdf: 10.1126~science.288.5473.2035.pdf
+- doi: 10.1063/1.122361
+  pdf: 10.1063~1.122361.pdf
+
+- doi: 10.1023/A:1022697927651
+  pdf: 10.1023~A+1022697927651.pdf
+  title: >-
+    Structural Studies of DNA–Cationic Lipid Complexes Confined in
+    Lithographically Patterned Microchannel Arrays
+
+- doi: 10.1063/1.1149022
+  pdf: 10.1063~1.1149022.pdf
+- doi: 10.1016/S0921-4526(98)00230-0
+  pdf: 10.1016~S0921-4526.pdf
+- doi: 10.1038/39271
+  pdf: 10.1038~39271.pdf
+- doi: 10.1103/PhysRevB.55.1388
+  pdf: 10.1103~PhysRevB.55.1388.pdf
+- doi: 10.1103/PhysRevLett.79.3439
+  pdf: 10.1103~PhysRevLett.79.3439.pdf
+- doi: 10.1103/PhysRevLett.77.5221
+  pdf: 10.1103~PhysRevLett.77.5221.pdf
+- doi: 10.1103/PhysRevLett.73.991
+  pdf: 10.1103~PhysRevLett.73.991.pdf
+- doi: 10.1063/1.112912
+  pdf: 10.1063~1.112912.pdf
+- doi: 10.1103/PhysRevB.50.14340
+  pdf: 10.1103~PhysRevB.50.14340.pdf
+- doi: 10.1103/PhysRevLett.70.1826
+  pdf: 10.1103~PhysRevLett.70.1826.pdf
+- doi: 10.1103/PhysRevB.48.5716
+  pdf: 10.1103~PhysRevB.48.5716.pdf
+- doi: 10.1016/0039-6028(93)90554-W
+  pdf: 10.1016~0039-6028(93)90554-W.pdf
+- doi: 10.1103/PhysRevB.47.10375
+  pdf: 10.1103~PhysRevB.47.10375.pdf
+- doi: 10.1557/JMR.1990.0488
+  pdf: 10.1557~JMR.1990.0488.pdf
+- doi: 10.1103/PhysRevB.37.9049
+  pdf: 10.1103~PhysRevB.37.9049.pdf
