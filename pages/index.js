@@ -41,7 +41,7 @@ export default function Home({ pubs, members }) {
               {/* changes when you click on one of the topics abouve */}
 
           <div className='z-10'>
-            <h1 className="text-6xl">Let's talk science</h1>
+            <h1 className="text-6xl">Let&apos;s talk science</h1>
           </div>
           <Image
             src={cover} alt="cover" priority={true}
