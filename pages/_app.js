@@ -2,32 +2,32 @@ import '../styles/globals.css'
 
 import Head from 'next/head'
 import Link from 'next/link'
-import { Inter } from 'next/font/google'
+// import { Inter } from 'next/font/google'
 
 
-const inter = Inter({
-  subsets: ['latin'],
-  display: 'swap',
-})
+// const inter = Inter({
+//   subsets: ['latin'],
+//   display: 'swap',
+// })
 
 function Nav() {
   return (
-    <nav className='container z-50 h-12 flex justify-between items-center bg-white/25 text-white'>
-      <div>
+    <nav className='flex flex-row p-4 items-center justify-between container max-w-prose'>
+      <div className=''>
         {/* Logo */}
         <Link href="/">
-          <span className='text'>Wong Lab</span>
+          <span className='font-medium text-xl'>Wong Lab</span>
         </Link>
       </div>
       <div className='space-x-4'>
-        <Link href="research">
-          <span className='text'>Our Science</span>
+        <Link href="/#research">
+          <span className=''>Science</span>
         </Link>
         <Link href="/#members">
-          <span className='text'>Members</span>
+          <span className=''>Members</span>
         </Link>
         <Link href="/#publications">
-          <span className='text'>Publications</span>
+          <span className=''>Publications</span>
         </Link>
       </div>
     </nav>
@@ -38,14 +38,16 @@ function MyApp({ Component, pageProps }) {
   // TODO: watch router and animate nav?
 
   return (
-    <div className={`${inter.className}`}>
+    <div id="top">
       <Head>
         <title>Wong Lab | UCLA</title>
       </Head>
-      <Nav/>
-      <main>
-        <Component {...pageProps}/>
-      </main>
+      <Nav />
+      <div className='mx-auto md:container p-4 font-serif'>
+        <main className='container max-w-prose'>
+          <Component {...pageProps}/>
+        </main>
+      </div>
     </div>
   )
 }

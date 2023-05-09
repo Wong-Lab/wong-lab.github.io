@@ -1,6 +1,10 @@
 - name: Gerard Wong
   alt-names:
     - Gerard C.L. Wong
+    - Gerard C. L. Wong
+    - Gerard C L Wong
+    - G. C. L. Wong
+    - G.C.L. Wong
   role: Professor and Principal Investigator
   affiliations:
     - Department of Bioengineering
@@ -11,44 +15,69 @@
   phone: 310-794-7684
   fax: 310-794-5956
   profile-img: 'gerard-wong.jpeg' 
+  orcid: 0000-0003-0893-6383
 
 - name: Wujing Xian
   role: Staff Scientist
   email: wxian@ucla.edu
   profile-img: 'wujing-xian.jpeg'
-
-- name: Yue Zhang
-  role: Post-doc
-  email: yuezhang123@ucla.edu
+  orcid: 0000-0001-5074-0304
 
 - name: Calvin Lee
+  alt-names:
+    - Calvin K. Lee
+    - Calvin K Lee
   role: Post-doc
   email: calvin.k.lee@ucla.edu
   profile-img: 'calvin-lee.jpeg'
+  orcid: 0000-0001-6789-0317
 
 - name: Jaime De Anda
+  alt-names:
+    - Jaime de Anda
   role: Ph.D. Student
   email: jaime77@ucla.edu
   profile-img: 'jaime-de-anda.jpeg'
+  orcid: 0000-0003-2129-0775
 
 - name: William Schmidt
+  alt-names:
+    - William C. Schmidt
+    - William C Schmidt
   role: Ph.D. Student
   email: WSchmidt96@ucla.edu
+  orcid: 0000-0001-9780-9495
 
 - name: Wei-Chia Luo
   alt-names:
     - Elizabeth W.C. Luo
+    - Elizabeth Wei-Chia Luo
   role: Ph.D. Student
   email: elizabethwcluo@ucla.edu
+  orcid: 0000-0002-8663-0446
 
 - name: Jonathan Chen
+  alt-names:
+    - Jonathan W. Chen
   role: Ph.D. Student
   email: jwhc@ucla.edu
+  orcid: 0000-0001-5283-243X
+
+- name: Rena Yang
+  role: Ph.D. Student
+  email: renayang@ucla.edu
+
+- name: Yue Zhang
+  role: Alumni
+  former-role: Post-doc
+  email: yuezhang123@ucla.edu
+  orcid: 0000-0001-7822-8716
 
 - name: Ziwen Liu
   role: Alumni
   former-role: Ph.D. Student
   email: ziwenliu@ucla.edu
+  orcid: 0000-0001-7482-1299
 
 - name: Giancarlo Santos
   role: Alumni

@@ -3,31 +3,33 @@ import Image from 'next/image'
 
 import parse from 'html-react-parser'
 
+import Section from './section'
 
-function Pub({ pub, memberNames, ...props }) {
+
+function Pub({ pub, memberNames, memberOrcids, ...props }) {
   const { authors, title, container, published: year, URL } = pub
   
   return (
-    <div {...props} className="max-w-prose space-y-2">
+    <li className="space-y-2">
       <h2 className="text-base font-medium">{parse(title)}</h2>
       <div>
         {authors.map(({ name, orcid }, i) => (
-          <span
-            key={`${props.key}-author-${i}`}
-            className={memberNames.has(name) ? "font-semibold" : ""}
-          >
-            {name}
-            {orcid && (
-              <Link href={orcid}>
-                <Image
-                  src="orcid.svg" alt="orcid-icon" width="10" height="10"
-                  className='inline'
-                />
-              </Link>
-            )}
-            {i != authors.length - 1 && ", "}
-          </span>
-        ))}
+            <span
+              key={`${props.key}-author-${i}`}
+            >
+              <span className={memberNames.has(name) ? "underline" : ""}>{name}</span>
+              {orcid && (
+                <Link href={orcid} className='pl-0.5'>
+                  <Image
+                    src="orcid.svg" alt="orcid-icon" width="12" height="12"
+                    className='inline-block pb-0.5'
+                  />
+                </Link>
+              )}
+              {i != authors.length - 1 && ", "}
+            </span>
+          )
+        )}
       </div>
       <div>
         <span className="italic">{parse(container)}</span>, {year}
@@ -35,20 +37,25 @@ function Pub({ pub, memberNames, ...props }) {
       <div>
         [ <Link href={URL}>Paper</Link> ]
       </div>
-    </div>
+    </li>
   )
 }
 
 export default function Publications({ pubs, members, ...props }) {
-  let memberNames = new Set([])
+  let memberNames = new Set(members.flatMap(m => {
+    if (m.hasOwnProperty('alt-names'))
+      return [m.name, ...m['alt-names']]
+    else
+      return m.name
+  }))
 
   return (
-    <section className="space-y-6" {...props}>
-      <h1>Publications</h1>
-
-      {pubs.map((pub, i) => (
-        <Pub key={`pub-${i}`} pub={pub} memberNames={memberNames} />
-      ))}
-    </section>
+    <Section title="Publications" {...props}>
+      <ol className='sm:list-decimal flex flex-col gap-4 py-2' reversed={true}>
+        {pubs.map((pub, i) => (
+          <Pub key={`pub-${i}`} pub={pub} memberNames={memberNames} />
+        ))}
+      </ol>
+    </Section>
   )
 }

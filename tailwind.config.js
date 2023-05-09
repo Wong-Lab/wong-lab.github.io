@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
@@ -9,11 +11,14 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    container: {
-      center: true,
-      padding: '2rem',
-    },
     extend: {
+      container: {
+        center: true,
+      },
+      fontFamily: {
+        'serif': ['Erode', ...defaultTheme.fontFamily.serif],
+        'sans': ['Satoshi', ...defaultTheme.fontFamily.sans],
+      },
       keyframes: {
         'slide': {
           '0%': {
