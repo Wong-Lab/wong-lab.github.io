@@ -45,7 +45,13 @@ function Member({ member }) {
       </p>
       <div>
         <p>{role}</p>
-        <p>{email}</p>
+        <p>
+          <Link href={`mailto:${email}`}>
+            <span className='underline'>
+              {email}
+            </span>
+          </Link>
+        </p>
       </div>
     </div>
   )
@@ -78,6 +84,9 @@ export default function Members({ members, ...props }) {
           {currentMembers.map((m, i) => (
             <Member key={`member-${i}`} member={m} />
           ))}
+          <div className='flex items-center'>
+            <Link href="/alumni" className='font-sans hover:underline'>Alumni →</Link>
+          </div>
         </div>
       </div>
     </Section>

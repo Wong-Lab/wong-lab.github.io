@@ -138,8 +138,10 @@
   current-role: Olympus Microscopes	
 
 - name: Jacinta Conrad
+  alt-names:
+    -Jacinta C. Conrad
   role: Alumni
-  former-role: Postdoc
+  former-role: Post-doc
   current-role: >-
     Associate Professor, Chemical & Biomolecular Engineering Dept, University of Houston
   website:
@@ -165,7 +167,7 @@
 
 - name: Vernita Gordon
   role: Alumni
-  former-role: Postdoc
+  former-role: Post-doc
   current-role: Assistant Professor, Physics Dept, University of Texas at Austin
   website:
     name: Gordon Lab
@@ -178,7 +180,7 @@
 
 - name: Fan Jin
   role: Alumni
-  former-role: Postdoc
+  former-role: Post-doc
   current-role: Professor, Bio-X Dept, USTC China	Jin Lab
   website:
     name: Jin Lab
@@ -216,7 +218,7 @@
 
 - name: Kirstin Purdy
   role: Alumni
-  former-role: Postdoc
+  former-role: Post-doc
   current-role: Lecturer, Physics, Pennsylvania State University
   website: 
     name: Kirstin Purdy
@@ -229,18 +231,18 @@
 
 - name: Lori Sanders
   role: Alumni
-  former-role: Postdoc
-  current-role: Postdoc	
+  former-role: Post-doc
+  current-role: Post-doc	
 
 - name: Nathan Schmidt
   role: Alumni
-  former-role: Postdoc
-  current-role: Postdoc, UCSF, Prof. William DeGrado	
+  former-role: Post-doc
+  current-role: Post-doc, UCSF, Prof. William DeGrado	
 
 - name: Scott Slimmer
   role: Alumni
   former-role: Graduate Student
-  current-role: Postdoc	
+  current-role: Post-doc	
 
 - name: Ivan Smalyukh
   role: Alumni
@@ -260,7 +262,7 @@
 
 - name: Kun Zhao
   role: Alumni
-  former-role: Postdoc
+  former-role: Post-doc
   current-role: Professor, Physics Dept, Tianjin University
   website:
     name: Zhao Lab
@@ -268,7 +270,7 @@
 
 - name: Andy Utada
   role: Alumni
-  former-role: Postdoc
+  former-role: Post-doc
   current-role: >-
     Associate Professor, Life and Environmental Sciences Dept, University of Tsukuba
   website:

@@ -1,3 +1,82 @@
+- doi: 10.1101/2023.04.10.536285
+  title: How individual <i>P. aeruginosa</i> cells with diverse stator distributions
+    collectively form a heterogeneous macroscopic swarming population
+  container: bioRxiv
+  authors:
+    - orcid: ""
+      name: Jaime de Anda
+      first: true
+    - orcid: ""
+      name: Sherry L. Kuchma
+      first: false
+    - orcid: ""
+      name: Shanice S. Webster
+      first: false
+    - orcid: ""
+      name: Arman Boromand
+      first: false
+    - orcid: ""
+      name: Kimberley A. Lewis
+      first: false
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Maria Contreras
+      first: false
+    - orcid: ""
+      name: Victor F. Medeiros Pereira
+      first: false
+    - orcid: ""
+      name: Deborah A. Hogan
+      first: false
+    - orcid: ""
+      name: Corey S. O’Hern
+      first: false
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1101/2023.04.10.536285
+  published: 2023
+  checked: true
+- doi: 10.1017/S1431927622001957
+  title: Understanding 3D Biomineralization in Human Kidney Stones with
+    Correlative X-Ray Micro-CT &amp; X-Ray Fluorescence Microscopy
+  container: Microscopy and Microanalysis
+  authors:
+    - orcid: ""
+      name: Kymora Scotland
+      first: true
+    - orcid: ""
+      name: Gerard Wong
+      first: false
+    - orcid: ""
+      name: Katarzyna Matusik
+      first: false
+    - orcid: ""
+      name: Michael Lun
+      first: false
+    - orcid: ""
+      name: Sheraz Gul
+      first: false
+    - orcid: ""
+      name: Frances Su
+      first: false
+    - orcid: ""
+      name: David Vine
+      first: false
+    - orcid: ""
+      name: Jeff Gelb
+      first: false
+    - orcid: ""
+      name: Wenbing Yun
+      first: false
+  URL: http://dx.doi.org/10.1017/s1431927622001957
+  published: 2022
+  checked: true
 - doi: 10.1016/j.jbc.2022.102620
   title: Structural studies of human fission protein FIS1 reveal a dynamic region
     important for GTPase DRP1 recruitment and mitochondrial fission

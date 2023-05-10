@@ -20,13 +20,13 @@ function Nav() {
         </Link>
       </div>
       <div className='space-x-4'>
-        <Link href="/#research">
+        <Link href="/#research" className='hover:underline'>
           <span className=''>Science</span>
         </Link>
-        <Link href="/#members">
+        <Link href="/#members" className='hover:underline'>
           <span className=''>Members</span>
         </Link>
-        <Link href="/#publications">
+        <Link href="/#publications" className='hover:underline'>
           <span className=''>Publications</span>
         </Link>
       </div>
@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
   // TODO: watch router and animate nav?
 
   return (
-    <div id="top">
+    <div>
       <Head>
         <title>Wong Lab | UCLA</title>
       </Head>

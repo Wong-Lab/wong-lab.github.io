@@ -6,18 +6,24 @@ import parse from 'html-react-parser'
 import Section from './section'
 
 
+export const encodeDOI = doi => doi
+  .replaceAll('/', '~')
+  .replaceAll(':', '+')
+  .replaceAll('(', '[')
+  .replaceAll(')', ']')
+
 function Pub({ pub, memberNames, memberOrcids, ...props }) {
-  const { authors, title, container, published: year, URL } = pub
+  const { authors, title, container, published: year, URL, doi } = pub
   
   return (
     <li className="space-y-2">
-      <h2 className="text-base font-medium">{parse(title)}</h2>
+      <h2 className="text-base font-semibold">{parse(title)}</h2>
       <div>
         {authors.map(({ name, orcid }, i) => (
             <span
               key={`${props.key}-author-${i}`}
             >
-              <span className={memberNames.has(name) ? "underline" : ""}>{name}</span>
+              <span className={memberNames.has(name) ? "font-medium" : ""}>{name}</span>
               {orcid && (
                 <Link href={orcid} className='pl-0.5'>
                   <Image
@@ -35,7 +41,8 @@ function Pub({ pub, memberNames, memberOrcids, ...props }) {
         <span className="italic">{parse(container)}</span>, {year}
       </div>
       <div>
-        [ <Link href={URL}>Paper</Link> ]
+        [ <Link href={URL} className='hover:underline'>paper</Link> ]
+        [ <Link href={`/pdf/${encodeDOI(doi)}.pdf`} className='hover:underline'>pdf</Link> ]
       </div>
     </li>
   )
