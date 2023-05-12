@@ -2,9 +2,11 @@
   alt-names:
     - Gerard C.L. Wong
     - Gerard C. L. Wong
+    - Gerard C. L. Wong
     - Gerard C L Wong
     - G. C. L. Wong
     - G.C.L. Wong
+    - G. C. L Wong
   role: Professor and Principal Investigator
   affiliations:
     - Department of Bioengineering
@@ -129,6 +131,10 @@
   former-role: Undergraduate 
 
 - name: Thomas Angelini
+  alt-names:
+    - Thomas E. Angelini
+    - Thomas E Angelini
+    - T. E. Angelini
   role: Alumni
   former-role: Graduate Student
   current-role: >-
@@ -138,13 +144,15 @@
     url: http://plaza.ufl.edu/t.e.angelini/
 
 - name: John Butler
+  alt-names:
+    - John C. Butler
   role: Alumni
   former-role: Graduate Student
   current-role: Olympus Microscopes	
 
 - name: Jacinta Conrad
   alt-names:
-    -Jacinta C. Conrad
+    - Jacinta C. Conrad
   role: Alumni
   former-role: Post-doc
   current-role: >-
@@ -154,6 +162,10 @@
     url: http://www.chee.uh.edu/faculty/conrad
 
 - name: Robert Coridan
+  alt-names:
+    - Rob Coridan
+    - R. H. Coridan
+    - Robert H. Coridan
   role: Alumni
   former-role: Graduate Student
   current-role: >-
@@ -163,6 +175,8 @@
     url: http://comp.uark.edu/~rcoridan/index.html
 
 - name: Maxsim Gibiansky
+  alt-names:
+    - Maxsim L. Gibiansky
   role: Alumni
   former-role: Graduate Student
   current-role: Staff Data Scientist at Proteus Digital Health
@@ -171,6 +185,8 @@
     url: http://www.proteus.com/
 
 - name: Vernita Gordon
+  alt-names:
+    - Vernita D. Gordon
   role: Alumni
   former-role: Post-doc
   current-role: Assistant Professor, Physics Dept, University of Texas at Austin
@@ -202,6 +218,8 @@
   current-role: Graduate Student	
 
 - name: Hongjun Liang
+  alt-names:
+    - H. Liang
   role: Alumni
   former-role: Graduate Student
   current-role: >-
@@ -240,6 +258,8 @@
   current-role: Post-doc	
 
 - name: Nathan Schmidt
+  alt-names:
+    - Nathan W. Schmidt
   role: Alumni
   former-role: Post-doc
   current-role: Post-doc, UCSF, Prof. William DeGrado	
@@ -274,6 +294,9 @@
     url: http://chemeng.tju.edu.cn/en/people;jsessionid=DD2440844AA21C61EE8E33F3F5617E02?type=detail&id=272
 
 - name: Andy Utada
+  alt-names:
+    - Andrew Utada
+    - Andrew S. Utada
   role: Alumni
   former-role: Post-doc
   current-role: >-
