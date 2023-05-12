@@ -16,13 +16,11 @@
   email: gclwong@seas.ucla.edu
   phone: 310-794-7684
   fax: 310-794-5956
-  profile-img: 'gerard-wong.jpeg' 
   orcid: 0000-0003-0893-6383
 
 - name: Wujing Xian
   role: Staff Scientist
   email: wxian@ucla.edu
-  profile-img: 'wujing-xian.jpeg'
   orcid: 0000-0001-5074-0304
   
 - name: Haleh Alimohamadi
@@ -36,7 +34,6 @@
     - Calvin K Lee
   role: Post-doc
   email: calvin.k.lee@ucla.edu
-  profile-img: 'calvin-lee.jpeg'
   orcid: 0000-0001-6789-0317
 
 - name: Jaime De Anda
@@ -44,7 +41,6 @@
     - Jaime de Anda
   role: Ph.D. Student
   email: jaime77@ucla.edu
-  profile-img: 'jaime-de-anda.jpeg'
   orcid: 0000-0003-2129-0775
 
 - name: William Schmidt

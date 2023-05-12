@@ -2,13 +2,13 @@ import Image from "next/image"
 import Section from "./section"
 import Link from "next/link"
 
-const placeholder = "JD_ACS_Central_Science_Cover@0.25x.png"
+import placeholder from '../public/JD_ACS_Central_Science_Cover@0.25x.png'
 
 function Project({ title, image, children, ...props }) {
   return (
     <div className='py-2 sm:flex sm:flex-row gap-4'>
       <Image
-        src={image} alt="cover" width="250" height="250" 
+        src={image} alt="cover" width="300" height="288" 
         className='h-full w-full max-w-sm sm:w-4/12 pb-2'
       />
       <div className="flex flex-col gap-2">

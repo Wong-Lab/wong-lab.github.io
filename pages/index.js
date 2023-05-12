@@ -1,4 +1,4 @@
-import cover from '../public/JD_ACS_Central_Science_Cover.png'
+import cover from '../public/JD_ACS_Central_Science_Cover.webp'
 
 import Image from 'next/image'
 import Publications from '../components/publications'
@@ -16,12 +16,12 @@ export default function Home({ pubs, members }) {
     // background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(23,25,37,1) 43%, rgba(43,49,83,1) 100%);
     <div>
       <div className='h-[50vh] flex items-center'>
-        <div className=''>
+        <div>
           <h1 className='font-sans text-2xl'>Welcome!</h1>
           <p className='text-xl'>Website is still under construction.</p>
         </div>
         <Image
-          src={cover} alt="cover" priority={true}
+          src={cover} alt="cover" priority={true} width={300} height={300}
           className='object-cover object-center w-1/2'
         />
       </div>

@@ -3,19 +3,18 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Section from './section'
 
+import gerard from '../public/gerard-wong.webp'
+
 function Gerard({ member }) {
   let { name, affiliations, office } = member
-  let profileImg = member["profile-img"]
 
   return (
     <div className='sm:flex sm:flex-row gap-4'>
-      {typeof profileImg !== 'undefined' &&
-        <Image
-          className='h-full w-full max-w-sm sm:w-4/12 pb-2'
-          src={path.join('/profiles', profileImg)}
-          alt="Photo of ${name}" width="147" height="150" keepaspectratio="true"
-        />
-      }
+      <Image
+        className='h-full w-full max-w-sm sm:w-4/12 pb-2'
+        src={gerard}
+        alt="Photo of ${name}" width="147" height="150" keepaspectratio="true"
+      />
       <div className='gap-4'>
         <Member member={member} />
         <p>{office}</p>
