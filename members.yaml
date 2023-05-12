@@ -22,7 +22,12 @@
   email: wxian@ucla.edu
   profile-img: 'wujing-xian.jpeg'
   orcid: 0000-0001-5074-0304
-
+  
+- name: Haleh Alimohamadi
+  role: Post-doc
+  email: halimohamadi@ucla.edu
+  # orcid: 
+  
 - name: Calvin Lee
   alt-names:
     - Calvin K. Lee
