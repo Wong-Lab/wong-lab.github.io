@@ -13,7 +13,7 @@ import Link from 'next/link'
 function Nav() {
   return (
     <nav className='flex flex-row p-4 items-center justify-between container max-w-prose'>
-      <div className=''>
+      <div>
         {/* Logo */}
         <Link href="/">
           <span className='font-medium text-xl'>Wong Lab</span>
@@ -43,7 +43,7 @@ function MyApp({ Component, pageProps }) {
         <title>Wong Lab | UCLA</title>
       </Head>
       <Nav />
-      <div className='mx-auto md:container p-4 font-serif'>
+      <div className='mx-auto p-4 font-serif'>
         <main className='container max-w-prose'>
           <Component {...pageProps}/>
         </main>
