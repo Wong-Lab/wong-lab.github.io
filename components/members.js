@@ -1,30 +1,32 @@
-import path from 'path'
 import Image from 'next/image'
 import Link from 'next/link'
 import Section from './section'
 
 import gerard from '../public/gerard-wong.webp'
 
-function Gerard({ member }) {
-  let { name, affiliations, office } = member
+const Gerard = ({ member }) => {
+  const { name, affiliations, office } = member;
 
   return (
     <div className='sm:flex sm:flex-row gap-4'>
       <Image
         className='h-full w-full max-w-sm sm:w-4/12 pb-2'
         src={gerard}
-        alt="Photo of ${name}" width="147" height="150" keepaspectratio="true"
+        alt={`Photo of ${name}`}
+        width={147}
+        height={150}
+        keepaspectratio='true'
       />
       <div className='gap-4'>
         <Member member={member} />
         <p>{office}</p>
-        {typeof affiliations !== 'undefined' && affiliations.map((a, i) => (
+        {affiliations?.map((a, i) => (
           <p key={`member-${name}-${i}`}>{a}</p>
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
 function Member({ member }) {
   let { name, role, email, orcid } = member
@@ -34,7 +36,7 @@ function Member({ member }) {
       <p className='font-medium'>
         {name}
         {orcid && (
-          <Link href={`https://orcid.org/${orcid}`} className='pl-0.5'>
+          <Link href={`https://orcid.org/${orcid}`} className='pl-0.5 select-none'>
             <Image
               src="orcid.svg" alt="orcid-icon" width="12" height="12"
               className='inline-block pb-0.5'

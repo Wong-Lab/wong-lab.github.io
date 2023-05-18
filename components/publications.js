@@ -25,7 +25,7 @@ function Pub({ pub, memberNames, memberOrcids, ...props }) {
             >
               <span className={memberNames.has(name) ? "font-medium" : ""}>{name}</span>
               {orcid && (
-                <Link href={orcid} className='pl-0.5'>
+                <Link href={orcid} className='pl-0.5 select-none'>
                   <Image
                     src="orcid.svg" alt="orcid-icon" width="12" height="12"
                     className='inline-block pb-0.5'
