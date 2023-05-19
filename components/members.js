@@ -12,7 +12,7 @@ const Gerard = ({ member }) => {
       <Image
         className='h-full w-full max-w-sm sm:w-4/12 pb-2'
         src={gerard}
-        alt={`Photo of ${name}`}
+        alt={`Photo of Gerard Wong`}
         width={147}
         height={150}
         keepaspectratio='true'
