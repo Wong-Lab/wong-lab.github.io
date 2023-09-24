@@ -1,10 +1,36 @@
+import path from 'path'
+
+import { loadIndex } from '@/lib/pubs'
+import { loadYAML } from '@/lib/io'
+
 import Link from 'next/link'
 import Image from 'next/image'
+import Heading from '@/components/heading'
 
 import parse from 'html-react-parser'
 
-import Section from './section'
 
+export default function Publications({ pubs, members, ...props }) {
+  let memberNames = new Set(members.flatMap(m => {
+    if (m.hasOwnProperty('alt-names'))
+      return [m.name, ...m['alt-names']]
+    else
+      return m.name
+  }))
+
+  return (
+    <div>
+      <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Publications</Heading.H1>
+      <div className='max-w-prose py-2 ml-10'>
+        <ol className='font-sans sm:list-decimal text-sm flex flex-col gap-4 py-2' reversed={true}>
+          {pubs.map((pub, i) => (
+            <Pub key={`pub-${i}`} pub={pub} memberNames={memberNames} />
+          ))}
+        </ol>
+      </div>
+    </div>
+  )
+}
 
 export const encodeDOI = doi => doi
   .replaceAll('/', '~')
@@ -23,7 +49,7 @@ function Pub({ pub, memberNames, memberOrcids, ...props }) {
             <span
               key={`${props.key}-author-${i}`}
             >
-              <span className={memberNames.has(name) ? "font-medium" : ""}>{name}</span>
+              <span className={memberNames.has(name) ? "font-bold" : ""}>{name}</span>
               {orcid && (
                 <Link href={orcid} className='pl-0.5 select-none'>
                   <Image
@@ -48,21 +74,14 @@ function Pub({ pub, memberNames, memberOrcids, ...props }) {
   )
 }
 
-export default function Publications({ pubs, members, ...props }) {
-  let memberNames = new Set(members.flatMap(m => {
-    if (m.hasOwnProperty('alt-names'))
-      return [m.name, ...m['alt-names']]
-    else
-      return m.name
-  }))
+export async function getStaticProps(context) {
+  let pubs = await loadIndex(path.join(process.cwd(), 'pubs.yaml'))
+  let members = await loadYAML(path.join(process.cwd(), 'members.yaml'))
 
-  return (
-    <Section title="Publications" {...props}>
-      <ol className='sm:list-decimal flex flex-col gap-4 py-2' reversed={true}>
-        {pubs.map((pub, i) => (
-          <Pub key={`pub-${i}`} pub={pub} memberNames={memberNames} />
-        ))}
-      </ol>
-    </Section>
-  )
+  return {
+    props: {
+      pubs,
+      members
+    },
+  }
 }

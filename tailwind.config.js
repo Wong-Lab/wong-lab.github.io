@@ -3,8 +3,8 @@ const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
   content: [
-    "./app/**/*.{js,ts,jsx,tsx}",
-    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx}",
   
     // Or if using `src` directory:
@@ -12,32 +12,16 @@ module.exports = {
   ],
   theme: {
     extend: {
-      container: {
-        center: true,
+      // container: {
+      //   center: true,
+      // },
+      screens: {
+        'ultrawide': '1920px',
       },
       fontFamily: {
         'serif': ['Erode', ...defaultTheme.fontFamily.serif],
         'sans': ['Satoshi', ...defaultTheme.fontFamily.sans],
       },
-      keyframes: {
-        'slide': {
-          '0%': {
-            top: '0'
-          },
-          '25%': {
-            top: '-1.2em'
-          },
-          '50%': {
-            top: '-2.4em'
-          },
-          '75%': {
-            top: '-3.6em'
-          }
-        }
-      },
-      animation: {
-        'lets-talk-slide': 'slide 10s linear infinite',
-      }
     },
   },
   plugins: [],
