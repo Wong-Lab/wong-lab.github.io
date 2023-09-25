@@ -15,7 +15,6 @@ const groupRoleOrder = [
   'Post-docs and Staff Scientists',
   'Ph.D. Students',
   'Undergraduates',
-  'Alumni'
 ]
 
 const roleGroups = {
@@ -23,7 +22,6 @@ const roleGroups = {
   'Staff Scientist': 'Post-docs and Staff Scientists',
   'Ph.D. Student': 'Ph.D. Students',
   'Undergraduate': 'Undergraduates',
-  'Alumni': 'Alumni'
 }
 
 const roleOrder = [
@@ -31,7 +29,6 @@ const roleOrder = [
   'Post-doc',
   'Ph.D. Student',
   'Undergraduate',
-  'Alumni'
 ]
 
 export default function Members({ members, ...props }) {
