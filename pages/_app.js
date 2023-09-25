@@ -1,8 +1,10 @@
 import '../styles/globals.css'
 
+import { useState } from 'react'
 import { MDXProvider } from '@mdx-js/react'
 import Head from 'next/head'
 import Link from 'next/link'
+import Image from 'next/image'
 
 import RegularLink from '@/components/link'
 import Heading from '@/components/heading'
@@ -17,42 +19,41 @@ import Container from '@/components/container'
 // })
 
 function Nav() {
-  // const [isClear, setIsClear] = useState(false)
-  // const pathname = usePathname()
-
-  // useEffect(() => {
-  //   setIsClear(pathname === '/')
-
-  //   window.addEventListener('scroll', () => {
-  //     if (pathname === '/') {
-  //       setIsClear(window.scrollY <= 60)
-  //     } else {
-  //       setIsClear(false)
-  //     }
-  //   })
-  // }, [pathname])
+  const [expanded, setExpanded] = useState(false)
 
   return (
-    <nav className='z-20 flex flex-row p-4 items-center justify-between px-14 fixed w-full text-white backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px]'>
+    <nav className={`flex z-20 p-4 px-14 fixed w-full text-white backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px] ${expanded ? 'h-screen flex-col justify-start' : 'flex-row justify-between items-center'}`}>
       <div>
         {/* Logo */}
-        <Link href="/">
+        <Link href="/" onClick={() => setExpanded(false)}>
           <span className='font-medium text-xl whitespace-nowrap'>Wong Lab</span>
         </Link>
       </div>
-      <div className='space-x-4'>
-        <Link href="/research" className='hover:underline underline-offset-4'>
-          <span className=''>Research</span>
-        </Link>
-        {/* <Link href="/news" className='hover:underline underline-offset-4'>
-          <span className=''>News</span>
-        </Link> */}
-        <Link href="/publications" className='hover:underline underline-offset-4'>
-          <span className=''>Publications</span>
-        </Link>
-        <Link href="/members" className='hover:underline underline-offset-4'>
-          <span className=''>Members</span>
-        </Link>
+      <div>
+        <Image
+          src="bars-solid.svg" alt="menu" width={16} height={16}
+          className={`text-white sm:hidden ${expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
+          onClick={() => setExpanded(true)}
+        />
+        <div className={`${!expanded && 'space-x-4'} sm:block ${expanded ? 'block w-screen py-4' : 'hidden'}`}>
+          <Link href="/research" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
+            <span className=''>Research</span>
+          </Link>
+          {/* <Link href="/news" className='hover:underline underline-offset-4'>
+            <span className=''>News</span>
+          </Link> */}
+          <Link href="/publications" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
+            <span className=''>Publications</span>
+          </Link>
+          <Link href="/members" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
+            <span className=''>Members</span>
+          </Link>
+        </div>
+        <Image
+          src="x-solid.svg" alt="menu" width={12} height={12}
+          className={`text-white ${!expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
+          onClick={() => setExpanded(false)}
+        />
       </div>
     </nav>
   )
