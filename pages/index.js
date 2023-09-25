@@ -39,7 +39,7 @@ function Hero() {
         })
       }, 5000);
       return () => clearInterval(interval);
-    }, []);
+    }, [children.length]);
 
     const handleIndicatorClick = (i) => {
       setCurrentImageIndex(i)
