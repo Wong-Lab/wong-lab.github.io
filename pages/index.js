@@ -25,11 +25,14 @@ function Hero() {
     BacteriaTrails
   ]
 
-  const Carousel = ({ children, ...props}) => {
+  const Carousel = ({ children, className, ...props}) => {
     const containerRef = useRef(null);
     const [currentImageIndex, setCurrentImageIndex] = useState(0)
 
     useEffect(() => {
+      // don't do anything if there's only one image
+      if (children.length <= 1) return
+
       const interval = setInterval(() => {
         setCurrentImageIndex(currentIndex => {
           let nextIdx = (currentIndex + 1) % children.length
@@ -48,36 +51,38 @@ function Hero() {
 
     return (
       <div
-        className='absolute top-0 left-0 -z-10 h-full xl:max-h-[640px] xl:static xl:flex xl:flex-col xl:overflow-y-scroll xl:snap-y xl:snap-mandatory scrollbar-hide'
+        className={`absolute top-0 left-0 -z-10 h-full xl:max-h-[640px] xl:static xl:flex xl:flex-col xl:overflow-y-scroll xl:snap-y xl:snap-mandatory scrollbar-hide ${className}`}
         ref={containerRef}
         {...props}
       >
         {children}
-        <div className='absolute right-0 inset-y-0 z-20 hidden xl:flex xl:flex-col xl:justify-end xl:text-white xl:px-2 xl:py-2'>
-          <div className='space-y-1'>
-            {Array(children.length).fill().map((_, i) => (i === currentImageIndex ? 
-              <Image
-                key={i}
-                src="circle-solid.svg" alt="active image" width={14} height={14}
-                className='cursor-pointer'
-                onClick={() => handleIndicatorClick(i)}
-              />
-              :
-              <Image
-                key={i}
-                src="circle-regular.svg" alt="inactive image" width={14} height={14}
-                className='cursor-pointer'
-                onClick={() => handleIndicatorClick(i)}
-              />
-            ))}
+        {(children.length > 1) && (
+          <div className='absolute right-0 inset-y-0 z-20 hidden xl:flex xl:flex-col xl:justify-end xl:text-white xl:px-2 xl:py-2'>
+            <div className='space-y-1'>
+              {Array(children.length).fill().map((_, i) => (i === currentImageIndex ? 
+                <Image
+                  key={i}
+                  src="circle-solid.svg" alt="active image" width={14} height={14}
+                  className='cursor-pointer'
+                  onClick={() => handleIndicatorClick(i)}
+                />
+                :
+                <Image
+                  key={i}
+                  src="circle-regular.svg" alt="inactive image" width={14} height={14}
+                  className='cursor-pointer'
+                  onClick={() => handleIndicatorClick(i)}
+                />
+              ))}
+            </div>
           </div>
-        </div>
+        )}
       </div>
     )
   }
 
-  const Slide = ({ image }) => (
-    <div className={`transition-[background] ease-in-out duration-300 snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px] bg-[rgb(2,0,36)]`}>
+  const Slide = ({ image, className }) => (
+    <div className={`snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px] bg-[rgb(2,0,36)] ${className}`}>
       <div className='flex flex-col justify-end h-full'>
         <Image
           src={image} alt="cover" priority={true}
@@ -87,12 +92,14 @@ function Hero() {
     </div>
   )
 
-
   return (
     <section className={`relative text-white max-w-[1920px] -mx-4 sm:-mx-14 -mt-[60px] overflow-hidden`}>
-      <Carousel>
-        {coverImages.map((image, i) => <Slide image={image} key={`hero-slide-${i}`} /> )}
+      <Carousel className='hidden xl:block'>
+        {coverImages.map((image, i) => <Slide image={image} key={`hero-slide-${i}`} />)}
       </Carousel>
+      <div className='absolute top-0 left-0 -z-10 h-full xl:max-h-[640px] '>
+        <Slide image={coverImages[0]} key={`hero-slide-0`} className='block xl:hidden'/>
+      </div>
       <div className='xl:absolute xl:top-0 xl:left-0 px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10 xl:backdrop-blur-[1px]'>
         <Heading.H1 className="font-serif text-5xl">Synthetic Microbiology and Immunology</Heading.H1>
         <Heading.H2 className="font-light text-3xl">
