@@ -23,7 +23,7 @@ function Hero() {
         fill={true}
         className='absolute right-14 top-10 ml-auto max-w-fit object-cover object-right blur-md lg:blur-sm xl:blur-[1px] lg:min-w-[50%]'
       />
-      <div className='relative px-4 md:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10'>
+      <div className='relative px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10'>
         <Heading.H1 className="font-serif text-5xl">Synthetic Microbiology and Immunology</Heading.H1>
         <Heading.H2 className="font-light text-3xl">
           Leveraging state of the art methods in artificial intelligence,
