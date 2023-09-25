@@ -26,7 +26,7 @@ function Nav() {
       <div>
         {/* Logo */}
         <Link href="/" onClick={() => setExpanded(false)}>
-          <span className='font-medium text-xl whitespace-nowrap'>Wong Lab</span>
+          <span className='font-medium text-2xl whitespace-nowrap'>Wong Lab</span>
         </Link>
       </div>
       <div>
@@ -47,6 +47,9 @@ function Nav() {
           </Link>
           <Link href="/members" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
             <span className=''>Members</span>
+          </Link>
+          <Link href="/alumni" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
+            <span className=''>Alumni</span>
           </Link>
         </div>
         <Image
