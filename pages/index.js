@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 import Image from 'next/image'
 import RegularLink from '@/components/link'
@@ -9,8 +9,8 @@ import { loadIndex } from '../lib/pubs'
 import { loadYAML } from '../lib/io'
 
 import JDACSCover from '../public/JD_ACS_Central_Science_Cover.webp'
-import WalkingBacteria from '@/public/walking-bacteria.png'
 import BacteriaTrails from '@/public/bacteria-trails.png'
+import BacteriaVCPili from '@/public/vc-pili.png'
 
 import BacteriaImage from '@/public/bacteria-motility.png'
 import MembraneImage from '@/public/membrane-modulation.jpg'
@@ -20,45 +20,78 @@ import COVIDImage from '@/public/covid.png'
 
 function Hero() {
   const coverImages = [
-    {
-      image: JDACSCover,
-      bg: 'rgb(2,0,36)',
-    },
-    {
-      image: WalkingBacteria,
-      bg: 'rgb(35,31,32)'
-    }
+    JDACSCover,
+    BacteriaVCPili,
+    BacteriaTrails
   ]
 
+  const Carousel = ({ children, ...props}) => {
+    const containerRef = useRef(null);
+    const [currentImageIndex, setCurrentImageIndex] = useState(0)
+
+    useEffect(() => {
+      const interval = setInterval(() => {
+        setCurrentImageIndex(currentIndex => {
+          let nextIdx = (currentIndex + 1) % children.length
+          containerRef.current.children[nextIdx].scrollIntoView({ behavior: 'smooth' })
+
+          return nextIdx
+        })
+      }, 5000);
+      return () => clearInterval(interval);
+    }, []);
+
+    const handleIndicatorClick = (i) => {
+      setCurrentImageIndex(i)
+      containerRef.current.children[i].scrollIntoView({ behavior: 'smooth' })
+    }
+
+    return (
+      <div
+        className='absolute top-0 left-0 -z-10 h-full xl:max-h-[640px] xl:static xl:flex xl:flex-col xl:overflow-y-scroll xl:snap-y xl:snap-mandatory scrollbar-hide'
+        ref={containerRef}
+        {...props}
+      >
+        {children}
+        <div className='absolute right-0 inset-y-0 z-20 flex flex-col justify-end text-white px-2 py-2'>
+          <div className='space-y-1'>
+            {Array(children.length).fill().map((_, i) => (i === currentImageIndex ? 
+              <Image
+                src="circle-solid.svg" alt="active image" width={14} height={14}
+                className='cursor-pointer'
+                onClick={() => handleIndicatorClick(i)}
+              />
+              :
+              <Image
+                src="circle-regular.svg" alt="inactive image" width={14} height={14}
+                className='cursor-pointer'
+                onClick={() => handleIndicatorClick(i)}
+              />
+            ))}
+          </div>
+        </div>
+      </div>
+    )
+  }
+
   const Slide = ({ image }) => (
-    <div className='snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px]'>
+    <div className={`transition-[background] ease-in-out duration-300 snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px] bg-[rgb(2,0,36)]`}>
       <div className='flex flex-col justify-end h-full'>
         <Image
           src={image} alt="cover" priority={true}
-          className='ml-auto blur-md max-w-fit max-h-full sm:max-h-[640px] object-cover lg:blur-sm xl:blur-[1px] lg:min-w-[50%]'
+          className='ml-auto blur-md max-w-fit sm:max-h-[640px] object-cover md:blur-sm xl:blur-[1px] lg:min-w-[50%]'
         />
       </div>
     </div>
   )
 
-  // const [currentImageIndex, setCurrentImageIndex] = useState(0)
-
-  // useEffect(() => {
-  //   const interval = setInterval(() => {
-  //     setCurrentImageIndex(currentIndex => (currentIndex + 1) % coverImages.length)
-  //   }, 5000);
-  //   return () => clearInterval(interval);
-  // }, []);
-
-  // const currentImage = coverImages[currentImageIndex]
 
   return (
     <section className={`relative text-white max-w-[1920px] -mx-4 sm:-mx-14 -mt-[60px] overflow-hidden`}>
-      <div className='absolute top-0 left-0 -z-10 h-full bg-[rgb(2,0,36)] sm:max-h-[640px] sm:static sm:flex sm:flex-col sm:overflow-y-scroll sm:snap-y sm:snap-mandatory'>
-        <Slide image={JDACSCover} />
-        <Slide image={WalkingBacteria} />
-      </div>
-      <div className='sm:absolute sm:top-0 sm:left-0 px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10 xl:backdrop-blur-[1px]'>
+      <Carousel>
+        {coverImages.map((image, i) => <Slide image={image} key={`hero-slide-${i}`} /> )}
+      </Carousel>
+      <div className='xl:absolute xl:top-0 xl:left-0 px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10 xl:backdrop-blur-[1px]'>
         <Heading.H1 className="font-serif text-5xl">Synthetic Microbiology and Immunology</Heading.H1>
         <Heading.H2 className="font-light text-3xl">
           Leveraging state of the art methods in artificial intelligence,
