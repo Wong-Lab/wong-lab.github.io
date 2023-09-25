@@ -16,7 +16,6 @@ import BacteriaImage from '@/public/bacteria-motility.png'
 import MembraneImage from '@/public/membrane-modulation.jpg'
 import ImmunologyImage from '@/public/synthetic-immunology-2.png'
 import COVIDImage from '@/public/covid.png'
-import Container from '@/components/container'
 
 
 function Hero() {
@@ -55,7 +54,7 @@ function Hero() {
 
   return (
     <section className={`relative text-white max-w-[1920px] -mx-4 sm:-mx-14 -mt-[60px] overflow-hidden`}>
-      <div className='absolute top-0 left-0 -z-10 h-full bg-[rgb(2,0,36)] sm:static sm:flex sm:flex-row sm:overflow-x-scroll sm:snap-x sm:snap-mandatory'>
+      <div className='absolute top-0 left-0 -z-10 h-full bg-[rgb(2,0,36)] sm:max-h-[640px] sm:static sm:flex sm:flex-col sm:overflow-y-scroll sm:snap-y sm:snap-mandatory'>
         <Slide image={JDACSCover} />
         <Slide image={WalkingBacteria} />
       </div>
