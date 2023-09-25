@@ -53,16 +53,18 @@ function Hero() {
         {...props}
       >
         {children}
-        <div className='absolute right-0 inset-y-0 z-20 flex flex-col justify-end text-white px-2 py-2'>
+        <div className='absolute right-0 inset-y-0 z-20 hidden xl:flex xl:flex-col xl:justify-end xl:text-white xl:px-2 xl:py-2'>
           <div className='space-y-1'>
             {Array(children.length).fill().map((_, i) => (i === currentImageIndex ? 
               <Image
+                key={i}
                 src="circle-solid.svg" alt="active image" width={14} height={14}
                 className='cursor-pointer'
                 onClick={() => handleIndicatorClick(i)}
               />
               :
               <Image
+                key={i}
                 src="circle-regular.svg" alt="inactive image" width={14} height={14}
                 className='cursor-pointer'
                 onClick={() => handleIndicatorClick(i)}
