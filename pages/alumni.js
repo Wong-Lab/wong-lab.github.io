@@ -2,9 +2,24 @@ import path from 'path'
 import Link from 'next/link'
 import Image from 'next/image'
 
-import Section from "../components/section";
+import Heading from '@/components/heading'
 import { loadYAML } from '../lib/io'
 
+
+export default function AlumniPage({ alumni }) {
+  return (
+    <section className='max-w-prose'>
+      <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Group</Heading.H1>
+      <div className='py-2'>
+        <div className='grid grid-cols-1 gap-4 py-2'>
+          {alumni.map((m, i) => (
+            <Alumni key={`alumni-${i}`} alumni={m} />
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
 
 function Alumni({ alumni }) {
   let { name, email, orcid } = alumni
@@ -36,20 +51,6 @@ function Alumni({ alumni }) {
         </p>
       </div>
     </div>
-  )
-}
-
-export default function AlumniPage({ alumni }) {
-  return (
-    <Section title='Alumni' showTop={false}>
-      <div className='py-2'>
-        <div className='grid grid-cols-1 gap-4 py-2'>
-          {alumni.map((m, i) => (
-            <Alumni key={`alumni-${i}`} alumni={m} />
-          ))}
-        </div>
-      </div>
-    </Section>
   )
 }
 
