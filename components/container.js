@@ -1,6 +1,6 @@
 
-export default function Container(props) {
+export default function Container({ className, ...props }) {
     return (
-        <main className="relative px-4 sm:px-14 pt-[60px] pb-14" {...props} />
+        <main className={`relative px-4 sm:px-14 pt-[60px] pb-14 max-w-[1920px] ${className || ''}`} {...props} />
     )
 }

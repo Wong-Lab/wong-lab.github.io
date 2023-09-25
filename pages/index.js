@@ -1,4 +1,4 @@
-import cover from '../public/JD_ACS_Central_Science_Cover.webp'
+import { useEffect, useState } from 'react'
 
 import Image from 'next/image'
 import RegularLink from '@/components/link'
@@ -8,22 +8,58 @@ import path from 'path'
 import { loadIndex } from '../lib/pubs'
 import { loadYAML } from '../lib/io'
 
+import JDACSCover from '../public/JD_ACS_Central_Science_Cover.webp'
+import WalkingBacteria from '@/public/walking-bacteria.png'
+import BacteriaTrails from '@/public/bacteria-trails.png'
+
 import BacteriaImage from '@/public/bacteria-motility.png'
 import MembraneImage from '@/public/membrane-modulation.jpg'
 import ImmunologyImage from '@/public/synthetic-immunology-2.png'
 import COVIDImage from '@/public/covid.png'
+import Container from '@/components/container'
 
 
 function Hero() {
+  const coverImages = [
+    {
+      image: JDACSCover,
+      bg: 'rgb(2,0,36)',
+    },
+    {
+      image: WalkingBacteria,
+      bg: 'rgb(35,31,32)'
+    }
+  ]
+
+  const Slide = ({ image }) => (
+    <div className='snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px]'>
+      <div className='flex flex-col justify-end h-full'>
+        <Image
+          src={image} alt="cover" priority={true}
+          className='ml-auto blur-md max-w-fit max-h-full sm:max-h-[640px] object-cover lg:blur-sm xl:blur-[1px] lg:min-w-[50%]'
+        />
+      </div>
+    </div>
+  )
+
+  // const [currentImageIndex, setCurrentImageIndex] = useState(0)
+
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     setCurrentImageIndex(currentIndex => (currentIndex + 1) % coverImages.length)
+  //   }, 5000);
+  //   return () => clearInterval(interval);
+  // }, []);
+
+  // const currentImage = coverImages[currentImageIndex]
+
   return (
-    <section className='relative text-white w-screen bg-[rgb(2,0,36)] -mx-4 sm:-mx-14 -mt-[60px] h-content max-w-[1920px]'>
-      <Image
-        src={cover} alt="cover" priority={true}
-        // width={300} height={300}
-        fill={true}
-        className='absolute right-14 top-10 ml-auto max-w-fit object-cover object-right blur-md lg:blur-sm xl:blur-[1px] lg:min-w-[50%]'
-      />
-      <div className='relative px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10'>
+    <section className={`relative text-white max-w-[1920px] -mx-4 sm:-mx-14 -mt-[60px] overflow-hidden`}>
+      <div className='absolute top-0 left-0 -z-10 h-full bg-[rgb(2,0,36)] sm:static sm:flex sm:flex-row sm:overflow-x-scroll sm:snap-x sm:snap-mandatory'>
+        <Slide image={JDACSCover} />
+        <Slide image={WalkingBacteria} />
+      </div>
+      <div className='sm:absolute sm:top-0 sm:left-0 px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10 xl:backdrop-blur-[1px]'>
         <Heading.H1 className="font-serif text-5xl">Synthetic Microbiology and Immunology</Heading.H1>
         <Heading.H2 className="font-light text-3xl">
           Leveraging state of the art methods in artificial intelligence,
