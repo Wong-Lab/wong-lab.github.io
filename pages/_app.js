@@ -35,7 +35,7 @@ function Nav() {
           className={`text-white sm:hidden ${expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
           onClick={() => setExpanded(true)}
         />
-        <div className={`${!expanded && 'space-x-4'} sm:block ${expanded ? 'block w-screen py-4' : 'hidden'}`}>
+        <div className={`${!expanded && 'space-x-4'} sm:block ${expanded ? 'block w-screen py-4 text-lg' : 'hidden'}`}>
           <Link href="/research" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
             <span className=''>Research</span>
           </Link>
