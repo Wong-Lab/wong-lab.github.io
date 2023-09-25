@@ -22,7 +22,7 @@ function Nav() {
   const [expanded, setExpanded] = useState(false)
 
   return (
-    <nav className={`flex z-20 p-4 px-4 sm:px-14 fixed w-full text-white backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px] ${expanded ? 'h-screen flex-col justify-start' : 'flex-row justify-between items-center'}`}>
+    <nav className={`flex z-20 p-4 px-4 sm:px-14 fixed w-full text-white text-lg backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px] ${expanded ? 'h-screen flex-col justify-start' : 'flex-row justify-between items-center'}`}>
       <div>
         {/* Logo */}
         <Link href="/" onClick={() => setExpanded(false)}>
@@ -35,7 +35,7 @@ function Nav() {
           className={`text-white sm:hidden ${expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
           onClick={() => setExpanded(true)}
         />
-        <div className={`${!expanded && 'space-x-4'} sm:block ${expanded ? 'block w-screen py-4 text-lg' : 'hidden'}`}>
+        <div className={`${!expanded && 'space-x-4'} sm:block ${expanded ? 'block w-screen py-4' : 'hidden'}`}>
           <Link href="/research" className={`hover:underline underline-offset-4 ${expanded && 'block'}`} onClick={() => setExpanded(false)}>
             <span className=''>Research</span>
           </Link>
@@ -61,7 +61,7 @@ function Nav() {
 
 const components = {
   wrapper: ({components, ...rest}) => <article className='relative space-y-4 w-full max-w-prose' {...rest} />,
-  img: (props) => <img className='w-full max-h-[20rem] pb-2 xl:pb-0 xl:absolute xl:left-[60ch] xl:aspect-auto xl:max-w-[calc(100vw-60ch-7rem)] xl:h-full object-scale-down' {...props} />,
+  img: (props) => <img className='w-full max-h-[20rem] pb-2 xl:pb-0 xl:absolute xl:left-[60ch] xl:aspect-auto xl:max-w-[calc(min(100vw-60ch-7rem,20ch))] xl:h-full object-scale-down' {...props} />,
   a: RegularLink,
   h1: (props) => <Heading.H1 className="font-serif text-5xl pt-14 pb-2" {...props} />,
   h2: (props) => <Heading.H2 className="text-3xl pt-4" {...props} />,
