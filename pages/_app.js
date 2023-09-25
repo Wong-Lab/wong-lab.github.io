@@ -22,7 +22,7 @@ function Nav() {
   const [expanded, setExpanded] = useState(false)
 
   return (
-    <nav className={`flex z-20 p-4 px-14 fixed w-full text-white backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px] ${expanded ? 'h-screen flex-col justify-start' : 'flex-row justify-between items-center'}`}>
+    <nav className={`flex z-20 p-4 px-4 sm:px-14 fixed w-full text-white backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px] ${expanded ? 'h-screen flex-col justify-start' : 'flex-row justify-between items-center'}`}>
       <div>
         {/* Logo */}
         <Link href="/" onClick={() => setExpanded(false)}>
