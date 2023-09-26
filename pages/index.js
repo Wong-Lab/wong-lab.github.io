@@ -66,7 +66,7 @@ function Hero() {
         {children}
         {(children.length > 1) && (
           <div className='absolute right-0 inset-y-0 z-20 hidden xl:flex xl:flex-col xl:justify-end xl:text-white xl:px-2 xl:py-2'>
-            <div className='space-y-1'>
+            <div className='space-y-1 opacity-85'>
               {Array(children.length).fill().map((_, i) => (i === currentImageIndex ? 
                 <Image
                   key={i}
@@ -94,7 +94,7 @@ function Hero() {
       <div className='flex flex-col justify-end h-full'>
         <Image
           src={image} alt="cover" priority={true}
-          className='ml-auto blur-md max-w-fit sm:max-h-[640px] object-cover md:blur-sm xl:blur-[1px] lg:min-w-[50%]'
+          className='ml-auto blur-md max-w-[50%] sm:max-h-[640px] object-cover md:blur-sm xl:blur-[1px] lg:min-w-[50%]'
         />
       </div>
     </div>
