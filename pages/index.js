@@ -94,7 +94,7 @@ function Hero() {
       <div className='flex flex-col justify-end h-full'>
         <Image
           src={image} alt="cover" priority={true}
-          className='ml-auto blur-md max-w-[50%] sm:max-h-[640px] object-cover md:blur-sm xl:blur-[1px] lg:min-w-[50%]'
+          className='ml-auto blur-md max-w-fit xl:max-w-[50%] sm:max-h-[640px] object-cover md:blur-sm xl:blur-[1px] lg:min-w-[50%]'
         />
       </div>
     </div>
