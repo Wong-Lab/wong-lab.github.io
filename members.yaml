@@ -174,6 +174,7 @@
   former-role: Undergraduate
   
 - name: Yashes Srinivasan
+  orcid: 0000-0002-5279-9753
   role: Alumni
   former-role: Undergraduate
 
@@ -182,6 +183,7 @@
   former-role: Undergraduate
 
 - name: Ali Farhat
+  orcid: 0000-0002-9729-9656
   role: Alumni
   former-role: Undergraduate
   
@@ -202,6 +204,7 @@
   former-role: Undergraduate
   
 - name: Charles Lomba
+  orcid: 0000-0002-6574-4276
   role: Alumni
   former-role: Undergraduate 
 
@@ -210,6 +213,7 @@
     - Thomas E. Angelini
     - Thomas E Angelini
     - T. E. Angelini
+  orcid: 0000-0002-0313-4341
   role: Alumni
   former-role: Ph.D. Student
   current-role: >-
@@ -231,26 +235,28 @@
 - name: Jacinta Conrad
   alt-names:
     - Jacinta C. Conrad
+  orcid: 0000-0001-6084-4772
   role: Alumni
   former-role: Post-doc
   current-role: >-
     Frank M Tiller Professor, Chemical & Biomolecular Engineering Dept, University of Houston
   website:
     name: Conrad Lab
-    url: http://www.chee.uh.edu/faculty/conrad
+    url: https://conradlab.chee.uh.edu/
 
 - name: Robert Coridan
   alt-names:
     - Rob Coridan
     - R. H. Coridan
     - Robert H. Coridan
+  orcid: 0000-0003-1916-4446
   role: Alumni
   former-role: Ph.D. Student
   current-role: >-
-    Professor, Inorganic Chemistry, University of Arkansas
+    Professor in Chemistry and Biochemistry, University of Arkansas
   website:
     name: Coridan Lab
-    url: http://comp.uark.edu/~rcoridan/index.html
+    url: https://rcoridan.hosted.uark.edu/index.html
 
 - name: Maxsim Gibiansky
   alt-names:
@@ -265,12 +271,13 @@
 - name: Vernita Gordon
   alt-names:
     - Vernita D. Gordon
+  orcid: 0000-0002-5989-9378
   role: Alumni
   former-role: Post-doc
   current-role: Associate Professor, Physics Dept, University of Texas at Austin
   website:
-    name: Gordon Lab
-    url: https://ph.utexas.edu/component/cobalt/item/18-physics/433-gordon-vernita?Itemid=1264
+    name: Center for Nonlinear Dynamics
+    url: https://chaos.utexas.edu/people/faculty/vernita-gordon
 
 - name: Evelyn Huang
   role: Alumni
@@ -283,6 +290,7 @@
     url: https://www.linkedin.com/in/evelynylhuang/
 
 - name: Fan Jin
+  orcid: 0000-0003-2313-0388
   role: Alumni
   former-role: Post-doc
   current-role: Professor, Shenzhen Institute of Advanced Technology
@@ -291,6 +299,7 @@
     url: http://www.isynbio.org/team-detail_en.aspx?detail=2142&parm=2080
 
 - name: Ghee Hwee Lai
+  orcid: 0000-0002-3310-3992
   role: Alumni
   former-role: Ph.D. Student
   current-role: >-
@@ -305,12 +314,13 @@
   current-role: Graduate Student	
 
 - name: Hongjun Liang
+  orcid: 0000-0003-0864-9106
   alt-names:
     - H. Liang
   role: Alumni
   former-role: Ph.D. Student
   current-role: >-
-    Professor, Department of Cell Physiology and Molecular Biophysics,
+    Associate Professor of Cell Physiology & Molecular Biophysics,
     Center for Membrane Protein Research, Texas Tech University Health Sciences
     Center
   website: 
@@ -318,13 +328,14 @@
     url: https://www.ttuhsc.edu/medicine/cell-physiology-molecular-biophysics/faculty/liang/
 
 - name: Abhijit Mishra
+  orcid: 0000-0003-1057-3550
   role: Alumni
   former-role: Ph.D. Student
   current-role: >-
     Associate Professor, Materials Science and Engineering, IIT Gandhinagar
   website:
     name: Mishra Lab
-    url: http://www.iitgn.ac.in/faculty/mems/abhijit.htm
+    url: https://iitgn.ac.in/faculty/mse/fac-abhijit
 
 - name: Kirstin Purdy
   role: Alumni
@@ -366,6 +377,7 @@
     url: https://lewisgroup.seas.harvard.edu/people/scott-slimmer	
 
 - name: Ivan Smalyukh
+  orcid: 0000-0003-3444-1966
   role: Alumni
   former-role: Visiting Scientist
   current-role: Professor, Physics Dept, University of Colorado at Boulder
@@ -374,6 +386,7 @@
     url: https://www.colorado.edu/soft-matter-physics/people/people/ivan-i-smalyukh
 
 - name: Lihua Yang
+  orcid: 0000-0003-2570-076X
   role: Alumni
   former-role: Ph.D. Student
   current-role: Associate Professor, Materials Science Dept, USTC, China
@@ -382,6 +395,7 @@
     url: http://en.scms.ustc.edu.cn/2011/0704/c7154a89394/page.psp
 
 - name: Kun Zhao
+  orcid: 0000-0003-3928-1981
   role: Alumni
   former-role: Post-doc
   current-role: Professor, Physics Dept, Tianjin University
@@ -393,6 +407,7 @@
   alt-names:
     - Andrew Utada
     - Andrew S. Utada
+  orcid: 0000-0003-4542-6315
   role: Alumni
   former-role: Post-doc
   current-role: >-
@@ -402,6 +417,7 @@
     url: http://www.trios.tsukuba.ac.jp/en/researcher/0000003853
 
 - name: Michelle W. Lee
+  orcid: 0000-0003-1613-9501
   role: Alumni
   former-role: Post-doc
   current-role: Researcher
