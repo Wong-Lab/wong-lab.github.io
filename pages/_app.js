@@ -23,16 +23,21 @@ function Nav() {
 
   return (
     <nav className={`flex z-20 p-4 px-4 sm:px-14 fixed w-full text-white text-lg backdrop-blur-sm bg-[rgb(2,0,36)] bg-opacity-80 select-none max-w-[1920px] ${expanded ? 'h-screen flex-col justify-start' : 'flex-row justify-between items-center'}`}>
-      <div>
+      <div className='flex flex-row justify-between'>
         {/* Logo */}
         <Link href="/" onClick={() => setExpanded(false)}>
           <span className='font-medium text-2xl whitespace-nowrap'>Wong Lab</span>
         </Link>
+        <Image
+          src="x-solid.svg" alt="menu" width={12} height={12}
+          className={`${!expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
+          onClick={() => setExpanded(false)}
+        />
       </div>
       <div>
         <Image
           src="bars-solid.svg" alt="menu" width={16} height={16}
-          className={`text-white sm:hidden ${expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
+          className={`sm:hidden ${expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
           onClick={() => setExpanded(true)}
         />
         <div className={`${!expanded && 'space-x-4'} sm:block ${expanded ? 'block w-screen py-4' : 'hidden'}`}>
@@ -52,11 +57,6 @@ function Nav() {
             <span className=''>Alumni</span>
           </Link>
         </div>
-        <Image
-          src="x-solid.svg" alt="menu" width={12} height={12}
-          className={`text-white ${!expanded && 'hidden'} hover:cursor-pointer hover:underline underline-offset-4`}
-          onClick={() => setExpanded(false)}
-        />
       </div>
     </nav>
   )
