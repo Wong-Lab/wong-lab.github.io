@@ -44,7 +44,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
   const { authors, title, container, published: year, URL, doi, pressrelease, cover, commentary } = pub
   
   return (
-    <li className="space-y-2">
+    <li className="space-y-2 relative">
       <h2 className="text-base font-semibold">{parse(title)}</h2>
       <div>
         {authors.map(({ name, orcid }, i) => {
@@ -76,11 +76,17 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         <Link href={URL}>Article</Link>
         <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>
         {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
-        {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
-        {/* {cover && (
-          [ <Link href={`https://doi.org/${doi}`}>press release</Link> ]
-        )} */}
+        {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Commentary</Link>)}
       </div>
+      {cover && (
+        <Link href={cover.url}>
+          <img
+            src={cover.url} alt={cover.name}
+            className='w-full max-h-[20rem] pb-2 xl:pb-0 xl:absolute xl:top-0 xl:left-[75ch] xl:aspect-auto xl:max-w-[calc(min(100vw-60ch-7rem,20ch))] xl:h-full object-scale-down'
+            {...props}
+          />
+        </Link>
+      )}
     </li>
   )
 }
