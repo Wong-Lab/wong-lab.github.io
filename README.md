@@ -92,7 +92,9 @@ Sheet](https://docs.google.com/spreadsheets/d/1YSRcqjtj4xT1oEDEDnn_om2EqMzZiKljY
    `.pdf` extension. For example, the PDF for the above DOI would be named
    `10.1038/s41586-021-03546-8.pdf`.
 
-   The PDF can be added to the repository via the GitHub web interface or by cloning the repository to a local computer, adding the PDF, and pushing the changes.
+   The PDF can be added to the repository via the GitHub web interface or by
+   cloning the repository to a local computer, adding the PDF, and pushing the
+   changes.
 
 4. (Optionally) There are also some additional fields that may be displayed if
    present in the article metadata. These include `pressrelease`, `commentary`,
@@ -119,7 +121,9 @@ Sheet](https://docs.google.com/spreadsheets/d/1YSRcqjtj4xT1oEDEDnn_om2EqMzZiKljY
    ```mdx
    const meta = {
       doi: "10.1038/s41586-021-03546-8",
-      author: "Write-up Author",
+      author:
+         - name: "Write-up Author",
+         - name: "Another Write-up Author",
       date: "2021-08-01"
    }
 
