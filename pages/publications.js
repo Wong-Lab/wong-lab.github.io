@@ -82,7 +82,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         <Link href={cover.url}>
           <img
             src={cover.url} alt={cover.name}
-            className='w-full max-h-[20rem] pb-2 xl:pb-0 xl:absolute xl:top-0 xl:left-[75ch] xl:aspect-auto xl:max-w-[calc(min(100vw-60ch-7rem,20ch))] xl:h-full object-scale-down'
+            className='w-full max-h-[20rem] pt-4 xl:pt-0 xl:pb-0 xl:absolute xl:top-0 xl:left-[75ch] xl:aspect-auto xl:max-w-[calc(min(100vw-60ch-7rem,20ch))] xl:h-full object-scale-down'
             {...props}
           />
         </Link>
