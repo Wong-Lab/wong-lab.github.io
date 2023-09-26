@@ -11,6 +11,7 @@ import { loadYAML } from '../lib/io'
 import JDACSCover from '../public/JD_ACS_Central_Science_Cover.webp'
 import BacteriaTrails from '@/public/bacteria-trails.png'
 import BacteriaVCPili from '@/public/vc-pili.png'
+import BacteriaSprinkles from '@/public/bacteria-sprinkles.png'
 
 import BacteriaImage from '@/public/bacteria-motility.png'
 import MembraneImage from '@/public/membrane-modulation.jpg'
@@ -22,7 +23,8 @@ function Hero() {
   const coverImages = [
     JDACSCover,
     BacteriaVCPili,
-    BacteriaTrails
+    BacteriaTrails,
+    BacteriaSprinkles
   ]
 
   const Carousel = ({ children, className, ...props}) => {
