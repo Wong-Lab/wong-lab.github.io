@@ -148,6 +148,12 @@
   former-role: Post-doc
   email: yuezhang123@ucla.edu
   orcid: 0000-0001-7822-8716
+  current-role: >-
+    Assistant Professor, Materials Science and Engineering Department, Biology
+    Department, Infection and Immunomodulation Laboratory, Westlake University
+  website:
+    name: Yue Zhang
+    url: https://yz.lab.westlake.edu.cn/
 
 - name: Ziwen Liu
   role: Alumni
@@ -205,19 +211,19 @@
     - Thomas E Angelini
     - T. E. Angelini
   role: Alumni
-  former-role: Graduate Student
+  former-role: Ph.D. Student
   current-role: >-
-    Associate Professor, Mechanical & Aerospace Engineering Dept, University of Florida
+    Associate Professor, Mechanical & Aerospace Engineering Dept, University of Florida at Gainesville
   website:
     name: Angelini Lab
     url: http://plaza.ufl.edu/t.e.angelini/
 
-- name: John Butler
+- name: John Butler (Deceased)
   alt-names:
     - John C. Butler
   role: Alumni
-  former-role: Graduate Student
-  current-role: Olympus Microscopes	
+  former-role: Ph.D. Student
+  current-role:
 
 - name: Jacinta Conrad
   alt-names:
@@ -225,7 +231,7 @@
   role: Alumni
   former-role: Post-doc
   current-role: >-
-    Associate Professor, Chemical & Biomolecular Engineering Dept, University of Houston
+    Frank M Tiller Professor, Chemical & Biomolecular Engineering Dept, University of Houston
   website:
     name: Conrad Lab
     url: http://www.chee.uh.edu/faculty/conrad
@@ -236,9 +242,9 @@
     - R. H. Coridan
     - Robert H. Coridan
   role: Alumni
-  former-role: Graduate Student
+  former-role: Ph.D. Student
   current-role: >-
-    Assistant Professor, Chemistry and Biochemistry, University of Arkansas
+    Professor, Inorganic Chemistry, University of Arkansas
   website:
     name: Coridan Lab
     url: http://comp.uark.edu/~rcoridan/index.html
@@ -247,39 +253,43 @@
   alt-names:
     - Maxsim L. Gibiansky
   role: Alumni
-  former-role: Graduate Student
-  current-role: Staff Data Scientist at Proteus Digital Health
+  former-role: Ph.D. Student
+  current-role: Senior Data Scientist at Arine
   website:
-    name: Proteus Digital Health
-    url: http://www.proteus.com/
+    name: Arine, Inc.
+    url: https://www.arine.io/
 
 - name: Vernita Gordon
   alt-names:
     - Vernita D. Gordon
   role: Alumni
   former-role: Post-doc
-  current-role: Assistant Professor, Physics Dept, University of Texas at Austin
+  current-role: Associate Professor, Physics Dept, University of Texas at Austin
   website:
     name: Gordon Lab
-    url: http://chaos.utexas.edu/people/faculty/vernita-gordon
+    url: https://ph.utexas.edu/component/cobalt/item/18-physics/433-gordon-vernita?Itemid=1264
 
 - name: Evelyn Huang
   role: Alumni
-  former-role: Undergrad
+  former-role: Undergraduate
   current-role: Family Medicine Resident, St. Vincent Hospital	
 
 - name: Fan Jin
   role: Alumni
   former-role: Post-doc
-  current-role: Professor, Bio-X Dept, USTC China	Jin Lab
+  current-role: Professor, Shenzhen Institute of Advanced Technology
   website:
     name: Jin Lab
-    url: http://en.hfnl.ustc.edu.cn/2017/1130/c14131a210254/page.htm
+    url: http://www.isynbio.org/team-detail_en.aspx?detail=2142&parm=2080
 
 - name: Ghee Hwee Lai
   role: Alumni
-  former-role: Graduate Student
-  current-role: Research Scientist	
+  former-role: Ph.D. Student
+  current-role: >-
+    Research Fellow, Singapore Centre for Environmentalk Life Sciences Engineering (SCELSE), Nanyang Technological University
+  website:
+    name: Ghee Hwee Lai on LinkedIn
+    url: https://www.linkedin.com/in/gheehweelai/
 
 - name: Langfang Li
   role: Alumni
@@ -290,9 +300,9 @@
   alt-names:
     - H. Liang
   role: Alumni
-  former-role: Graduate Student
+  former-role: Ph.D. Student
   current-role: >-
-    Associate Professor, Department of Cell Physiology and Molecular Biophysics,
+    Professor, Department of Cell Physiology and Molecular Biophysics,
     Center for Membrane Protein Research, Texas Tech University Health Sciences
     Center
   website: 
@@ -301,9 +311,9 @@
 
 - name: Abhijit Mishra
   role: Alumni
-  former-role: Graduate Student
+  former-role: Ph.D. Student
   current-role: >-
-    Assistant Professor, Materials Science and Engineering, IIT Gandhinagar
+    Associate Professor, Materials Science and Engineering, IIT Gandhinagar
   website:
     name: Mishra Lab
     url: http://www.iitgn.ac.in/faculty/mems/abhijit.htm
@@ -311,44 +321,53 @@
 - name: Kirstin Purdy
   role: Alumni
   former-role: Post-doc
-  current-role: Lecturer, Physics, Pennsylvania State University
+  current-role: Teaching Professor of Physics, Pennsylvania State University
   website: 
     name: Kirstin Purdy
     url: http://www.phys.psu.edu/people/krp15
 
 - name: Olena Rudko
   role: Alumni
-  former-role: Graduate Student
-  current-role: Graduate Student	
+  former-role: Ph.D. Student
+  current-role: Researcher, University of Colorado at Colorado Springs (UCCS)	
 
 - name: Lori Sanders
   role: Alumni
   former-role: Post-doc
-  current-role: Post-doc	
+  current-role: Visiting Scientist, Photographer, Harvard University
+  website:
+    name: Lewis Lab
+    url: https://lewisgroup.seas.harvard.edu/people/lori-k-sanders
 
 - name: Nathan Schmidt
   alt-names:
     - Nathan W. Schmidt
   role: Alumni
   former-role: Post-doc
-  current-role: Post-doc, UCSF, Prof. William DeGrado	
+  current-role: Senior Protein Engineer, Ginkgo Bioworks, Inc.
+  website:
+    name: Ginkgo Bioworks
+    url: https://www.ginkgobioworks.com/
 
 - name: Scott Slimmer
   role: Alumni
-  former-role: Graduate Student
-  current-role: Post-doc	
+  former-role: Ph.D. Student
+  current-role: Lab Manager, Harvard University
+  website:
+    name: Lewis Lab
+    url: https://lewisgroup.seas.harvard.edu/people/scott-slimmer	
 
 - name: Ivan Smalyukh
   role: Alumni
   former-role: Visiting Scientist
-  current-role: Associate Professor, Physics Dept, University of Colorado
+  current-role: Professor, Physics Dept, University of Colorado at Boulder
   website:
     name: Smalyukh Lab
-    url: https://www.colorado.edu/soft-matter-physics/
+    url: https://www.colorado.edu/soft-matter-physics/people/people/ivan-i-smalyukh
 
 - name: Lihua Yang
   role: Alumni
-  former-role: Graduate Student
+  former-role: Ph.D. Student
   current-role: Associate Professor, Materials Science Dept, USTC, China
   website:
     name: Yang Lab
@@ -377,10 +396,13 @@
 - name: Michelle W. Lee
   role: Alumni
   former-role: Post-doc
+  current-role: Researcher
 
 - name: Ernest Y. Lee
+  alt-names:
+    - Ernest Lee
   role: Alumni
-  former-role: Graduate Student
+  former-role: Ph.D. Student
   current-role: >-
     Internal Medicine Resident at Cedars-Sinai Medical Center
   website:

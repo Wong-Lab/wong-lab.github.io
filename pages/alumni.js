@@ -2,34 +2,45 @@ import path from 'path'
 import Link from 'next/link'
 import Image from 'next/image'
 
+import RegularLink from '@/components/link'
 import Heading from '@/components/heading'
+import Section from '@/components/section'
 import { loadYAML } from '../lib/io'
 
 
 export default function AlumniPage({ alumni }) {
+  const phds = alumni.filter(m => m['former-role'] === 'Ph.D. Student' || m['former-role'] === 'Post-doc' || m['former-role'] === 'Visiting Scientist')
+  const rest = alumni.filter(m => m['former-role'] !== 'Ph.D. Student' && m['former-role'] !== 'Post-doc' && m['former-role'] !== 'Visiting Scientist') 
+
+  console.log(phds)
+  console.log(rest)
+
   return (
-    <section className='max-w-prose'>
-      <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Group</Heading.H1>
-      <div className='py-2'>
-        <div className='grid grid-cols-1 gap-4 py-2'>
-          {alumni.map((m, i) => (
-            <Alumni key={`alumni-${i}`} alumni={m} />
-          ))}
+    <section className='max-w-prose space-y-8'>
+      <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Alumni</Heading.H1>
+      <Section title={'Ph.D Students and Post-docs'} showTop={false}>
+        <div className='space-y-4'>
+          {phds.map((m, i) => <Alumni key={`member-${m.name}-${i}]`} alumni={m} />)}
         </div>
-      </div>
+      </Section>
+      <Section title={'Graduate Students and Undergraduates'} showTop={false}>
+        <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 py-2'>
+          {rest.map((m, i) => <Alumni key={`member-${m.name}-${i}]`} alumni={m} />)}
+        </div>
+      </Section>
     </section>
   )
 }
 
 function Alumni({ alumni }) {
-  let { name, email, orcid } = alumni
+  let { name, email, orcid, website } = alumni
   let former = alumni['former-role']
   let current = alumni['current-role']
 
   return (
     <div className=''>
       <p className='font-medium'>
-        {name}
+        {name} ({former})
         {orcid && (
           <Link href={`https://orcid.org/${orcid}`} className='pl-0.5'>
             <Image
@@ -40,15 +51,12 @@ function Alumni({ alumni }) {
         )}
       </p>
       <div>
-        <p>{former}</p>
         <p>{current}</p>
-        <p>
-          <Link href={`mailto:${email}`}>
-            <span className='underline'>
-              {email}
-            </span>
-          </Link>
-        </p>
+        {website && (
+          <div>
+            <RegularLink href={website.url}>{website.name}</RegularLink>
+          </div> 
+        )}
       </div>
     </div>
   )
