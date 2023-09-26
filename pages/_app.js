@@ -64,7 +64,7 @@ function Nav() {
 
 const components = {
   wrapper: ({components, ...rest}) => <article className='relative space-y-4 w-full max-w-prose' {...rest} />,
-  img: (props) => <img className='w-full max-h-[20rem] pb-2 xl:pb-0 xl:absolute xl:left-[60ch] xl:aspect-auto xl:max-w-[calc(min(100vw-60ch-7rem,20ch))] xl:h-full object-scale-down' {...props} />,
+  img: (props) => <img alt={props.title} className='w-full max-h-[20rem] pb-2 xl:pb-0 xl:absolute xl:left-[60ch] xl:aspect-auto xl:max-w-[calc(min(100vw-60ch-7rem,20ch))] xl:h-full object-scale-down' {...props} />,
   a: RegularLink,
   h1: (props) => <Heading.H1 className="font-serif text-5xl pt-14 pb-2" {...props} />,
   h2: (props) => <Heading.H2 className="text-3xl pt-4" {...props} />,
