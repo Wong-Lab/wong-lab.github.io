@@ -20,7 +20,7 @@ export default function AlumniPage({ alumni }) {
           {phds.map((m, i) => <Alumni key={`member-${m.name}-${i}]`} alumni={m} />)}
         </div>
       </Section>
-      <Section title={'Graduate Students and Undergraduates'} showTop={false}>
+      <Section title={'Masters Students and Undergraduates'} showTop={false}>
         <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 py-2'>
           {rest.map((m, i) => <Alumni key={`member-${m.name}-${i}]`} alumni={m} />)}
         </div>

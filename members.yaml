@@ -275,7 +275,12 @@
 - name: Evelyn Huang
   role: Alumni
   former-role: Undergraduate
-  current-role: Family Medicine Resident, St. Vincent Hospital	
+  current-role:
+    - Clinical Assistant Professor, Clinical Sciences, UIUC
+    - Family Physician, Kirby Medical Center
+  website:
+    name: Evelyn Huang on LinkedIn
+    url: https://www.linkedin.com/in/evelynylhuang/
 
 - name: Fan Jin
   role: Alumni
@@ -404,10 +409,11 @@
 - name: Ernest Y. Lee
   alt-names:
     - Ernest Lee
+  orcid: 0000-0001-5144-2552
   role: Alumni
   former-role: Ph.D. Student
   current-role: >-
-    Internal Medicine Resident at Cedars-Sinai Medical Center
+    Dermatology Resident at UCSF
   website:
     name: Ernest Lee
     url: https://ernest-lee.github.io/
