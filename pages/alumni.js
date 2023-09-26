@@ -12,9 +12,6 @@ export default function AlumniPage({ alumni }) {
   const phds = alumni.filter(m => m['former-role'] === 'Ph.D. Student' || m['former-role'] === 'Post-doc' || m['former-role'] === 'Visiting Scientist')
   const rest = alumni.filter(m => m['former-role'] !== 'Ph.D. Student' && m['former-role'] !== 'Post-doc' && m['former-role'] !== 'Visiting Scientist') 
 
-  console.log(phds)
-  console.log(rest)
-
   return (
     <section className='max-w-prose space-y-8'>
       <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Alumni</Heading.H1>
