@@ -308,6 +308,9 @@
   published: 2022
   checked: true
 - doi: 10.1073/pnas.2112226119
+  pressrelease:
+    name: UCLA Press Release
+    url: https://newsroom.ucla.edu/releases/bacteria-chemical-signals-like-radio-waves
   title: Broadcasting of amplitude- and frequency-modulated c-di-GMP signals
     facilitates cooperative surface commitment in bacterial lineages
   container: Proceedings of the National Academy of Sciences
@@ -407,6 +410,9 @@
   published: 2021
   checked: true
 - doi: 10.1126/science.abf3427
+  pressrelease:
+    name: UCLA Press Release
+    url: https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html
   title: |-
     Silver nanoparticles boost charge-extraction efficiency in
                 <i>Shewanella</i>
@@ -926,6 +932,9 @@
   checked: true
 - doi: 10.1053/j.gastro.2020.08.038
   pdf: 10.1053~j.gastro.2020.08.038.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: https://newsroom.ucla.edu/releases/how-bacterial-toxins-cause-colitis
   first-authors:
     - Xinhua Chen
     - Xiaotong Yang
@@ -1244,6 +1253,9 @@
   checked: true
 - doi: 10.1038/s41467-020-15331-8
   pdf: 10.1038~s41467-020-15331-8.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: https://newsroom.ucla.edu/releases/LL37-discovery-control-inflammation-in-autoimmune-diseases
   title: c-di-GMP modulates type IV MSHA pilus retraction and surface attachment
     in Vibrio cholerae
   container: Nature Communications
@@ -2537,6 +2549,14 @@
   checked: true
 - doi: 10.1073/pnas.1609893113
   pdf: 10.1073~pnas.1609893113.pdf
+  pressrelease:
+    - name: UCLA Press Release
+      url: https://newsroom.ucla.edu/releases/computers-learn-to-recognize-molecules-that-can-enter-cells
+    - name: Science Daily Press Release
+      url: https://www.sciencedaily.com/releases/2016/11/161115123527.htm
+  commentary:
+    name: ACM Technews
+    url: https://cacm.acm.org/news/209962-computers-learn-to-recognize-molecules-that-can-enter-cells/fulltext
   title: Mapping membrane activity in undiscovered peptide sequence space using
     machine learning
   container: Proceedings of the National Academy of Sciences
@@ -2826,6 +2846,9 @@
   checked: true
 - doi: 10.1021/acsnano.5b07826
   pdf: 10.1021~acsnano.5b07826.pdf
+  commentary:
+    name: ACS News Highlight
+    url: https://www.acs.org/pressroom/presspacs/2016/acs-presspac-january-6-2016/new-tools-needed-to-explore-microbiomes.html
   title: "Tools for the Microbiome: Nano and Beyond"
   container: ACS Nano
   shortContainer: ACS Nano
@@ -3291,6 +3314,7 @@
   additional: >
     [Read Press
     Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
+    [Chemical & Engineering News](https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html)
   title: Engineering Persister-Specific Antibiotics with Synergistic Antimicrobial
     Functions
   container: ACS Nano
@@ -3508,6 +3532,9 @@
   checked: true
 - doi: 10.1073/pnas.1215089110
   pdf: 10.1073~pnas.1215089110.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: https://newsroom.ucla.edu/releases/earthquake-like-dynamics-found-242773
   title: |-
     Earthquake-like dynamics in
                 <i>Myxococcus xanthus</i>
@@ -3686,10 +3713,7 @@
   pdf: 10.1073~pnas.1108795108.pdf
   pressrelease:
     name: UCLA Press Release
-    url: http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290
-  additional: >
-    [Read Press
-    Release](http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290)
+    url: https://samueli.ucla.edu/ucla-study-shows-cell-penetrating-peptides-for-drug-delivery-act-like-a-swiss-army-knife/
   title: Translocation of HIV TAT peptide and analogues induced by multiplexed
     membrane and cytoskeletal interactions
   container: Proceedings of the National Academy of Sciences
@@ -3790,10 +3814,7 @@
   pdf: 10.1073~pnas.1105073108.pdf
   pressrelease:
     name: UCLA Press Release
-    url: http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547
-  additional: >
-    [Read Press
-    Release](http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547)
+    url: https://samueli.ucla.edu/ucla-study-shows-bacteria-use-batman-like-grappling-hooks-to-slingshot-on-surfaces/
   title: Bacteria use type-IV pili to slingshot on surfaces
   container: Proceedings of the National Academy of Sciences
   shortContainer: Proc. Natl. Acad. Sci. U.S.A.
@@ -3830,6 +3851,9 @@
   checked: true
 - doi: 10.1021/ja200079a
   pdf: 10.1021~ja200079a.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: https://samueli.ucla.edu/ucla-researchers-discover-general-recipe-for-making-antimicrobial-agents-that-kill-bacteria/
   title: Criterion for Amino Acid Composition of Defensins and Antimicrobial
     Peptides Based on Geometry of Membrane Destabilization
   container: Journal of the American Chemical Society
@@ -3947,6 +3971,9 @@
   checked: true
 - doi: 10.1126/science.1194238
   pdf: 10.1126~science.1194238.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: https://samueli.ucla.edu/ucla-led-research-team-finds-that-bacteria-can-stand-up-and-walk/
   title: Bacteria Use Type IV Pili to Walk Upright and Detach from Surfaces
   container: Science
   shortContainer: Science
@@ -3986,6 +4013,9 @@
   checked: true
 - doi: 10.1002/adma.200904098
   pdf: 10.1002~adma.200904098.pdf
+  pressrelease:
+    name: UIUC Press Release
+    url: https://news.illinois.edu/view/6367/205867
   title: Ultrafast Imaging and the Phase Problem for Inelastic X-Ray Scattering
   container: Advanced Materials
   shortContainer: Adv. Mater.
