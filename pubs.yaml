@@ -871,6 +871,9 @@
   checked: true
 - doi: 10.1073/pnas.1917623117
   pdf: 10.1073~pnas.1917623117.pdf
+  commentary:
+    name: PNAS, "An ancient neuropeptide defends the brain against infection"
+    url: https://doi.org/10.1073/pnas.2023990118
   additional: >
     [Commentary in PNAS, "An ancient neuropeptide defends the brain
     against infection"](https://doi.org/10.1073/pnas.2023990118)
@@ -1076,6 +1079,10 @@
   checked: true
 - doi: 10.1073/pnas.1920469117
   pdf: 10.1073~pnas.1920469117.pdf
+  commentary:
+    name: >-
+      Commentary in PNAS, "Linking neurons to immunity: Lessons from Hydra"
+    url: https://doi.org/10.1073/pnas.2011637117
   additional: >
     [Commentary in PNAS, "Linking neurons to immunity: Lessons from
     Hydra"](https://doi.org/10.1073/pnas.2011637117)
@@ -1856,6 +1863,9 @@
   checked: true
 - doi: 10.1073/pnas.1720071115
   pdf: 10.1073~pnas.1720071115.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla
   additional: >
     [Read UCLA Press
     Release](http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla)
@@ -1986,6 +1996,12 @@
   checked: true
 - doi: 10.1021/acscentsci.7b00338
   pdf: 10.1021~acscentsci.7b00338.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses
+  cover:
+    name: ACS Central Science
+    url: /img/covers/10.1021~acscentsci.7b00338.jpg
   additional: >
     [Read UCLA Press
     Release](http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses)
@@ -2106,6 +2122,12 @@
   checked: true
 - doi: 10.1159/000477990
   pdf: 10.1159~000477990.pdf
+  commentary:
+    name: Science Highlight, "The rogue protein behind Parkinson's disease may also protect your gut"
+    url: https://www.science.org/content/article/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut
+  cover:
+    name: Journal of Innate Immunity
+    url: /img/covers/10.1159~000477990.jpg
   additional: >
     Highlighted in
     [Science](http://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut)
@@ -2894,6 +2916,9 @@
   checked: true
 - doi: 10.1073/pnas.1507893112
   pdf: 10.1073~pnas.1507893112.pdf
+  pressrelease:
+    name: UIUC Press Release
+    url: https://news.illinois.edu/blog/view/6367/269573
   additional: |
     [Read Press Release](https://news.illinois.edu/blog/view/6367/269573)
   title: Helical antimicrobial polypeptides with radial amphiphilicity
@@ -3022,6 +3047,12 @@
   checked: true
 - doi: 10.1038/nmat4298
   pdf: 10.1038~nmat4298.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/ucla-researchers-discover-molecular-rules-that-govern-autoimmune-disorders
+  commentary:
+    name: Nature News and Views
+    url: http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html
   additional: >
     [Read Nature News and
     Views](http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html) [Read
@@ -3070,6 +3101,9 @@
   checked: true
 - doi: 10.1021/acscentsci.5b00054
   pdf: 10.1021~acscentsci.5b00054.pdf
+  pressrelease:
+    name: Science Daily Press Release
+    url: https://www.sciencedaily.com/releases/2015/04/150415092803.htm
   additional: >
     [Read Press
     Release](https://www.sciencedaily.com/releases/2015/04/150415092803.htm)
@@ -3251,6 +3285,9 @@
   checked: true
 - doi: 10.1021/nn502201a
   pdf: 10.1021~nn502201a.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance
   additional: >
     [Read Press
     Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
@@ -3383,6 +3420,12 @@
   checked: true
 - doi: 10.1038/nature12155
   pdf: 10.1038~nature12155.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/study-shows-lucky-bacteria-strike-245840
+  commentary:
+    name: Nature News and Views
+    url: http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html
   additional: >
     [Read Nature News and
     Views](http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html)
@@ -3641,6 +3684,9 @@
   checked: true
 - doi: 10.1073/pnas.1108795108
   pdf: 10.1073~pnas.1108795108.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290
   additional: >
     [Read Press
     Release](http://newsroom.ucla.edu/releases/ucla-engineering-study-shows-how-216290)
@@ -3687,6 +3733,9 @@
   checked: true
 - doi: 10.1073/pnas.1108558108
   pdf: 10.1073~pnas.1108558108.pdf
+  pressrelease:
+    name: Science Daily Press Release
+    url: https://www.sciencedaily.com/releases/2011/09/110919151306.htm
   additional: >
     [Read Press
     Release](https://www.sciencedaily.com/releases/2011/09/110919151306.htm)
@@ -3739,6 +3788,9 @@
   checked: true
 - doi: 10.1073/pnas.1105073108
   pdf: 10.1073~pnas.1105073108.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547
   additional: >
     [Read Press
     Release](http://newsroom.ucla.edu/releases/ucla-engineering-researchers-discover-210547)
@@ -4752,6 +4804,9 @@
   checked: true
 - doi: 10.1038/nmat1195
   pdf: 10.1038~nmat1195.pdf
+  commentary:
+    name: Nature News and Views
+    url: http://www.nature.com/nmat/journal/v3/n9/full/nmat1200.html
   additional: >
     [Read Nature News and
     Views](http://www.nature.com/nmat/journal/v3/n9/full/nmat1200.html)

@@ -6,6 +6,22 @@ deployed with GitHub Pages. The website is designed to require minimal upkeep
 and will automatically redeploy when changes are made to this repository via
 GitHub Actions.
 
+## Updating Research Pages
+
+MDX files are a combination of Markdown and JSX syntax, which allows for the
+creation of dynamic and interactive content. In other words, you can just write
+the page content in normal Markdown and add interactive components as needed.
+
+In the context of the Wong Lab website, each research page is represented by an
+MDX file located in the `research` folder. When the website is built, each MDX
+file is transformed into a single page on the website, with the URL matching its
+file path relative to the `research` folder. This means that if an MDX file is
+located at `research/my-research-page.mdx`, it will be transformed into a page
+at `https://wonglab.seas.ucla.edu/research/my-research-page`. This allows for
+easy navigation and organization of the research pages on the website.
+
+The "home page" for the research section is located at `research/index.mdx`.
+
 ## Updating Members and Publications
 
 There are two files that need to be changed when either updating the list of lab
@@ -77,6 +93,48 @@ Sheet](https://docs.google.com/spreadsheets/d/1YSRcqjtj4xT1oEDEDnn_om2EqMzZiKljY
    `10.1038/s41586-021-03546-8.pdf`.
 
    The PDF can be added to the repository via the GitHub web interface or by cloning the repository to a local computer, adding the PDF, and pushing the changes.
+
+4. (Optionally) There are also some additional fields that may be displayed if
+   present in the article metadata. These include `pressrelease`, `commentary`,
+   and `cover`. Each of these fields should have a `name` and `url`. For example,
+   the following is an example of a publication with a press release and a cover image
+
+   ```yaml
+    - doi: 10.1038/s41586-021-03546-8
+      pressrelease:
+        name: UCLA Newsroom
+        url: https://newsroom.ucla.edu/releases/some-press-release
+      cover:
+        name: Nature
+        url: https://www.nature.com/articles/s41586-021-03546-8/figures/1
+   ```
+
+5. (Optionally) A separate write-up can be added for each paper. This should be a
+   MDX file located in the `pages/publications/` directory. The name of the
+   file will be the url of the write-up. As a convention, the file name should
+   be all lowercase with hyphens between words.
+
+   The write-up should contain the following frontmatter:
+
+   ```mdx
+   const meta = {
+      doi: "10.1038/s41586-021-03546-8",
+      author: "Write-up Author",
+      date: "2021-08-01"
+   }
+
+   # Write-Up Title
+   ...
+   ```
+
+   Additionally, it must be added to the corresponding publication entry in the `pubs.yaml` file:
+
+   ```yaml
+    - doi: 10.1038/s41586-021-03546-8
+      writeup: pages/publications/my-write-up.mdx
+   ```
+
+   The write-up can be added to the repository via the GitHub web interface or by cloning the repository to a local computer, adding the write-up, and pushing the changes.
 
 To finalize your changes, you will need to make a git commit and push the commit
 to GitHub. Again, this triggers the deployment action which will automatically

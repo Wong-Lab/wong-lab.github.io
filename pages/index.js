@@ -116,7 +116,7 @@ function Hero() {
           microbiology and immunology.
         </Heading.H2>
         <div className='absolute bottom-0 pb-14'>
-          <RegularLink href="/research" className='block text-2xl text-white underline underline-offset-8 decoration-1 hover:decoration-2'>
+          <RegularLink href="/research" className='block text-2xl text-white visited:text-white select-none underline underline-offset-8 decoration-1 hover:decoration-2'>
             Learn More →
           </RegularLink>
         </div>

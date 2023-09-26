@@ -3,7 +3,7 @@ import path from 'path'
 import { loadIndex } from '@/lib/pubs'
 import { loadYAML } from '@/lib/io'
 
-import Link from 'next/link'
+import Link from '@/components/link'
 import Image from 'next/image'
 import Heading from '@/components/heading'
 
@@ -23,7 +23,7 @@ export default function Publications({ pubs, members, ...props }) {
   return (
     <div>
       <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Publications</Heading.H1>
-      <div className='max-w-prose py-2 ml-10'>
+      <div className='max-w-prose py-2 sm:ml-10'>
         <ol className='font-sans sm:list-decimal text-sm flex flex-col gap-4 py-2' reversed={true}>
           {pubs.map((pub, i) => (
             <Pub key={`pub-${i}`} pub={pub} memberNamesAndOrcids={memberNamesAndOrcids} />
@@ -41,7 +41,7 @@ export const encodeDOI = doi => doi
   .replaceAll(')', ']')
 
 function Pub({ pub, memberNamesAndOrcids, ...props }) {
-  const { authors, title, container, published: year, URL, doi } = pub
+  const { authors, title, container, published: year, URL, doi, pressrelease, cover, commentary } = pub
   
   return (
     <li className="space-y-2">
@@ -53,6 +53,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
           return (
             <span
               key={`${props.key}-author-${i}`}
+              className='break-keep'
             >
               <span className={memberNamesAndOrcids.has(name) ? "font-bold" : ""}>{name}</span>
               {actualOrcid && (
@@ -71,9 +72,14 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
       <div>
         <span className="italic">{parse(container)}</span>, {year}
       </div>
-      <div>
-        [ <Link href={URL} className='hover:underline'>paper</Link> ]
-        [ <Link href={`/pdf/${encodeDOI(doi)}.pdf`} className='hover:underline'>pdf</Link> ]
+      <div className='space-x-2'>
+        <Link href={URL}>Article</Link>
+        <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>
+        {pressrelease && <Link href={pressrelease.url} title={pressrelease.name}>Press Release</Link>}
+        {commentary && <Link href={commentary.url} title={commentary.name}>Commentary</Link>}
+        {/* {cover && (
+          [ <Link href={`https://doi.org/${doi}`}>press release</Link> ]
+        )} */}
       </div>
     </li>
   )
