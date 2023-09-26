@@ -75,8 +75,8 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
       <div className='space-x-2'>
         <Link href={URL}>Article</Link>
         <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>
-        {pressrelease && <Link href={pressrelease.url} title={pressrelease.name}>Press Release</Link>}
-        {commentary && <Link href={commentary.url} title={commentary.name}>Commentary</Link>}
+        {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
+        {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
         {/* {cover && (
           [ <Link href={`https://doi.org/${doi}`}>press release</Link> ]
         )} */}
