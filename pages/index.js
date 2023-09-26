@@ -22,11 +22,26 @@ import COVIDImage from '@/public/covid.png'
 
 function Hero() {
   const coverImages = [
-    JDACSCover,
-    Capillaries,
-    BacteriaVCPili,
-    BacteriaTrails,
-    BacteriaSprinkles
+    {
+      image: JDACSCover,
+      caption: 'ACS Central Science cover art by JD'
+    },
+    {
+      image: Capillaries,
+      caption: 'Sample capillaries ready for SAXS'
+    },
+    {
+      image: BacteriaVCPili,
+      caption: <>Fluorescently stained pili in <em>V. cholerae</em></>
+    },
+    {
+      image: BacteriaTrails,
+      caption: <>Exopolysaccharide trails left by <em>P. aeruginosa</em></>
+    },
+    {
+      image: BacteriaSprinkles,
+      caption: <>Fluorescence from biosensor in <em>P. aeruginosa</em></>
+    },
   ]
 
   const Carousel = ({ children, className, ...props}) => {
@@ -89,13 +104,16 @@ function Hero() {
     )
   }
 
-  const Slide = ({ image, className }) => (
-    <div className={`snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px] bg-[rgb(2,0,36)] ${className}`}>
-      <div className='flex flex-col justify-end h-full'>
+  const Slide = ({ image, caption, className }) => (
+    <div className={`relative snap-start snap-always flex-none w-screen max-w-[1920px] sm:h-[640px] bg-[rgb(2,0,36)] ${className}`}>
+      <div className='flex flex-col justify-end items-end h-full'>
         <Image
-          src={image} alt="cover" priority={true}
-          className='ml-auto blur-md max-w-fit xl:max-w-[50%] sm:max-h-[640px] object-cover md:blur-sm xl:blur-[1px] lg:min-w-[50%]'
+          src={image} alt={caption} priority={true}
+          className='ml-auto blur-md max-w-fit xl:max-w-[50%] sm:max-h-[640px] object-cover md:blur-sm xl:blur-0 lg:min-w-[50%]'
         />
+        <div className='absolute bottom-0 right-6 p-1 pr-2 text-sm text-right opacity-80 backdrop-blur-sm rounded-sm'>
+          {caption}
+        </div>
       </div>
     </div>
   )
@@ -103,10 +121,10 @@ function Hero() {
   return (
     <section className={`relative text-white max-w-[1920px] -mx-4 sm:-mx-14 -mt-[60px] overflow-hidden`}>
       <Carousel className='hidden xl:block'>
-        {coverImages.map((image, i) => <Slide image={image} key={`hero-slide-${i}`} />)}
+        {coverImages.map(({ image, caption }, i) => <Slide image={image} caption={caption} key={`hero-slide-${i}`} />)}
       </Carousel>
       <div className='absolute top-0 left-0 -z-10 h-full xl:max-h-[640px] '>
-        <Slide image={coverImages[0]} key={`hero-slide-0`} className='block xl:hidden'/>
+        <Slide image={coverImages[0].image} caption={coverImages[0].caption} key={`hero-slide-0`} className='block xl:hidden'/>
       </div>
       <div className='xl:absolute xl:top-0 xl:left-0 px-4 sm:px-14 py-28 pt-32 md:p-15 max-w-prose min-h-[40em] space-y-8 z-10 xl:backdrop-blur-[1px]'>
         <Heading.H1 className="font-serif text-5xl">Synthetic Microbiology and Immunology</Heading.H1>
