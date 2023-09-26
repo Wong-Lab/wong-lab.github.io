@@ -36,7 +36,11 @@ function Hero() {
       const interval = setInterval(() => {
         setCurrentImageIndex(currentIndex => {
           let nextIdx = (currentIndex + 1) % children.length
-          containerRef.current.children[nextIdx].scrollIntoView({ behavior: 'smooth' })
+          containerRef.current.scrollTo({
+            left: 0,
+            top: containerRef.current.children[nextIdx].offsetTop,
+            behavior: 'smooth'
+          })
 
           return nextIdx
         })
@@ -46,7 +50,7 @@ function Hero() {
 
     const handleIndicatorClick = (i) => {
       setCurrentImageIndex(i)
-      containerRef.current.children[i].scrollIntoView({ behavior: 'smooth' })
+      containerRef.current.children[i].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' })
     }
 
     return (
