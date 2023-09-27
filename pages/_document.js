@@ -14,8 +14,8 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+          <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" />
+          <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
           <link rel="manifest" href="/site.webmanifest" />
           <meta name="Description" content="The Wong Lab's focus is on researching bacterial communities, biofilms, immunity, and antimicrobials. They aim to find ways to prevent and treat biofilm infections by examining surface sensing and messenger signals. Antibiotic-resistant pathogens and designs are also a key area of investigation. In addition, the Wong Lab delves into protein-lipid interactions, synchrotron x-ray techniques, and the physical chemistry of solvation to advance fundamental science." />
         </Head>

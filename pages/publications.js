@@ -20,8 +20,6 @@ export default function Publications({ pubs, members, ...props }) {
     return entries
   }))
 
-  console.log(memberNamesAndOrcids)
-
   return (
     <div>
       <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Publications</Heading.H1>
