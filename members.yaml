@@ -126,10 +126,12 @@
 - name: Reina Squires
   role: Alumni
   former-role: Undergraduate
+  current-role: Life Science Data Intern, Columbia University
 
 - name: Angelynn Nguyen
   role: Alumni
   former-role: Undergraduate
+  current-role: Law Student, UC College of Law, San Francisco
   email: angelynn@ucla.edu
 
 - name: Exequiel Nuño
@@ -179,6 +181,7 @@
 - name: Juelline Lieng
   role: Alumni
   former-role: Undergraduate
+  current-role: Senior Development Engineer, Genentech
 
 - name: Mandy Hung
   role: Alumni
@@ -193,6 +196,7 @@
 - name: Cole Malkoff
   role: Alumni
   former-role: Undergraduate
+  current-role: M.D. Student, Keck School of Medicine, USC
 
 - name: Ali Farhat
   alt-names:
@@ -205,14 +209,17 @@
 - name: Maria Contreras
   role: Alumni
   former-role: Undergraduate
+  current-role: Clinical Research Coordinator, UCLA
   
 - name: Chiara Mooney
   role: Alumni
   former-role: Undergraduate
+  current-role: Software Engineer, Microsoft
   
 - name: Jennifer Wang
   role: Alumni
   former-role: Undergraduate
+  current-role: M.D. Student, UCLA
   
 - name: Veronica Veksler
   role: Alumni
@@ -329,11 +336,6 @@
   website:
     name: Ghee Hwee Lai on LinkedIn
     url: https://www.linkedin.com/in/gheehweelai/
-
-- name: Langfang Li
-  role: Alumni
-  former-role: Graduate Student
-  current-role: Graduate Student	
 
 - name: Hongjun Liang
   orcid: 0000-0003-0864-9106
