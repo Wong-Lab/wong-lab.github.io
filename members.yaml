@@ -1,12 +1,16 @@
 - name: Gerard C. L. Wong
   alt-names:
     - Gerard C.L. Wong
+    - Gerald C. L. Wong
     - Gerard C. L. Wong
+    - Gerard C. L. Wong
     - Gerard C L Wong
+    - Gerard CL Wong
     - Gerard Wong
     - G. C. L. Wong
     - G.C.L. Wong
     - G. C. L Wong
+    - G. C. Wong
   role: Professor and Principal Investigator
   affiliations:
     - Department of Bioengineering
@@ -164,6 +168,9 @@
   orcid: 0000-0001-7482-1299
 
 - name: Giancarlo Santos
+  alt-names:
+    - Giancarlo S. Santos
+    - Giancarlo Santiago Santos
   role: Alumni
   former-role: Graduate Student
   current-role: >-
@@ -188,6 +195,8 @@
   former-role: Undergraduate
 
 - name: Ali Farhat
+  alt-names:
+    - Ali M. Farhat
   orcid: 0000-0002-9729-9656
   role: Alumni
   former-role: Undergraduate
@@ -211,6 +220,8 @@
   current-role: Ph.D. Student, Albert Einstein College of Medicine
   
 - name: Charles Lomba
+  alt-names:
+    - Charles J. Lomba
   orcid: 0000-0002-6574-4276
   role: Alumni
   former-role: Undergraduate 
@@ -233,6 +244,7 @@
 - name: John Butler (Deceased)
   alt-names:
     - John C. Butler
+    - John Butler
   role: Alumni
   former-role: Ph.D. Student
   current-role:
@@ -243,6 +255,7 @@
 - name: Jacinta Conrad
   alt-names:
     - Jacinta C. Conrad
+    - Jacinta C Conrad
   orcid: 0000-0001-6084-4772
   role: Alumni
   former-role: Post-doc
@@ -279,6 +292,7 @@
 - name: Vernita Gordon
   alt-names:
     - Vernita D. Gordon
+    - Vernita D. Gordon
   orcid: 0000-0002-5989-9378
   role: Alumni
   former-role: Post-doc
@@ -346,6 +360,9 @@
     url: https://iitgn.ac.in/faculty/mse/fac-abhijit
 
 - name: Kirstin Purdy
+  alt-names:
+    - Kirstin R. Purdy
+    - Kirstin R. Purdy Drew
   role: Alumni
   former-role: Post-doc
   current-role: Teaching Professor of Physics, Pennsylvania State University
@@ -354,11 +371,18 @@
     url: http://www.phys.psu.edu/people/krp15
 
 - name: Olena Rudko
+  alt-names:
+    - Olena V. Zribi
+    - O. V Zribi
+    - Olena Zribi
   role: Alumni
   former-role: Ph.D. Student
   current-role: Researcher, University of Colorado at Colorado Springs (UCCS)	
 
 - name: Lori Sanders
+  alt-names:
+    - Lori K Sanders
+    - Lori K. Sanders
   role: Alumni
   former-role: Post-doc
   current-role: Visiting Scientist, Photographer, Harvard University
@@ -385,6 +409,8 @@
     url: https://lewisgroup.seas.harvard.edu/people/scott-slimmer	
 
 - name: Ivan Smalyukh
+  alt-names:
+    - Ivan I. Smalyukh
   orcid: 0000-0003-3444-1966
   role: Alumni
   former-role: Visiting Scientist
@@ -433,6 +459,7 @@
 - name: Ernest Y. Lee
   alt-names:
     - Ernest Lee
+    - Ernest Y Lee
   orcid: 0000-0001-5144-2552
   role: Alumni
   former-role: Ph.D. Student
