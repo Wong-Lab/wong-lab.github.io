@@ -20,6 +20,8 @@ export default function Publications({ pubs, members, ...props }) {
     return entries
   }))
 
+  console.log(memberNamesAndOrcids)
+
   return (
     <div>
       <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Publications</Heading.H1>
@@ -42,14 +44,14 @@ export const encodeDOI = doi => doi
 
 function Pub({ pub, memberNamesAndOrcids, ...props }) {
   const { authors, title, container, published: year, URL, doi, pressrelease, cover, commentary } = pub
-  
+
   return (
     <li className="space-y-2 relative">
       <h2 className="text-base font-semibold">{parse(title)}</h2>
       <div>
         {authors.map(({ name, orcid }, i) => {
-          let actualOrcid = orcid || (memberNamesAndOrcids.has(name) && `http://orcid.org/${memberNamesAndOrcids.get(name)}`) || ''
-
+          let actualOrcid = orcid || (memberNamesAndOrcids.has(name) && memberNamesAndOrcids.get(name) && `http://orcid.org/${memberNamesAndOrcids.get(name)}`) || ''
+          
           return (
             <span
               key={`${props.key}-author-${i}`}
