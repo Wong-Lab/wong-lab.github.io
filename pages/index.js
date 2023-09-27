@@ -147,7 +147,7 @@ function Hero() {
 export default function Home() {
   const ResearchCard = ({ title, description, image, url }) => (
     <div className='relative space-y-2 sm:space-y-0 sm:flex sm:flex-row sm:space-x-4 items-start'>
-      <Image src={image} alt={title} className='w-full sm:w-1/4 md:w-2/6 md:w-1/4 h-full' />
+      <Image src={image} alt={title} className='w-full sm:w-[200px] sm:object-cover sm:aspect-square sm:h-full sm:h-[200px]' />
       <div className='space-y-2 pb-8'>
         <Heading.H2>{title}</Heading.H2>
         <p className='text-lg'>{description}</p>
