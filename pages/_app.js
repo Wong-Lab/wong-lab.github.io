@@ -71,7 +71,7 @@ const components = {
   p: (props) => <p className="relative text-lg overflow-y-visible" {...props} />,
   ul: (props) => <ul className="text-lg" {...props} />,
   ol: (props) => <ol className="text-lg" {...props} />,
-  li: (props) => <li className="text-lg list-disc" {...props} />,
+  li: (props) => <li className="text-lg" {...props} />,
 //   pre: Pre,
 //   code: InlineCode,
 }
