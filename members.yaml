@@ -509,81 +509,81 @@
   role: Alumni
   former-role: Undergraduate
   current-role: Biomedical Engineer, Cytovale
-{/*
-- name: Joshua Keefe
-  alt-name:
-    - Joshua A. Keefe
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
 
-- name: Joshua Helali
-  alt-name:
-    - Joshua S. Helali
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
 
-- name: Jie Ma
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Joshua Keefe
+#   alt-name:
+#     - Joshua A. Keefe
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Tran Do
-  alt-name:
-    - Tran Hue Do
-  role: Alumni
-  orcid: 0000-0001-6317-9202
-  former-role: Undergraduate
-  current-role: 
+# - name: Joshua Helali
+#   alt-name:
+#     - Joshua S. Helali
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Rebecca Tarnopol
-  alt-name:
-    - Rebecca L. Tarnopol
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Jie Ma
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Xiang Ji
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Tran Do
+#   alt-name:
+#     - Tran Hue Do
+#   role: Alumni
+#   orcid: 0000-0001-6317-9202
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Yujie Chen
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Rebecca Tarnopol
+#   alt-name:
+#     - Rebecca L. Tarnopol
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Alexander Kim
-  alt-name:
-    - Alexander J. Kim
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Xiang Ji
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Peter Lai
-  alt-name:
-    - Peter Y. Lai
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Yujie Chen
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Stella Lee
-  alt-name:
-    - Stella Y. Lee
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Alexander Kim
+#   alt-name:
+#     - Alexander J. Kim
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: David Qiao
-  alt-name:
-    - David F. Qiao
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
+# - name: Peter Lai
+#   alt-name:
+#     - Peter Y. Lai
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
 
-- name: Rajan Murgai
-  role: Alumni
-  former-role: Undergraduate
-  current-role: 
-  */}
+# - name: Stella Lee
+#   alt-name:
+#     - Stella Y. Lee
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
+
+# - name: David Qiao
+#   alt-name:
+#     - David F. Qiao
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
+
+# - name: Rajan Murgai
+#   role: Alumni
+#   former-role: Undergraduate
+#   current-role: 
