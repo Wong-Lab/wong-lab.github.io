@@ -186,6 +186,7 @@
 - name: Mandy Hung
   role: Alumni
   former-role: Undergraduate
+  current-role: Graduate Student, Boston University
   
 - name: Yashes Srinivasan
   orcid: 0000-0002-5279-9753
@@ -470,3 +471,38 @@
   website:
     name: Ernest Lee
     url: https://ernest-lee.github.io/
+
+- name: Sinead Hawker
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Graduate Student, UC San Diego
+
+- name: Alyssa Blacker
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Senior New Product Development Engineer, Edwards Lifesciences
+
+- name: Julia Thulin
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Senior Process Engineer, Vertex Pharmaceuticals
+
+- name: William Connell
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Machine Learning Research Scientist, Vevo Therapeutics
+
+- name: Sandra Zarmer
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Ph.D. Student, Department of Pharmacology, University of North Carolina
+
+- name: Samantha St. Germain
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Senior Analytics Lead, Google
+
+- name: Laura Voyen
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Biomedical Engineer, Cytovale
