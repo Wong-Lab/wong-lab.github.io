@@ -208,7 +208,7 @@
   orcid: 0000-0002-9729-9656
   role: Alumni
   former-role: Undergraduate
-  current-role: M.D.-Ph.D. Student, UIC College of Medicine
+  current-role: M.D.- Ph.D. Student, UIC College of Medicine
   
 - name: Maria Contreras
   role: Alumni
@@ -510,80 +510,80 @@
   former-role: Undergraduate
   current-role: Biomedical Engineer, Cytovale
 
+- name: Joshua Keefe
+  alt-name:
+    - Joshua A. Keefe
+  role: Alumni
+  former-role: Undergraduate
+  current-role: M.D. - Ph.D. Student, Baylor College of Medicine
 
-# - name: Joshua Keefe
-#   alt-name:
-#     - Joshua A. Keefe
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
+- name: Joshua Helali
+  alt-name:
+    - Joshua S. Helali
+  role: Alumni
+  former-role: Undergraduate
+  current-role: M.D. Resident, Scripps Clinic
 
-# - name: Joshua Helali
-#   alt-name:
-#     - Joshua S. Helali
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
+- name: Jie Ma
+  role: Alumni
+  former-role: Undergraduate
+  current-role: 
 
-# - name: Jie Ma
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
+- name: Rebecca Tarnopol
+  alt-name:
+    - Rebecca L. Tarnopol
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Ph.D. Student in Plant and Microbial Biology, UC Berkeley
 
+- name: Xiang Ji
+  role: Alumni
+  former-role: Undergraduate
+  current-role: Ph.D. Student in Physics, UC San Diego
+
+- name: Yujie Chen
+  role: Alumni
+  former-role: Undergraduate
+  current-role: 
+
+- name: Alexander Kim
+  alt-name:
+    - Alexander J. Kim
+  role: Alumni
+  former-role: Undergraduate
+  current-role: M.D. - Ph.D. Student, Caltech-UCLA MSTP
+
+- name: Peter Lai
+  alt-name:
+    - Peter Y. Lai
+  role: Alumni
+  former-role: Undergraduate
+  current-role: 
+
+- name: Stella Lee
+  alt-name:
+    - Stella Y. Lee
+  role: Alumni
+  former-role: Undergraduate
+  current-role: 
+
+- name: David Qiao
+  alt-name:
+    - David F. Qiao
+  role: Alumni
+  former-role: Undergraduate
+  current-role: 
+
+- name: Rajan Murgai
+  role: Alumni
+  former-role: Undergraduate
+  current-role: M.D. Resident, Miller School of Medicine, University of Miami
+
+# Is Tran our former student? Leaving commented out until clear
 # - name: Tran Do
 #   alt-name:
 #     - Tran Hue Do
 #   role: Alumni
 #   orcid: 0000-0001-6317-9202
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Rebecca Tarnopol
-#   alt-name:
-#     - Rebecca L. Tarnopol
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Xiang Ji
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Yujie Chen
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Alexander Kim
-#   alt-name:
-#     - Alexander J. Kim
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Peter Lai
-#   alt-name:
-#     - Peter Y. Lai
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Stella Lee
-#   alt-name:
-#     - Stella Y. Lee
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: David Qiao
-#   alt-name:
-#     - David F. Qiao
-#   role: Alumni
-#   former-role: Undergraduate
-#   current-role: 
-
-# - name: Rajan Murgai
-#   role: Alumni
 #   former-role: Undergraduate
 #   current-role: 
