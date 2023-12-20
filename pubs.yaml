@@ -1,7 +1,9 @@
 - doi: 10.1101/2023.04.10.536285
-  title: How individual <i>P. aeruginosa</i> cells with diverse stator distributions
-    collectively form a heterogeneous macroscopic swarming population
-  container: bioRxiv
+  preprint:
+    name: BioRxiv
+    url: http://dx.doi.org/10.1101/2023.04.10.536285
+  title: How <i>P. aeruginosa</i> cells with diverse stator composition collectively swarm
+  container: mBio (Accepted)
   authors:
     - orcid: ""
       name: Jaime de Anda
@@ -28,6 +30,9 @@
       name: Victor F. Medeiros Pereira
       first: false
     - orcid: ""
+      name: William C. Schmidt
+      first: false
+    - orcid: ""
       name: Deborah A. Hogan
       first: false
     - orcid: ""
@@ -40,7 +45,7 @@
       name: Gerard C.L. Wong
       first: false
   URL: http://dx.doi.org/10.1101/2023.04.10.536285
-  published: 2023
+  published: 2024
   checked: true
 
 # apparently this is just an abstract
