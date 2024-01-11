@@ -97,7 +97,7 @@ Sheet](https://docs.google.com/spreadsheets/d/1YSRcqjtj4xT1oEDEDnn_om2EqMzZiKljY
    changes.
 
 4. (Optionally) There are also some additional fields that may be displayed if
-   present in the article metadata. These include `pressrelease`, `commentary`,
+   present in the article metadata. These include `pressrelease`, `preprint`, `commentary`,
    and `cover`. Each of these fields should have a `name` and `url`. For example,
    the following is an example of a publication with a press release and a cover image
 
