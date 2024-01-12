@@ -34,14 +34,8 @@ export default function Publications({ pubs, members, ...props }) {
   )
 }
 
-export const encodeDOI = doi => doi
-  .replaceAll('/', '~')
-  .replaceAll(':', '+')
-  .replaceAll('(', '[')
-  .replaceAll(')', ']')
-
 function Pub({ pub, memberNamesAndOrcids, ...props }) {
-  const { authors, title, container, published: year, URL, doi, pressrelease, preprint, cover, commentary } = pub
+  const { authors, title, container, published: year, URL, pdf, pressrelease, preprint, cover, commentary } = pub
 
   return (
     <li className="space-y-2 relative">
@@ -74,7 +68,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
       </div>
       <div className='space-x-2'>
         <Link href={URL}>Article</Link>
-        <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>
+        {pdf && <Link href={`/pdf/${pdf}`}>PDF</Link>}
         {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
         {preprint && ([preprint]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
         {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Commentary</Link>)}

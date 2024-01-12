@@ -1,9 +1,41 @@
 - doi: 10.1101/2024.01.05.574447
+  title: Comparing multifunctional viral and eukaryotic proteins for generating
+    scission necks in membranes
+  preprint:
+    name: BioRxiv
+    url: https://doi.org/10.1101/2024.01.05.574447
+  container: BioRxiv
+  authors:
+    - orcid: http://orcid.org/0000-0001-6576-2426
+      name: Haleh Alimohamadi
+      first: true
+    - orcid: ""
+      name: Elizabeth Wei-Chia Luo
+      first: false
+    - orcid: ""
+      name: Shivam Gupta
+      first: false
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: false
+    - orcid: http://orcid.org/0009-0009-6182-0276
+      name: Rena Yang
+      first: false
+    - orcid: http://orcid.org/0000-0002-9902-2415
+      name: Taraknath Mandal
+      first: false
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1101/2024.01.05.574447
+  published: 2024
+  checked: true
 - doi: 10.1101/2023.04.10.536285
   preprint:
     name: BioRxiv
     url: http://dx.doi.org/10.1101/2023.04.10.536285
-  title: How <i>P. aeruginosa</i> cells with diverse stator composition collectively swarm
+  title: How <i>P. aeruginosa</i> cells with diverse stator composition
+    collectively swarm
   container: mBio (Accepted)
   authors:
     - orcid: ""
@@ -48,44 +80,6 @@
   URL: http://dx.doi.org/10.1101/2023.04.10.536285
   published: 2024
   checked: true
-
-# apparently this is just an abstract
-# - doi: 10.1017/S1431927622001957
-#   title: Understanding 3D Biomineralization in Human Kidney Stones with
-#     Correlative X-Ray Micro-CT &amp; X-Ray Fluorescence Microscopy
-#   container: Microscopy and Microanalysis
-#   authors:
-#     - orcid: ""
-#       name: Kymora Scotland
-#       first: true
-#     - orcid: ""
-#       name: Gerard Wong
-#       first: false
-#     - orcid: ""
-#       name: Katarzyna Matusik
-#       first: false
-#     - orcid: ""
-#       name: Michael Lun
-#       first: false
-#     - orcid: ""
-#       name: Sheraz Gul
-#       first: false
-#     - orcid: ""
-#       name: Frances Su
-#       first: false
-#     - orcid: ""
-#       name: David Vine
-#       first: false
-#     - orcid: ""
-#       name: Jeff Gelb
-#       first: false
-#     - orcid: ""
-#       name: Wenbing Yun
-#       first: false
-#   URL: http://dx.doi.org/10.1017/s1431927622001957
-#   published: 2022
-#   checked: true
-
 - doi: 10.1016/j.jbc.2022.102620
   title: Structural studies of human fission protein FIS1 reveal a dynamic region
     important for GTPase DRP1 recruitment and mitochondrial fission
@@ -960,8 +954,7 @@
 - doi: 10.1073/pnas.1920469117
   pdf: 10.1073~pnas.1920469117.pdf
   commentary:
-    name: >-
-      Commentary in PNAS, "Linking neurons to immunity: Lessons from Hydra"
+    name: 'Commentary in PNAS, "Linking neurons to immunity: Lessons from Hydra"'
     url: https://doi.org/10.1073/pnas.2011637117
   additional: >
     [Commentary in PNAS, "Linking neurons to immunity: Lessons from
@@ -2006,7 +1999,8 @@
 - doi: 10.1159/000477990
   pdf: 10.1159~000477990.pdf
   commentary:
-    name: Science Highlight, "The rogue protein behind Parkinson's disease may also protect your gut"
+    name: Science Highlight, "The rogue protein behind Parkinson's disease may also
+      protect your gut"
     url: https://www.science.org/content/article/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut
   cover:
     name: Journal of Innate Immunity
@@ -3185,7 +3179,8 @@
   additional: >
     [Read Press
     Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
-    [Chemical & Engineering News](https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html)
+    [Chemical & Engineering
+    News](https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html)
   title: Engineering Persister-Specific Antibiotics with Synergistic Antimicrobial
     Functions
   container: ACS Nano
