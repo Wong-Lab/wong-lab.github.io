@@ -68,7 +68,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
       </div>
       <div className='space-x-2'>
         <Link href={URL}>Article</Link>
-        {pdf && <Link href={`/pdf/${pdf}`}>PDF</Link>}
+        {pdf && ([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${pdf}`}>PDF</Link>)}
         {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
         {preprint && ([preprint]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
         {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Commentary</Link>)}
