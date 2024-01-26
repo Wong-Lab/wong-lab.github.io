@@ -1,5 +1,60 @@
 - doi: 10.1172/JCI172578
-
+  title: Increased LL37 in psoriasis and other inflammatory disorders promotes
+    low-density lipoprotein uptake and atherosclerosis
+  container: Journal of Clinical Investigation
+  shortContainer: null
+  authors:
+    - orcid: ""
+      name: Yoshiyuki Nakamura
+      first: true
+    - orcid: ""
+      name: Nikhil N. Kulkarni
+      first: false
+    - orcid: http://orcid.org/0000-0001-9742-2282
+      name: Toshiya Takahashi
+      first: false
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: false
+    - orcid: http://orcid.org/0000-0003-3678-6781
+      name: Tatsuya Dokoshi
+      first: false
+    - orcid: ""
+      name: Edward L. Liu
+      first: false
+    - orcid: http://orcid.org/0009-0003-9952-8912
+      name: Michael Shia
+      first: false
+    - orcid: http://orcid.org/0009-0004-2285-1030
+      name: Tomofumi Numata
+      first: false
+    - orcid: http://orcid.org/0000-0002-8663-0446
+      name: Elizabeth W.C. Luo
+      first: false
+    - orcid: http://orcid.org/0000-0001-7830-0693
+      name: Adrian F. Gombart
+      first: false
+    - orcid: ""
+      name: Xiaohong Yang
+      first: false
+    - orcid: ""
+      name: Patrick Secrest
+      first: false
+    - orcid: http://orcid.org/0000-0001-7224-4328
+      name: Philip L.S.M. Gordts
+      first: false
+    - orcid: http://orcid.org/0000-0001-9834-9494
+      name: Sotirios Tsimikas
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-1401-7861
+      name: Richard L. Gallo
+      first: false
+  URL: http://dx.doi.org/10.1172/jci172578
+  published: 2024
+  checked: true
 - doi: 10.1101/2024.01.05.574447
   title: Comparing multifunctional viral and eukaryotic proteins for generating
     scission necks in membranes
