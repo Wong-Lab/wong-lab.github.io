@@ -140,6 +140,32 @@
   checked: true
 - doi: 10.1021/jacs.3c08014
   pdf: 10.1021~jacs.3c08014.pdf
+  title: "How Cell-Penetrating Peptides Behave Differently from Pore-Forming
+    Peptides: Structure and Stability of Induced Transmembrane Pores"
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: http://orcid.org/0000-0001-6576-2426
+      name: Haleh Alimohamadi
+      first: true
+    - orcid: http://orcid.org/0000-0003-2129-0775
+      name: Jaime de Anda
+      first: false
+    - orcid: http://orcid.org/0000-0003-1613-9501
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Taraknath Mandal
+      first: false
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+  URL: http://dx.doi.org/10.1021/jacs.3c08014
+  published: 2023
+  checked: true
 - doi: 10.1016/j.jbc.2022.102620
   pdf: 10.1016~j.jbc.2022.102620.pdf
   title: Structural studies of human fission protein FIS1 reveal a dynamic region
