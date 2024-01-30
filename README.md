@@ -1,4 +1,4 @@
-# Wong Lab Website
+![image](https://github.com/Wong-Lab/wong-lab.github.io/assets/22439516/8db7d204-d01c-46f1-a5e6-ff0bdeb0b472)# Wong Lab Website
 
 This project contains the source code for the [Wong Lab
 website](https://wonglab.seas.ucla.edu). The site is built with Next.js and is
@@ -90,19 +90,26 @@ Sheet](https://docs.google.com/spreadsheets/d/1YSRcqjtj4xT1oEDEDnn_om2EqMzZiKljY
 3. Add the corresponding PDF to the `public/pdf` directory. The PDF should be
    named after the DOI as prepared by the Google Sheet from the Step 1 with the
    `.pdf` extension. For example, the PDF for the above DOI would be named
-   `10.1038/s41586-021-03546-8.pdf`.
+   `10.1038~s41586-021-03546-8.pdf`. Then add the pdf name on a new line below DOI.
+   
+   ```yaml
+    - doi: 10.1038/s41586-021-03546-8
+      pdf: 10.1038~s41586-021-03546-8.pdf
+    - doi: 10.1038/s41586-021-03546-8
+   ```
 
    The PDF can be added to the repository via the GitHub web interface or by
    cloning the repository to a local computer, adding the PDF, and pushing the
    changes.
 
-4. (Optionally) There are also some additional fields that may be displayed if
+5. (Optionally) There are also some additional fields that may be displayed if
    present in the article metadata. These include `pressrelease`, `preprint`, `commentary`,
    and `cover`. Each of these fields should have a `name` and `url`. For example,
    the following is an example of a publication with a press release and a cover image
 
    ```yaml
     - doi: 10.1038/s41586-021-03546-8
+      pdf: 10.1038~s41586-021-03546-8.pdf
       pressrelease:
         name: UCLA Newsroom
         url: https://newsroom.ucla.edu/releases/some-press-release
@@ -111,7 +118,7 @@ Sheet](https://docs.google.com/spreadsheets/d/1YSRcqjtj4xT1oEDEDnn_om2EqMzZiKljY
         url: https://www.nature.com/articles/s41586-021-03546-8/figures/1
    ```
 
-5. (Optionally) A separate write-up can be added for each paper. This should be a
+6. (Optionally) A separate write-up can be added for each paper. This should be a
    MDX file located in the `pages/publications/` directory. The name of the
    file will be the url of the write-up. As a convention, the file name should
    be all lowercase with hyphens between words.
