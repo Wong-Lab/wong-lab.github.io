@@ -1,4 +1,5 @@
 - doi: 10.1172/JCI172578
+  pdf: 10.1172~JCI172578.pdf
   title: Increased LL37 in psoriasis and other inflammatory disorders promotes
     low-density lipoprotein uptake and atherosclerosis
   container: Journal of Clinical Investigation
@@ -137,7 +138,10 @@
   URL: http://dx.doi.org/10.1101/2023.04.10.536285
   published: 2024
   checked: true
+- doi: 10.1021/jacs.3c08014
+  pdf: 10.1021~jacs.3c08014.pdf
 - doi: 10.1016/j.jbc.2022.102620
+  pdf: 10.1016~j.jbc.2022.102620.pdf
   title: Structural studies of human fission protein FIS1 reveal a dynamic region
     important for GTPase DRP1 recruitment and mitochondrial fission
   container: Journal of Biological Chemistry
@@ -186,6 +190,7 @@
   published: 2022
   checked: true
 - doi: 10.1371/journal.ppat.1010742
+  pdf: 10.1371~journal.ppat.1010742.pdf
   title: Assembly of ordered DNA-curli fibril complexes during Salmonella biofilm
     formation correlates with strengths of the type I interferon and autoimmune
     responses
@@ -223,6 +228,7 @@
   published: 2022
   checked: true
 - doi: 10.1016/j.sbi.2022.102435
+  pdf: 10.1016~j.sbi.2022.102435.pdf
   title: Amyloid-containing biofilms and autoimmunity
   container: Current Opinion in Structural Biology
   shortContainer: Current Opinion in Structural Biology
@@ -243,6 +249,7 @@
   published: 2022
   checked: true
 - doi: 10.1128/jb.00084-22
+  pdf: 10.1128~jb.00084-22.pdf
   title: "The Power of Touch: Type 4 Pili, the von Willebrand A Domain, and
     Surface Sensing by Pseudomonas aeruginosa"
   container: Journal of Bacteriology
@@ -261,6 +268,7 @@
   published: 2022
   checked: true
 - doi: 10.1002/anie.202108501
+  pdf: 10.1002~anie.202108501.pdf
   title: Histidine‐Mediated Ion Specific Effects Enable Salt Tolerance of a
     Pore‐Forming Marine Antimicrobial Peptide
   container: Angewandte Chemie International Edition
@@ -291,6 +299,7 @@
   published: 2022
   checked: true
 - doi: 10.1128/jb.00528-21
+  pdf: 10.1128~jb.00528-21.pdf
   title: >-
     Nonmotile Subpopulations of
                 <i>Pseudomonas aeruginosa</i>
@@ -326,6 +335,7 @@
   published: 2022
   checked: true
 - doi: 10.1128/mbio.03754-21
+  pdf: 10.1128~mbio.03754-21.pdf
   title: Force-Induced Changes of PilY1 Drive Surface Sensing by Pseudomonas
     aeruginosa
   container: mBio
@@ -365,6 +375,7 @@
   published: 2022
   checked: true
 - doi: 10.1073/pnas.2112226119
+  pdf: 10.1073~pnas.2112226119.pdf
   pressrelease:
     name: UCLA Press Release
     url: https://newsroom.ucla.edu/releases/bacteria-chemical-signals-like-radio-waves
@@ -395,6 +406,7 @@
   published: 2022
   checked: true
 - doi: 10.3389/fcimb.2022.884065
+  pdf: 10.3389~fcimb.2022.884065.pdf
   title: Phenol-Soluble Modulins From Staphylococcus aureus Biofilms Form
     Complexes With DNA to Drive Autoimmunity
   container: Frontiers in Cellular and Infection Microbiology
@@ -425,6 +437,7 @@
   published: 2022
   checked: true
 - doi: 10.1021/acsnano.1c03978
+  pdf: 10.1021~acsnano.1c03978.pdf
   title: Apolipoprotein Mimetic Peptide Inhibits Neutrophil-Driven Inflammatory
     Damage via Membrane Remodeling and Suppression of Cell Lysis
   container: ACS Nano
@@ -467,6 +480,7 @@
   published: 2021
   checked: true
 - doi: 10.1126/science.abf3427
+  pdf: 10.1126~science.abf3427.pdf
   pressrelease:
     name: Chemical & Engineering News
     url: https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html
@@ -532,6 +546,7 @@
   published: 2021
   checked: true
 - doi: 10.1128/mBio.01548-21
+  pdf: 10.1128~mBio.01548-21.pdf
   title: Highly Basic Clusters in the Herpes Simplex Virus 1 Nuclear Egress
     Complex Drive Membrane Budding by Inducing Lipid Ordering
   container: mBio
@@ -562,6 +577,7 @@
   published: 2021
   checked: true
 - doi: 10.1016/j.jbc.2021.100828
+  pdf: 10.1016~j.jbc.2021.100828.pdf
   title: Sequence determinants in the cathelicidin LL-37 that promote inflammation
     via presentation of RNA to scavenger receptors
   container: Journal of Biological Chemistry
