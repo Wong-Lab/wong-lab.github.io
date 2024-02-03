@@ -1,5 +1,8 @@
 - doi: 10.1073/pnas.2300644120
-  pdf: Viral_Afterlife_SARS-CoV-2_Reservoir.pdf
+  pdf: 10.1073~pnas.2300644120.pdf
+  pressrelease:
+    name: UCLA Press Release
+    url: https://newsroom.ucla.edu/releases/viral-protein-fragments-behind-serious-covid-19-outcomes
   title: "Viral afterlife: SARS-CoV-2 as a reservoir of immunomimetic peptides
     that reassemble into proinflammatory supramolecular complexes"
   container: Proceedings of the National Academy of Sciences
