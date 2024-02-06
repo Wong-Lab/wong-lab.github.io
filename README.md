@@ -1,4 +1,4 @@
-![image](https://github.com/Wong-Lab/wong-lab.github.io/assets/22439516/8db7d204-d01c-46f1-a5e6-ff0bdeb0b472)# Wong Lab Website
+# Wong Lab Website
 
 This project contains the source code for the [Wong Lab
 website](https://wonglab.seas.ucla.edu). The site is built with Next.js and is
