@@ -20,13 +20,15 @@ export default function Publications({ pubs, members, ...props }) {
     return entries
   }))
 
+  const numberOfPubs = pubs.length
+
   return (
     <div>
       <Heading.H1 className="font-serif text-5xl pt-14 pb-4">Our Publications</Heading.H1>
       <div className='max-w-prose py-2 sm:ml-10'>
         <ol className='font-sans sm:list-decimal text-sm flex flex-col gap-4 py-2' reversed={true}>
           {pubs.map((pub, i) => (
-            <Pub key={`pub-${i}`} pub={pub} memberNamesAndOrcids={memberNamesAndOrcids} />
+            <Pub key={`pub-${i}`} pub={pub} memberNamesAndOrcids={memberNamesAndOrcids} id={`${numberOfPubs - i}`}/>
           ))}
         </ol>
       </div>
@@ -41,6 +43,7 @@ export const encodeDOI = doi => doi
   .replaceAll(')', ']')
 
 function Pub({ pub, memberNamesAndOrcids, ...props }) {
+  const id = props.id
   const {
     authors, title, container, published: year, URL, pdf, doi,
     pressrelease, preprint, cover, commentary,
@@ -50,9 +53,8 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
   } = pub
 
   return (
-    <li className="space-y-2 relative">
+    <li className="space-y-2 relative marker:font-semibold marker:text-sm marker:font-sans scroll-mt-16" id={id}>
       <h2 className="text-base font-semibold">{parse(title)}</h2>
-      {isChapter && <h3 className="text-base italic">{parse(bookTitle)}</h3>}
       <div>
         {authors.map(({ name, orcid }, i) => {
           let actualOrcid = orcid || (memberNamesAndOrcids.has(name) && memberNamesAndOrcids.get(name) && `http://orcid.org/${memberNamesAndOrcids.get(name)}`) || ''
@@ -77,6 +79,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         })}
       </div>
       <div>
+        {isChapter && <span className="italic">{parse(bookTitle)}, </span>}
         <span className="italic">{parse(isChapter ? publisher : container)}</span>, {year}
       </div>
       <div className='space-x-2'>
