@@ -2788,7 +2788,7 @@
   book: Host Defense Peptides and Their Potential as Therapeutic Agents
   bookURL: https://link.springer.com/book/10.1007/978-3-319-32949-9
   doi: 10.1007/978-3-319-32949-9_10
-  pdf: 10.1007~978-3-319-32949-9_10.pdf
+  # pdf: 10.1007~978-3-319-32949-9_10.pdf
   cover:
     name: Host Defense Peptides and Their Potential as Therapeutic Agents
     url: 978-3-319-32947-5_cover.png
