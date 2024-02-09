@@ -2779,8 +2779,18 @@
   URL: http://dx.doi.org/10.1073/pnas.1603016113
   published: 2016
   checked: true
-- doi: 10.1007/978-3-319-32949-9_10
+- chapter: true
+  isbn: 9783319329475
+  title: "Host Defense Peptides and Their Potential as Therapeutic Agents"
+  URL: http://dx.doi.org/10.1007/978-3-319-32949-9_10
+  publisher: Springer Cham
+  book: Host Defense Peptides and Their Potential as Therapeutic Agents
+  bookURL: https://link.springer.com/book/10.1007/978-3-319-32949-9
+  doi: 10.1007/978-3-319-32949-9_10
   pdf: 10.1007~978-3-319-32949-9_10.pdf
+  cover:
+    name: Host Defense Peptides and Their Potential as Therapeutic Agents
+    url: 978-3-319-32947-5_cover.png
   title: How to Teach Old Antibiotics New Tricks
   container: Host Defense Peptides and Their Potential as Therapeutic Agents
   authors:
@@ -2802,7 +2812,6 @@
     - orcid: ""
       name: Gerard C. L. Wong
       first: false
-  URL: http://dx.doi.org/10.1007/978-3-319-32949-9_10
   published: 2016
   checked: true
 - doi: 10.1016/j.mib.2016.02.004
