@@ -580,6 +580,32 @@
   URL: http://dx.doi.org/10.3389/fcimb.2022.884065
   published: 2022
   checked: true
+
+- chapter: true
+  isbn: 9780429194078
+  title: "Mechanisms of Membrane Curvature Generation by Peptides and Proteins: A
+    Unified Perspective on Antimicrobial Peptides"
+  URL: https://www.taylorfrancis.com/chapters/10.1201/9780429194078-8/mechanisms-membrane-curvature-generation-peptides-proteins-unified-perspective-antimicrobial-peptides-michelle-lee-nathan-schmidt-gerard-wong
+  publisher: CRC Press
+  book: Handbook of Lipid Membranes
+  bookURL: http://dx.doi.org/10.1201/9780429194078
+  doi: 10.1201/9780429194078
+  cover:
+    name: Handbook of Lipid Membranes
+    url: handbook-of-lipid-membranes-cover.jpg
+  authors:
+    - orcid: ""
+      name: Michelle W. Lee
+      first: false
+    - orcid: ""
+      name: Nathan W. Schmidt
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  published: 2021
+  checked: true
+
 - doi: 10.1021/acsnano.1c03978
   pdf: 10.1021~acsnano.1c03978.pdf
   title: Apolipoprotein Mimetic Peptide Inhibits Neutrophil-Driven Inflammatory

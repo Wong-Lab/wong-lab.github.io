@@ -41,11 +41,18 @@ export const encodeDOI = doi => doi
   .replaceAll(')', ']')
 
 function Pub({ pub, memberNamesAndOrcids, ...props }) {
-  const { authors, title, container, published: year, URL, pdf, doi, pressrelease, preprint, cover, commentary } = pub
+  const {
+    authors, title, container, published: year, URL, pdf, doi,
+    pressrelease, preprint, cover, commentary,
+
+    // for book chapters  
+    chapter: isChapter, book: bookTitle, bookURL, publisher
+  } = pub
 
   return (
     <li className="space-y-2 relative">
       <h2 className="text-base font-semibold">{parse(title)}</h2>
+      {isChapter && <h3 className="text-base italic">{parse(bookTitle)}</h3>}
       <div>
         {authors.map(({ name, orcid }, i) => {
           let actualOrcid = orcid || (memberNamesAndOrcids.has(name) && memberNamesAndOrcids.get(name) && `http://orcid.org/${memberNamesAndOrcids.get(name)}`) || ''
@@ -70,10 +77,14 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         })}
       </div>
       <div>
-        <span className="italic">{parse(container)}</span>, {year}
+        <span className="italic">{parse(isChapter ? publisher : container)}</span>, {year}
       </div>
       <div className='space-x-2'>
-        <Link href={URL}>Article</Link>
+        {isChapter
+          ? <Link href={URL}>Chapter</Link>
+          : <Link href={URL}>Article</Link>
+        }
+        {isChapter && bookURL && <Link href={bookURL}>Book</Link>}
         {pdf && (container != 'BioRxiv' && (([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${pdf}`}>PDF</Link>)||([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>)))}
         {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
         {preprint && ([preprint]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
