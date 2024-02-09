@@ -2779,9 +2779,10 @@
   URL: http://dx.doi.org/10.1073/pnas.1603016113
   published: 2016
   checked: true
+
 - chapter: true
   isbn: 9783319329475
-  title: "Host Defense Peptides and Their Potential as Therapeutic Agents"
+  title: How to Teach Old Antibiotics New Tricks
   URL: http://dx.doi.org/10.1007/978-3-319-32949-9_10
   publisher: Springer Cham
   book: Host Defense Peptides and Their Potential as Therapeutic Agents
@@ -2791,8 +2792,7 @@
   cover:
     name: Host Defense Peptides and Their Potential as Therapeutic Agents
     url: 978-3-319-32947-5_cover.png
-  title: How to Teach Old Antibiotics New Tricks
-  container: Host Defense Peptides and Their Potential as Therapeutic Agents
+  # container: Host Defense Peptides and Their Potential as Therapeutic Agents
   authors:
     - orcid: ""
       name: Stephanie Deshayes
@@ -2814,6 +2814,7 @@
       first: false
   published: 2016
   checked: true
+
 - doi: 10.1016/j.mib.2016.02.004
   pdf: 10.1016~j.mib.2016.02.004.pdf
   title: "Sensational biofilms: surface sensing in bacteria"
