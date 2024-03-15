@@ -207,6 +207,7 @@
   published: 2024
   checked: true
 - doi: 10.1128/mbio.03322-23
+  pdf: 10.1128~mbio.03322-23.pdf
   preprint:
     name: BioRxiv
     url: http://dx.doi.org/10.1101/2023.04.10.536285
