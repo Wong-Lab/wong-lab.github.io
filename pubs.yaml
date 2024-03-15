@@ -206,13 +206,13 @@
   URL: http://dx.doi.org/10.1101/2024.01.05.574447
   published: 2024
   checked: true
-- doi: 10.1101/2023.04.10.536285
+- doi: 10.1128/mbio.03322-23
   preprint:
     name: BioRxiv
     url: http://dx.doi.org/10.1101/2023.04.10.536285
   title: How <i>P. aeruginosa</i> cells with diverse stator composition
     collectively swarm
-  container: mBio (Accepted)
+  container: mBio
   authors:
     - orcid: ""
       name: Jaime de Anda
@@ -253,7 +253,7 @@
     - orcid: ""
       name: Gerard C.L. Wong
       first: false
-  URL: http://dx.doi.org/10.1101/2023.04.10.536285
+  URL: https://journals.asm.org/doi/10.1128/mbio.03322-23
   published: 2024
   checked: true
 - doi: 10.1021/jacs.3c08014
