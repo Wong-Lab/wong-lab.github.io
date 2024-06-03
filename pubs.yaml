@@ -1,5 +1,138 @@
 - doi: 10.1021/acsnano.3c10201
   pdf: 10.1021~acsnano.3c10201.pdf
+  title: "Nanocrystal Assemblies: Current Advances and Open Problems"
+  container: ACS Nano
+  shortContainer: ACS Nano
+  authors:
+    - orcid: http://orcid.org/0000-0003-2451-2476
+      name: Carlos L. Bassani
+      first: true
+    - orcid: http://orcid.org/0000-0002-9746-2484
+      name: Greg van Anders
+      first: false
+    - orcid: http://orcid.org/0000-0003-1698-2128
+      name: Uri Banin
+      first: false
+    - orcid: http://orcid.org/0000-0001-6439-8132
+      name: Dmitry Baranov
+      first: false
+    - orcid: http://orcid.org/0000-0002-1968-441X
+      name: Qian Chen
+      first: false
+    - orcid: http://orcid.org/0000-0002-9166-6478
+      name: Marjolein Dijkstra
+      first: false
+    - orcid: http://orcid.org/0000-0001-6384-3644
+      name: Michael S. Dimitriyev
+      first: false
+    - orcid: ""
+      name: Efi Efrati
+      first: false
+    - orcid: http://orcid.org/0000-0002-6315-4993
+      name: Jordi Faraudo
+      first: false
+    - orcid: http://orcid.org/0000-0001-5534-3121
+      name: Oleg Gang
+      first: false
+    - orcid: http://orcid.org/0000-0001-8049-3295
+      name: Nicola Gaston
+      first: false
+    - orcid: http://orcid.org/0000-0002-3149-4002
+      name: Ramin Golestanian
+      first: false
+    - orcid: http://orcid.org/0000-0002-3174-2643
+      name: G. Ivan Guerrero-Garcia
+      first: false
+    - orcid: http://orcid.org/0000-0003-2186-1662
+      name: Michael Gruenwald
+      first: false
+    - orcid: http://orcid.org/0000-0002-2228-6957
+      name: Amir Haji-Akbari
+      first: false
+    - orcid: http://orcid.org/0000-0001-5013-2843
+      name: Maria Ibáñez
+      first: false
+    - orcid: http://orcid.org/0000-0002-6247-3976
+      name: Matthias Karg
+      first: false
+    - orcid: http://orcid.org/0000-0003-2951-1704
+      name: Tobias Kraus
+      first: false
+    - orcid: http://orcid.org/0000-0003-2514-8805
+      name: Byeongdu Lee
+      first: false
+    - orcid: http://orcid.org/0000-0003-4885-6599
+      name: Reid C. Van Lehn
+      first: false
+    - orcid: http://orcid.org/0000-0001-9449-2680
+      name: Robert J. Macfarlane
+      first: false
+    - orcid: http://orcid.org/0000-0002-7960-8224
+      name: Bortolo M. Mognetti
+      first: false
+    - orcid: http://orcid.org/0000-0003-0563-825X
+      name: Arash Nikoubashman
+      first: false
+    - orcid: ""
+      name: Saeed Osat
+      first: false
+    - orcid: http://orcid.org/0000-0002-5140-7500
+      name: Oleg V. Prezhdo
+      first: false
+    - orcid: http://orcid.org/0000-0002-7772-5179
+      name: Grant M. Rotskoff
+      first: false
+    - orcid: http://orcid.org/0000-0002-6866-9400
+      name: Leonor Saiz
+      first: false
+    - orcid: http://orcid.org/0000-0003-1379-7162
+      name: An-Chang Shi
+      first: false
+    - orcid: http://orcid.org/0000-0002-1873-100X
+      name: Sara Skrabalak
+      first: false
+    - orcid: http://orcid.org/0000-0003-3444-1966
+      name: Ivan I. Smalyukh
+      first: false
+    - orcid: ""
+      name: Mario Tagliazucchi
+      first: false
+    - orcid: http://orcid.org/0000-0002-6414-8587
+      name: Dmitri V. Talapin
+      first: false
+    - orcid: http://orcid.org/0000-0003-1291-243X
+      name: Alexei V. Tkachenko
+      first: false
+    - orcid: http://orcid.org/0000-0001-5547-3647
+      name: Sergei Tretiak
+      first: false
+    - orcid: http://orcid.org/0000-0002-0899-9248
+      name: David Vaknin
+      first: false
+    - orcid: http://orcid.org/0000-0001-5459-6960
+      name: Asaph Widmer-Cooper
+      first: false
+    - orcid: http://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0001-6851-2721
+      name: Xingchen Ye
+      first: false
+    - orcid: http://orcid.org/0000-0002-6476-3280
+      name: Shan Zhou
+      first: false
+    - orcid: http://orcid.org/0000-0003-2031-3525
+      name: Eran Rabani
+      first: false
+    - orcid: http://orcid.org/0000-0002-7031-3825
+      name: Michael Engel
+      first: false
+    - orcid: http://orcid.org/0000-0001-7030-9570
+      name: Alex Travesset
+      first: false
+  URL: http://dx.doi.org/10.1021/acsnano.3c10201
+  published: 2024
+  checked: true
 - doi: 10.1073/pnas.2300644120
   pdf: 10.1073~pnas.2300644120.pdf
   pressrelease:
@@ -583,7 +716,6 @@
   URL: http://dx.doi.org/10.3389/fcimb.2022.884065
   published: 2022
   checked: true
-
 - chapter: true
   isbn: 9780429194078
   title: "Mechanisms of Membrane Curvature Generation by Peptides and Proteins: A
@@ -608,7 +740,6 @@
       first: false
   published: 2021
   checked: true
-
 - doi: 10.1021/acsnano.1c03978
   pdf: 10.1021~acsnano.1c03978.pdf
   title: Apolipoprotein Mimetic Peptide Inhibits Neutrophil-Driven Inflammatory
@@ -2782,7 +2913,6 @@
   URL: http://dx.doi.org/10.1073/pnas.1603016113
   published: 2016
   checked: true
-
 - chapter: true
   isbn: 9783319329475
   title: How to Teach Old Antibiotics New Tricks
@@ -2791,11 +2921,9 @@
   book: Host Defense Peptides and Their Potential as Therapeutic Agents
   bookURL: https://link.springer.com/book/10.1007/978-3-319-32949-9
   doi: 10.1007/978-3-319-32949-9_10
-  # pdf: 10.1007~978-3-319-32949-9_10.pdf
   cover:
     name: Host Defense Peptides and Their Potential as Therapeutic Agents
     url: 978-3-319-32947-5_cover.png
-  # container: Host Defense Peptides and Their Potential as Therapeutic Agents
   authors:
     - orcid: ""
       name: Stephanie Deshayes
@@ -2817,7 +2945,6 @@
       first: false
   published: 2016
   checked: true
-
 - doi: 10.1016/j.mib.2016.02.004
   pdf: 10.1016~j.mib.2016.02.004.pdf
   title: "Sensational biofilms: surface sensing in bacteria"
