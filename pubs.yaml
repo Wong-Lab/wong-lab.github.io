@@ -1,5 +1,25 @@
 - doi: 10.1128/jb.00442-23
   pdf: 10.1128~jb.00442-23
+  title: >-
+    A bacterial sense of touch: T4P retraction motor as a means of surface
+    sensing by
+                <i>Pseudomonas aeruginosa</i>
+                PA14
+  container: Journal of Bacteriology
+  shortContainer: J Bacteriol
+  authors:
+    - orcid: ""
+      name: C. J. Geiger
+      first: true
+    - orcid: ""
+      name: G. C. L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0002-2861-4392
+      name: G. A. O'Toole
+      first: false
+  URL: http://dx.doi.org/10.1128/jb.00442-23
+  published: 2024
+  checked: true
 - doi: 10.1021/acsnano.3c10201
   pdf: 10.1021~acsnano.3c10201.pdf
   title: "Nanocrystal Assemblies: Current Advances and Open Problems"
