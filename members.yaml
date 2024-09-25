@@ -52,13 +52,6 @@
   email: calvin.k.lee@ucla.edu
   orcid: 0000-0001-6789-0317
 
-- name: Jaime De Anda
-  alt-names:
-    - Jaime de Anda
-  role: Ph.D. Student
-  email: jaime77@ucla.edu
-  orcid: 0000-0003-2129-0775
-
 - name: William Schmidt
   alt-names:
     - William C. Schmidt
@@ -89,19 +82,27 @@
   orcid: 0009-0009-6182-0276
 
 - name: Julia Zhong
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  current-role: PhD Student at MIT
   email: jjzhong@ucla.edu
 
 - name: Rose Witte
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role: 
   email: rewitte@ucla.edu
 
 - name: Yun Su Choi
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role: 
   email: yunsu0607@ucla.edu
   
 - name: Summer Perry
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role:
   email: summer.perry@ucla.edu
 
 - name: Tracy Xue
@@ -109,19 +110,27 @@
   email: txue25@ucla.edu
 
 - name: Alex Fang
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role:
   email: alexfang06@ucla.edu
 
 - name: Brandon Wong
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role:
   email: brw002@ucla.edu
 
 - name: Sanika Deosthali
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role:
   email: sanikadeosthali@ucla.edu
 
 - name: Winnie Kao
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role:
   email: winniekaw02@ucla.edu
 
 - name: Wenhong Tony Sun
@@ -129,13 +138,15 @@
   email: whsun@ucla.edu
 
 - name: Euan Tseng
-  role: Undergraduate
+  role: Alumni
+  former-role: Undergraduate
+  # current-role:
   email: euantseng@ucla.edu
 
 - name: Reina Squires
   role: Alumni
   former-role: Undergraduate
-  current-role: Life Science Data Intern, Columbia University
+  # current-role: Life Science Data Intern, Columbia University
 
 - name: Angelynn Nguyen
   role: Alumni
@@ -159,6 +170,16 @@
   role: Alumni
   former-role: Undergraduate
   email: andrewjmkang@ucla.edu
+
+- name: Jaime De Anda
+  alt-names:
+    - Jaime de Anda
+  role: Alumni
+  former-role: Ph.D. Student
+  email: jaime77@ucla.edu
+  orcid: 0000-0003-2129-0775
+  current-role: >-
+    Postdoctoral Associate in Medicine, Weill Cornell Medical College
 
 - name: Yue Zhang
   role: Alumni
