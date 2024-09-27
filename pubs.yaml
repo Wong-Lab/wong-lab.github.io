@@ -1,5 +1,31 @@
 - doi: 10.1016/j.cossms.2024.101191
   pdf: 10.1016~j.cossms.2024.101191.pdf
+  title: SARS-CoV-2 viral remnants and implications for inflammation and
+    post-acute infection sequelae
+  container: Current Opinion in Solid State and Materials Science
+  shortContainer: Current Opinion in Solid State and Materials Science
+  authors:
+    - orcid: ""
+      name: Han Fu
+      first: true
+    - orcid: ""
+      name: Liyan Zhai
+      first: false
+    - orcid: ""
+      name: Hongyu Wang
+      first: false
+    - orcid: ""
+      name: Melody M.H. Li
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: http://orcid.org/0000-0001-7822-8716
+      name: Yue Zhang
+      first: false
+  URL: http://dx.doi.org/10.1016/j.cossms.2024.101191
+  published: 2024
+  checked: true
 - doi: 10.1128/jb.00442-23
   pdf: 10.1128~jb.00442-23.pdf
   title: >-
