@@ -185,10 +185,10 @@ export default function Home() {
         <section className='space-y-4'>
           <Heading.H1>Join Us</Heading.H1>
           <p className='text-lg'>
-            We’re excited to welcome enthusiastic sophomore and junior undergraduate students to join us in exploring the wonders of science together! You'll find wonderful opportunities to dive into laboratory and computation-based projects that can enhance your skills in these areas!
+            We&apos;re excited to welcome enthusiastic sophomore and junior undergraduate students to join us in exploring the wonders of science together! You&apos;ll find wonderful opportunities to dive into laboratory and computation-based projects that can enhance your skills in these areas!
           </p>
           <div className='flex justify-center text-xl'>
-            <RegularLink href="mailto:recruitment-aaaaol4q5cmxjgkeho5e5bpabq@ucla.org.slack.com">Let's talk science!</RegularLink>
+            <RegularLink href="mailto:recruitment-aaaaol4q5cmxjgkeho5e5bpabq@ucla.org.slack.com">Let&apos;s talk science!</RegularLink>
           </div>
         </section>
         <section className='space-y-4'>
