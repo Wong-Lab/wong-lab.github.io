@@ -183,15 +183,6 @@ export default function Home() {
           </p>
         </section>
         <section className='space-y-4'>
-          <Heading.H1>Join Us</Heading.H1>
-          <p className='text-lg'>
-            We&apos;re excited to welcome enthusiastic sophomore and junior undergraduate students to join us in exploring the wonders of science together! You&apos;ll find wonderful opportunities to dive into laboratory and computation-based projects that can enhance your skills in these areas!
-          </p>
-          <div className='flex justify-center text-xl'>
-            <RegularLink href="mailto:recruitment-aaaaol4q5cmxjgkeho5e5bpabq@ucla.org.slack.com">Let&apos;s talk science!</RegularLink>
-          </div>
-        </section>
-        <section className='space-y-4'>
           <Heading.H1>Research Areas</Heading.H1>
           <div className='space-y-8 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-8 content-start'>
             <ResearchCard
