@@ -57,7 +57,7 @@ jobs:
           cache: ${{ steps.detect-package-manager.outputs.manager }}
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Restore cache
         uses: actions/cache@v4
@@ -79,8 +79,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages
-          path: ./out
+          path: out
 
       - name: Verify Changed files
         uses: tj-actions/verify-changed-files@v20
