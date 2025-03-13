@@ -69,28 +69,28 @@ jobs:
           name: github-pages
           path: ./out
 
-      # - name: Verify Changed files
-      #   uses: tj-actions/verify-changed-files@v20
-      #   id: verify-changed-files
-      #   with:
-      #     files: pubs.yaml
+      - name: Verify Changed files
+        uses: tj-actions/verify-changed-files@v20
+        id: verify-changed-files
+        with:
+          files: pubs.yaml
 
-      # - name: Commit Updated Pubs
-      #   id: commit-updated-files
-      #   if: steps.verify-changed-files.outputs.files_changed == 'true'
-      #   run: |
-      #     git config --global user.name 'Jonathan Chen'
-      #     git config --global user.email 'jowch@users.noreply.github.com'
-      #     git add pubs.yaml
-      #     git commit -m "Updated publications index"
+      - name: Commit Updated Pubs
+        id: commit-updated-files
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        run: |
+          git config --global user.name 'Jonathan Chen'
+          git config --global user.email 'jowch@users.noreply.github.com'
+          git add pubs.yaml
+          git commit -m "Updated publications index"
 
-      # - name: Push changes
-      #   uses: ad-m/github-push-action@master
-      #   id: push-changes
-      #   if: steps.verify-changed-files.outputs.files_changed == 'true'
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     branch: ${{ github.ref }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        id: push-changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
     
   deploy:
     needs: build
