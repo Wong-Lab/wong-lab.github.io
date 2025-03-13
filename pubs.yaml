@@ -1,5 +1,32 @@
 - doi: 10.3390/uro5010006
   pdf: 10.3390~uro5010006.pdf
+  title: What Causes Calcium Oxalate Kidney Stones to Form? An Update on Recent
+    Advances
+  container: Uro
+  shortContainer: Uro
+  authors:
+    - orcid: ""
+      name: Reyhaneh Nazarian
+      first: true
+    - orcid: ""
+      name: Neil Lin
+      first: false
+    - orcid: ""
+      name: Sapna Thaker
+      first: false
+    - orcid: https://orcid.org/0009-0009-6182-0276
+      name: Rena Yang
+      first: false
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: https://orcid.org/0000-0003-0749-3859
+      name: Kymora B. Scotland
+      first: false
+  URL: https://doi.org/10.3390/uro5010006
+  published: 2025
+  fullPublished: 2025-3-10
+  checked: true
 - doi: 10.1016/j.cossms.2024.101191
   pdf: 10.1016~j.cossms.2024.101191.pdf
   title: SARS-CoV-2 viral remnants and implications for inflammation and
