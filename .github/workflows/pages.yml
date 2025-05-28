@@ -28,6 +28,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
       - uses: pnpm/action-setup@v4
         name: Install pnpm
@@ -76,22 +79,36 @@ jobs:
         with:
           files: pubs.yaml
 
-      - name: Commit Updated Pubs
-        id: commit-updated-files
+      - name: Commit files
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         run: |
-          git config --global user.name 'Jonathan Chen'
-          git config --global user.email 'jowch@users.noreply.github.com'
-          git add pubs.yaml
-          git commit -m "Updated publications index"
-
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Add changes"
+        
       - name: Push changes
         uses: ad-m/github-push-action@master
-        id: push-changes
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      # - name: Commit Updated Pubs
+      #   id: commit-updated-files
+      #   if: steps.verify-changed-files.outputs.files_changed == 'true'
+      #   run: |
+      #     git config --global user.name 'Jonathan Chen'
+      #     git config --global user.email 'jowch@users.noreply.github.com'
+      #     git add pubs.yaml
+      #     git commit -m "Updated publications index"
+
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   id: push-changes
+      #   if: steps.verify-changed-files.outputs.files_changed == 'true'
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
     
   deploy:
     needs: build
