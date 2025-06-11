@@ -62,7 +62,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
           return (
             <span
               key={`${props.key}-author-${i}`}
-              className='inline-block'
+              className='inline-block whitespace-pre'
             >
               <span className={memberNamesAndOrcids.has(name) ? "font-bold" : ""}>{name}</span>
               {actualOrcid && (
