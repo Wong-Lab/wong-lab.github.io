@@ -80,7 +80,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
       </div>
       <div>
         {isChapter && <span className="italic">{parse(bookTitle)}, </span>}
-        <span className="italic">{parse(isChapter ? publisher : container || preprint.name || "")}</span>, {year || preprint['published']}
+        <span className="italic">{parse(isChapter ? publisher : container || preprint.name || "")}</span>, {year || (preprint && preprint['published']) || ""}
       </div>
       <div className='space-x-2'>
         {URL && (isChapter
