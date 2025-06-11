@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 - title: Dynamin-like proteins combine mechano-constriction and membrane 
     remodeling to enable two-step mitochondrial fission via a ‘snap-through’ 
     instability
@@ -42,12 +39,6 @@
       first: false
   published: 2025 (Accepted)
 - title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly 
-=======
-- title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
->>>>>>> ef6052758479299291e6b1bdca86ed90e7788ff3
-=======
-- title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
->>>>>>> ef6052758479299291e6b1bdca86ed90e7788ff3
     Trigger Nucleotide-dependent Membrane Remodeling to Promote Scission
   container: Journal of the American Chemical Society
   shortContainer: J. Am. Chem. Soc.
@@ -132,6 +123,51 @@
       first: false
     - orcid: ""
       name: Robert L. Modlin
+      first: false
+  published: 2025 (Accepted)
+- title: Bacterial reading of exopolysaccharide trails using type IV 
+    pili, and adhesins
+  container: Nature Microbiology
+  shortContainer: Nat. Microbiol.
+  authors:
+    - orcid: ""
+      name: William C. Schmidt
+      first: true
+    - orcid: ""
+      name: Calvin K. Lee
+      first: true
+    - orcid: ""
+      name: Xuhui Zheng
+      first: false
+    - orcid: ""
+      name: Jonathan W. Chen
+      first: false
+    - orcid: ""
+      name: Kirsten L. Fetah
+      first: false
+    - orcid: ""
+      name: James R. Popoli
+      first: false
+    - orcid: ""
+      name: Yun Su Choi
+      first: false
+    - orcid: ""
+      name: Thomas D. Young
+      first: false
+    - orcid: ""
+      name: Paul S. Weiss
+      first: false
+    - orcid: ""
+      name: Andrea M. Kasko
+      first: false
+    - orcid: ""
+      name: George A. O’Toole
+      first: false
+    - orcid: ""
+      name: Matthew R. Parsek
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
       first: false
   published: 2025 (Accepted)
 - title: Kilohertz volumetric imaging of in-vivo dynamics using squeezed 
