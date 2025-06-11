@@ -1,4 +1,53 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+- title: Dynamin-like proteins combine mechano-constriction and membrane 
+    remodeling to enable two-step mitochondrial fission via a ‘snap-through’ 
+    instability
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: true
+    - orcid: ""
+      name: Elizabeth W. C. Luo
+      first: true
+    - orcid: ""
+      name: Xiaoying Liu
+      first: false
+    - orcid: ""
+      name: Wasi Iqbal
+      first: false
+    - orcid: ""
+      name: Rena Yang
+      first: false
+    - orcid: ""
+      name: Shivam Gupta
+      first: false
+    - orcid: ""
+      name: Kelsey Nolden
+      first: false
+    - orcid: ""
+      name: Taraknath Mandal
+      first: false
+    - orcid: ""
+      name: Blake R. Hill
+      first: false
+    - orcid: ""
+      name: Liting Duan
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+  published: 2025 (Accepted)
+- title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly 
+=======
 - title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
+>>>>>>> ef6052758479299291e6b1bdca86ed90e7788ff3
+=======
+- title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
+>>>>>>> ef6052758479299291e6b1bdca86ed90e7788ff3
     Trigger Nucleotide-dependent Membrane Remodeling to Promote Scission
   container: Journal of the American Chemical Society
   shortContainer: J. Am. Chem. Soc.
@@ -25,43 +74,131 @@
       name: Gerard C. L. Wong
       first: false
   published: 2025 (Accepted)
-- doi: 10.3390/uro5010006
-  pdf: 10.3390~uro5010006.pdf
-  title: What Causes Calcium Oxalate Kidney Stones to Form? An Update on Recent
-    Advances
-  container: Uro
-  shortContainer: Uro
+- title: Dynamics of Th1/Th17 Responses and Antimicrobial Pathways in Leprosy
+   Skin Lesions
+  container: Journal of Clinical Investigation
+  shortContainer: J. Clin. Investig.
   authors:
     - orcid: ""
-      name: Reyhaneh Nazarian
+      name: Priscila R. Andrade
       first: true
     - orcid: ""
-      name: Neil Lin
+      name: Feiyang Ma
       first: false
     - orcid: ""
-      name: Sapna Thaker
+      name: Jing Lu
       first: false
-    - orcid: https://orcid.org/0009-0009-6182-0276
-      name: Rena Yang
+    - orcid: ""
+      name: Jaime de Anda
       first: false
-    - orcid: https://orcid.org/0000-0003-0893-6383
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: George Agak
+      first: false
+    - orcid: ""
+      name: Craig J. Dobry
+      first: false
+    - orcid: ""
+      name: Bruno J. de Andrade Silva
+      first: false
+    - orcid: ""
+      name: Rosane M.B. Teles
+      first: false
+    - orcid: ""
+      name: Lilah A. Mansky
+      first: false
+    - orcid: ""
+      name: Jonathan Perrie
+      first: false
+    - orcid: ""
+      name: Dennis Montoya
+      first: false
+    - orcid: ""
+      name: Bryan D. Bryson
+      first: false
+    - orcid: ""
+      name: Johann E. Gudjonsson
+      first: false
+    - orcid: ""
       name: Gerard C. L. Wong
       first: false
-    - orcid: https://orcid.org/0000-0003-0749-3859
-      name: Kymora B. Scotland
+    - orcid: ""
+      name: Euzenir N. Sarno
       first: false
-  URL: https://doi.org/10.3390/uro5010006
-  published: 2025
-  fullPublished: 2025-3-10
-  checked: true
+    - orcid: ""
+      name: Matteo Pellegrini
+      first: false
+    - orcid: ""
+      name: Robert L. Modlin
+      first: false
+  published: 2025 (Accepted)
+- title: Kilohertz volumetric imaging of in-vivo dynamics using squeezed 
+    light field microscopy
+  container: Nature Methods
+  shortContainer: Nat. Methods
+  authors:
+    - orcid: ""
+      name: Zhaoqiang Wang
+      first: true
+    - orcid: ""
+      name: Ruixuan Zhao
+      first: false
+    - orcid: ""
+      name: Daniel A. Wagenaar
+      first: false
+    - orcid: ""
+      name: Diego Espino
+      first: false
+    - orcid: ""
+      name: Liron Sheintuch
+      first: false
+    - orcid: ""
+      name: Ohr Benshlomo
+      first: false
+    - orcid: ""
+      name: Wenjun Kang
+      first: false
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: William C. Schmidt
+      first: false
+    - orcid: ""
+      name: Aryan Pammar
+      first: false
+    - orcid: ""
+      name: Enbo Zhu
+      first: false
+    - orcid: ""
+      name: Jing Wang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Rongguang Liang
+      first: false
+    - orcid: ""
+      name: Peyman Golshani
+      first: false
+    - orcid: ""
+      name: Tzung K. Hsiai
+      first: false
+    - orcid: ""
+      name: Liang Gao
+      first: false
+  published: 2025 (Accepted)
 - doi: 10.1101/2024.07.25.604863
-  title: Chemokines Kill Bacteria by Binding Anionic Phospholipids without
-    Triggering Antimicrobial Resistance
+  title: Chemokines Kill Bacteria without Triggering Antimicrobial Resistance 
+    by Binding Anionic Phospholipids
   preprint:
     name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.07.25.604863v1
-  container: null
-  shortContainer: null
+  container: Science Advances
+  shortContainer: Sci. Adv.
   authors:
     - orcid: https://orcid.org/0000-0002-7756-9831
       name: Sergio M. Pontejo
@@ -103,8 +240,35 @@
       name: Philip M. Murphy
       first: false
   URL: https://doi.org/10.1101/2024.07.25.604863
-  published: 2024
-  fullPublished: 2024-7-25
+  published: 2025 (Accepted)
+- doi: 10.3390/uro5010006
+  pdf: 10.3390~uro5010006.pdf
+  title: What Causes Calcium Oxalate Kidney Stones to Form? An Update on Recent
+    Advances
+  container: Uro
+  shortContainer: Uro
+  authors:
+    - orcid: ""
+      name: Reyhaneh Nazarian
+      first: true
+    - orcid: ""
+      name: Neil Lin
+      first: false
+    - orcid: ""
+      name: Sapna Thaker
+      first: false
+    - orcid: https://orcid.org/0009-0009-6182-0276
+      name: Rena Yang
+      first: false
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: https://orcid.org/0000-0003-0749-3859
+      name: Kymora B. Scotland
+      first: false
+  URL: https://doi.org/10.3390/uro5010006
+  published: 2025
+  fullPublished: 2025-3-10
   checked: true
 - doi: 10.1016/j.cossms.2024.101191
   pdf: 10.1016~j.cossms.2024.101191.pdf
