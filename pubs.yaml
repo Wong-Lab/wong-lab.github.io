@@ -1,8 +1,3 @@
-- doi: 10.1101/2024.07.25.604863
-  title: Chemokines Kill Bacteria by Binding Anionic Phospholipids without Triggering Antimicrobial Resistance
-  preprint:
-    name: BioRxiv
-    url: https://www.biorxiv.org/content/10.1101/2024.07.25.604863v1
 - doi: 10.3390/uro5010006
   pdf: 10.3390~uro5010006.pdf
   title: What Causes Calcium Oxalate Kidney Stones to Form? An Update on Recent
@@ -31,6 +26,58 @@
   URL: https://doi.org/10.3390/uro5010006
   published: 2025
   fullPublished: 2025-3-10
+  checked: true
+- doi: 10.1101/2024.07.25.604863
+  title: Chemokines Kill Bacteria by Binding Anionic Phospholipids without
+    Triggering Antimicrobial Resistance
+  preprint:
+    name: BioRxiv
+    url: https://www.biorxiv.org/content/10.1101/2024.07.25.604863v1
+  container: null
+  shortContainer: null
+  authors:
+    - orcid: https://orcid.org/0000-0002-7756-9831
+      name: Sergio M. Pontejo
+      first: true
+    - orcid: ""
+      name: Sophia Martinez
+      first: false
+    - orcid: ""
+      name: Allison Zhao
+      first: false
+    - orcid: ""
+      name: Kevin Barnes
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: false
+    - orcid: ""
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Acacia F. Dishman
+      first: false
+    - orcid: ""
+      name: Brian F. Volkman
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: David N. Garboczi
+      first: false
+    - orcid: https://orcid.org/0000-0001-5796-6875
+      name: Angela Ballesteros
+      first: false
+    - orcid: ""
+      name: Philip M. Murphy
+      first: false
+  URL: https://doi.org/10.1101/2024.07.25.604863
+  published: 2024
+  fullPublished: 2024-7-25
   checked: true
 - doi: 10.1016/j.cossms.2024.101191
   pdf: 10.1016~j.cossms.2024.101191.pdf
@@ -1236,8 +1283,8 @@
     name: PNAS, "An ancient neuropeptide defends the brain against infection"
     url: https://doi.org/10.1073/pnas.2023990118
   additional: >
-    [Commentary in PNAS, "An ancient neuropeptide defends the brain
-    against infection"](https://doi.org/10.1073/pnas.2023990118)
+    [Commentary in PNAS, "An ancient neuropeptide defends the brain against
+    infection"](https://doi.org/10.1073/pnas.2023990118)
   title: PACAP is a pathogen-inducible resident antimicrobial neuropeptide
     affording rapid and contextual molecular host defense of the brain
   container: Proceedings of the National Academy of Sciences
@@ -2255,9 +2302,8 @@
   pressrelease:
     name: UCLA Press Release
     url: http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla
-  additional: >
-    [Read UCLA Press
-    Release](http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla)
+  additional: |
+    [Read UCLA Press Release](http://newsroom.ucla.edu/releases/bacteria-pass-on-memory-to-descendants-ucla)
   title: Multigenerational memory and adaptive adhesion in early bacterial biofilm
     communities
   container: Proceedings of the National Academy of Sciences
@@ -2396,10 +2442,8 @@
   cover:
     name: ACS Central Science
     url: ACSCS_Cover_11-2017.jpg
-  additional: >
-    [Read UCLA Press
-    Release](http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses)
-    ![ACS Central Science Cover](/img/covers/10.1021~acscentsci.7b00338.jpg)
+  additional: |
+    [Read UCLA Press Release](http://newsroom.ucla.edu/releases/ucla-bioengineers-discover-mechanism-that-regulates-cells-powerhouses) ![ACS Central Science Cover](/img/covers/10.1021~acscentsci.7b00338.jpg)
   title: Molecular Motor Dnm1 Synergistically Induces Membrane Curvature To
     Facilitate Mitochondrial Fission
   container: ACS Central Science
@@ -2526,11 +2570,8 @@
   cover:
     name: Journal of Innate Immunity
     url: 10.1159~000477990.png
-  additional: >
-    Highlighted in
-    [Science](http://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut)
-    <a
-    href="https://www.karger.com/Article/Abstract/481584">![Cover](/img/covers/10.1159~000477990.jpg)</a>
+  additional: |
+    Highlighted in [Science](http://www.sciencemag.org/news/2017/06/rogue-protein-behind-parkinson-s-disease-may-also-protect-your-gut) <a href="https://www.karger.com/Article/Abstract/481584">![Cover](/img/covers/10.1159~000477990.jpg)</a>
   title: A Role for Neuronal Alpha-Synuclein in Gastrointestinal Immunity
   container: Journal of Innate Immunity
   shortContainer: J Innate Immun
@@ -3497,11 +3538,8 @@
   commentary:
     name: Nature News and Views
     url: http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html
-  additional: >
-    [Read Nature News and
-    Views](http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html) [Read
-    Press
-    Release](http://newsroom.ucla.edu/releases/ucla-researchers-discover-molecular-rules-that-govern-autoimmune-disorders)
+  additional: |
+    [Read Nature News and Views](http://www.nature.com/nmat/journal/v14/n7/full/nmat4332.html) [Read Press Release](http://newsroom.ucla.edu/releases/ucla-researchers-discover-molecular-rules-that-govern-autoimmune-disorders)
   title: Liquid-crystalline ordering of antimicrobial peptide-DNA complexes
     controls TLR9 activation
   container: Nature Materials
@@ -3738,11 +3776,8 @@
   pressrelease:
     name: UCLA Press Release
     url: http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance
-  additional: >
-    [Read Press
-    Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance)
-    [Chemical & Engineering
-    News](https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html)
+  additional: |
+    [Read Press Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance) [Chemical & Engineering News](https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html)
   title: Engineering Persister-Specific Antibiotics with Synergistic Antimicrobial
     Functions
   container: ACS Nano
@@ -3883,11 +3918,8 @@
   commentary:
     name: Nature News and Views
     url: http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html
-  additional: >
-    [Read Nature News and
-    Views](http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html)
-    [Read Press
-    Release](http://newsroom.ucla.edu/releases/study-shows-lucky-bacteria-strike-245840)
+  additional: |
+    [Read Nature News and Views](http://www.nature.com/nature/journal/v497/n7449/full/nature12103.html) [Read Press Release](http://newsroom.ucla.edu/releases/study-shows-lucky-bacteria-strike-245840)
   title: Psl trails guide exploration and microcolony formation in Pseudomonas
     aeruginosa biofilms
   container: Nature
