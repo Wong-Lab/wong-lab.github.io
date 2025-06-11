@@ -235,6 +235,7 @@
   preprint:
     name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.07.25.604863v1
+    published: 2024
   container: Science Advances
   shortContainer: Sci. Adv.
   authors:
