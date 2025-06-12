@@ -231,8 +231,8 @@
       first: false
   published: 2025 (Accepted)
 - doi: 10.1126/sciadv.ads2675
-  title: Chemokines Kill Bacteria without Triggering Antimicrobial Resistance by
-    Binding Anionic Phospholipids
+  title: Chemokines kill bacteria without triggering antimicrobial resistance by
+    binding anionic phospholipids
   preprint:
     name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.07.25.604863v1
@@ -243,43 +243,46 @@
     - orcid: https://orcid.org/0000-0002-7756-9831
       name: Sergio M. Pontejo
       first: true
-    - orcid: ""
+    - orcid: https://orcid.org/0009-0008-3078-3487
       name: Sophia Martinez
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0009-0009-0761-9205
       name: Allison Zhao
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0009-0006-7888-7512
       name: Kevin Barnes
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-2129-0775
       name: Jaime de Anda
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-6576-2426
       name: Haleh Alimohamadi
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-5144-2552
       name: Ernest Y. Lee
       first: false
     - orcid: ""
       name: Acacia F. Dishman
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-6681-5179
       name: Brian F. Volkman
       first: false
-    - orcid: ""
-      name: Gerard C.L. Wong
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-2545-854X
       name: David N. Garboczi
       first: false
     - orcid: https://orcid.org/0000-0001-5796-6875
       name: Angela Ballesteros
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-1080-8201
       name: Philip M. Murphy
       first: false
-  published: 2025 (Accepted)
+  published: 2025
+  URL: https://doi.org/10.1126/sciadv.ads2675
+  fullPublished: 2025-6-6
+  checked: true
 - doi: 10.3390/uro5010006
   pdf: 10.3390~uro5010006.pdf
   title: What Causes Calcium Oxalate Kidney Stones to Form? An Update on Recent
