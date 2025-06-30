@@ -67,15 +67,15 @@
   published: 2025 (Accepted)
 - doi: 10.1172/JCI190736
   pdf: 10.1172~JCI190736.pdf
-  title: Dynamics of Th1/Th17 Responses and Antimicrobial Pathways in Leprosy Skin
-    Lesions
+  title: Dynamics of Th1/Th17 responses and antimicrobial pathways in leprosy skin
+    lesions
   container: Journal of Clinical Investigation
-  shortContainer: J. Clin. Investig.
+  shortContainer: null
   authors:
     - orcid: ""
       name: Priscila R. Andrade
       first: true
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-6260-0787
       name: Feiyang Ma
       first: false
     - orcid: ""
@@ -88,7 +88,7 @@
       name: Ernest Y. Lee
       first: false
     - orcid: ""
-      name: George Agak
+      name: George W. Agak
       first: false
     - orcid: ""
       name: Craig J. Dobry
@@ -96,7 +96,7 @@
     - orcid: ""
       name: Bruno J. de Andrade Silva
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-2908-3244
       name: Rosane M.B. Teles
       first: false
     - orcid: ""
@@ -106,27 +106,30 @@
       name: Jonathan Perrie
       first: false
     - orcid: ""
-      name: Dennis Montoya
+      name: Dennis J. Montoya
       first: false
     - orcid: ""
       name: Bryan D. Bryson
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-0080-0812
       name: Johann E. Gudjonsson
       first: false
     - orcid: ""
-      name: Gerard C. L. Wong
+      name: Gerard C.L. Wong
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-0129-2159
       name: Euzenir N. Sarno
       first: false
     - orcid: ""
       name: Matteo Pellegrini
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-4720-031X
       name: Robert L. Modlin
       first: false
-  published: 2025 (Accepted)
+  published: 2025
+  URL: https://doi.org/10.1172/jci190736
+  fullPublished: 2025-6-26
+  checked: true
 - title: Bacterial reading of exopolysaccharide trails using type IV pili, and
     adhesins
   container: Nature Microbiology
