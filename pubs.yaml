@@ -1,70 +1,3 @@
-- title: Dynamin-like proteins combine mechano-constriction and membrane
-    remodeling to enable two-step mitochondrial fission via a ‘snap-through’
-    instability
-  container: Journal of the American Chemical Society
-  shortContainer: J. Am. Chem. Soc.
-  authors:
-    - orcid: ""
-      name: Haleh Alimohamadi
-      first: true
-    - orcid: ""
-      name: Elizabeth W. C. Luo
-      first: true
-    - orcid: ""
-      name: Xiaoying Liu
-      first: false
-    - orcid: ""
-      name: Wasi Iqbal
-      first: false
-    - orcid: ""
-      name: Rena Yang
-      first: false
-    - orcid: ""
-      name: Shivam Gupta
-      first: false
-    - orcid: ""
-      name: Kelsey Nolden
-      first: false
-    - orcid: ""
-      name: Taraknath Mandal
-      first: false
-    - orcid: ""
-      name: Blake R. Hill
-      first: false
-    - orcid: ""
-      name: Liting Duan
-      first: false
-    - orcid: ""
-      name: Gerard C. L. Wong
-      first: false
-  published: 2025 (Accepted)
-- title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
-    Trigger Nucleotide-dependent Membrane Remodeling to Promote Scission
-  container: Journal of the American Chemical Society
-  shortContainer: J. Am. Chem. Soc.
-  authors:
-    - orcid: ""
-      name: Elizabeth W. C. Luo
-      first: true
-    - orcid: ""
-      name: Kelsey Nolden
-      first: true
-    - orcid: ""
-      name: Haleh Alimohamadi
-      first: false
-    - orcid: ""
-      name: Michelle Lee
-      first: false
-    - orcid: ""
-      name: Liting Duan
-      first: false
-    - orcid: ""
-      name: Blake R. Hill
-      first: false
-    - orcid: ""
-      name: Gerard C. L. Wong
-      first: false
-  published: 2025 (Accepted)
 - title: Bacterial reading of exopolysaccharide trails using type IV pili, and
     adhesins
   container: Nature Microbiology
@@ -170,6 +103,75 @@
       name: Liang Gao
       first: false
   published: 2025 (Accepted)
+  - doi: 10.1021/jacs.5c06352
+  pdf: 10.1021~jacs.5c06352.pdf
+  title: Dynamin-like proteins combine mechano-constriction and membrane
+    remodeling to enable two-step mitochondrial fission via a ‘snap-through’
+    instability
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: true
+    - orcid: ""
+      name: Elizabeth W. C. Luo
+      first: true
+    - orcid: ""
+      name: Xiaoying Liu
+      first: false
+    - orcid: ""
+      name: Wasi Iqbal
+      first: false
+    - orcid: ""
+      name: Rena Yang
+      first: false
+    - orcid: ""
+      name: Shivam Gupta
+      first: false
+    - orcid: ""
+      name: Kelsey Nolden
+      first: false
+    - orcid: ""
+      name: Taraknath Mandal
+      first: false
+    - orcid: ""
+      name: Blake R. Hill
+      first: false
+    - orcid: ""
+      name: Liting Duan
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+- doi: 10.1021/jacs.4c15836
+  pdf: 10.1021~jacs.4c15836.pdf
+  title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
+    Trigger Nucleotide-dependent Membrane Remodeling to Promote Scission
+  container: Journal of the American Chemical Society
+  shortContainer: J. Am. Chem. Soc.
+  authors:
+    - orcid: ""
+      name: Elizabeth W. C. Luo
+      first: true
+    - orcid: ""
+      name: Kelsey Nolden
+      first: true
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: false
+    - orcid: ""
+      name: Michelle Lee
+      first: false
+    - orcid: ""
+      name: Liting Duan
+      first: false
+    - orcid: ""
+      name: Blake R. Hill
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
 - doi: 10.1172/JCI190736
   pdf: 10.1172~JCI190736.pdf
   title: Dynamics of Th1/Th17 responses and antimicrobial pathways in leprosy skin
