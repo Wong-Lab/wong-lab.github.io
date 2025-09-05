@@ -107,18 +107,18 @@
   published: 2025 (Accepted)
 - doi: 10.1021/jacs.5c06352
   pdf: 10.1021~jacs.5c06352.pdf
-  title: Dynamin-like proteins combine mechano-constriction and membrane
-    remodeling to enable two-step mitochondrial fission via a ‘snap-through’
-    instability
+  title: Dynamin-like Proteins Combine Mechano-constriction and Membrane
+    Remodeling to Enable Two-Step Mitochondrial Fission via a “Snap-through”
+    Instability
   container: Journal of the American Chemical Society
   shortContainer: J. Am. Chem. Soc.
   authors:
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-6576-2426
       name: Haleh Alimohamadi
       first: true
-    - orcid: ""
-      name: Elizabeth W. C. Luo
-      first: true
+    - orcid: https://orcid.org/0000-0002-8663-0446
+      name: Elizabeth Wei-Chia Luo
+      first: false
     - orcid: ""
       name: Xiaoying Liu
       first: false
@@ -128,52 +128,60 @@
     - orcid: ""
       name: Rena Yang
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0009-0003-7256-434X
       name: Shivam Gupta
       first: false
     - orcid: ""
-      name: Kelsey Nolden
+      name: Kelsey A Nolden
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-9902-2415
       name: Taraknath Mandal
       first: false
     - orcid: ""
-      name: Blake R. Hill
+      name: R. Blake Hill
       first: false
     - orcid: ""
       name: Liting Duan
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-0893-6383
       name: Gerard C. L. Wong
       first: false
+  URL: https://doi.org/10.1021/jacs.5c06352
+  published: 2025
+  fullPublished: 2025-7-8
+  checked: true
 - doi: 10.1021/jacs.4c15836
   pdf: 10.1021~jacs.4c15836.pdf
-  title: Drp1 Proteins Released from Hydrolysis-driven Scaffold Disassembly
-    Trigger Nucleotide-dependent Membrane Remodeling to Promote Scission
+  title: Drp1 Proteins Released from Hydrolysis-Driven Scaffold Disassembly
+    Trigger Nucleotide-Dependent Membrane Remodeling to Promote Scission
   container: Journal of the American Chemical Society
   shortContainer: J. Am. Chem. Soc.
   authors:
-    - orcid: ""
-      name: Elizabeth W. C. Luo
+    - orcid: https://orcid.org/0000-0002-8663-0446
+      name: Elizabeth Wei-Chia Luo
       first: true
     - orcid: ""
-      name: Kelsey Nolden
-      first: true
+      name: Kelsey A Nolden
+      first: false
     - orcid: ""
       name: Haleh Alimohamadi
       first: false
     - orcid: ""
-      name: Michelle Lee
+      name: Michelle W. Lee
       first: false
     - orcid: ""
       name: Liting Duan
       first: false
     - orcid: ""
-      name: Blake R. Hill
+      name: R. Blake Hill
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-0893-6383
       name: Gerard C. L. Wong
       first: false
+  URL: https://doi.org/10.1021/jacs.4c15836
+  published: 2025
+  fullPublished: 2025-7-8
+  checked: true
 - doi: 10.1172/JCI190736
   pdf: 10.1172~JCI190736.pdf
   title: Dynamics of Th1/Th17 responses and antimicrobial pathways in leprosy skin
