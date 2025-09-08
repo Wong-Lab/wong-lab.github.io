@@ -1,5 +1,53 @@
 - doi: 10.1038/s41564-025-02087-4
   pdf: 10.1038~s41564-025-02087-4.pdf
+  title: Pseudomonas aeruginosa senses exopolysaccharide trails using type IV pili
+    and adhesins during biofilm formation
+  container: Nature Microbiology
+  shortContainer: Nat Microbiol
+  authors:
+    - orcid: https://orcid.org/0000-0001-9780-9495
+      name: William C. Schmidt
+      first: true
+    - orcid: https://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Xuhui Zheng
+      first: false
+    - orcid: https://orcid.org/0000-0001-5283-243X
+      name: Jonathan W. Chen
+      first: false
+    - orcid: ""
+      name: Kirsten L. Fetah
+      first: false
+    - orcid: https://orcid.org/0009-0007-9666-9321
+      name: James R. Popoli
+      first: false
+    - orcid: https://orcid.org/0009-0001-9684-4368
+      name: Yun Su Choi
+      first: false
+    - orcid: https://orcid.org/0000-0002-3234-7418
+      name: Thomas D. Young
+      first: false
+    - orcid: https://orcid.org/0000-0001-5527-6248
+      name: Paul S. Weiss
+      first: false
+    - orcid: ""
+      name: Andrea M. Kasko
+      first: false
+    - orcid: https://orcid.org/0000-0002-2861-4392
+      name: George A. O’Toole
+      first: false
+    - orcid: https://orcid.org/0000-0003-2932-7966
+      name: Matthew R. Parsek
+      first: false
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+  URL: https://doi.org/10.1038/s41564-025-02087-4
+  published: 2025
+  fullPublished: 2025-9-5
+  checked: true
 - title: Kilohertz volumetric imaging of in-vivo dynamics using squeezed light
     field microscopy
   preprint:
