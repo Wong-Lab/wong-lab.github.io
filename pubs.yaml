@@ -1,3 +1,9 @@
+- doi: 10.1038/s41592-025-02843-8
+  pdf: 10.1038~s41592-025-02843-8.pdf
+  preprint:
+    name: BioRxiv
+    url: https://www.biorxiv.org/content/10.1101/2024.03.23.586416v2
+  URL: https://rdcu.be/eHMyN
 - doi: 10.1038/s41564-025-02087-4
   pdf: 10.1038~s41564-025-02087-4.pdf
   title: Pseudomonas aeruginosa senses exopolysaccharide trails using type IV pili
@@ -48,66 +54,6 @@
   published: 2025
   fullPublished: 2025-9-5
   checked: true
-- title: Kilohertz volumetric imaging of in-vivo dynamics using squeezed light
-    field microscopy
-  preprint:
-    name: BioRxiv
-    url: https://www.biorxiv.org/content/10.1101/2024.03.23.586416v2
-  container: Nature Methods
-  shortContainer: Nat. Methods
-  authors:
-    - orcid: ""
-      name: Zhaoqiang Wang
-      first: true
-    - orcid: ""
-      name: Ruixuan Zhao
-      first: false
-    - orcid: ""
-      name: Daniel A. Wagenaar
-      first: false
-    - orcid: ""
-      name: Diego Espino
-      first: false
-    - orcid: ""
-      name: Liron Sheintuch
-      first: false
-    - orcid: ""
-      name: Ohr Benshlomo
-      first: false
-    - orcid: ""
-      name: Wenjun Kang
-      first: false
-    - orcid: ""
-      name: Calvin K. Lee
-      first: false
-    - orcid: ""
-      name: William C. Schmidt
-      first: false
-    - orcid: ""
-      name: Aryan Pammar
-      first: false
-    - orcid: ""
-      name: Enbo Zhu
-      first: false
-    - orcid: ""
-      name: Jing Wang
-      first: false
-    - orcid: ""
-      name: Gerard C. L. Wong
-      first: false
-    - orcid: ""
-      name: Rongguang Liang
-      first: false
-    - orcid: ""
-      name: Peyman Golshani
-      first: false
-    - orcid: ""
-      name: Tzung K. Hsiai
-      first: false
-    - orcid: ""
-      name: Liang Gao
-      first: false
-  published: 2025 (Accepted)
 - doi: 10.1021/jacs.5c06352
   pdf: 10.1021~jacs.5c06352.pdf
   title: Dynamin-like Proteins Combine Mechano-constriction and Membrane
