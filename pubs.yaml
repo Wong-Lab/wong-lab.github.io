@@ -3,7 +3,66 @@
   preprint:
     name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.03.23.586416v2
-  URL: https://rdcu.be/eHMyN
+  URL: https://doi.org/10.1038/s41592-025-02843-8
+  title: Kilohertz volumetric imaging of in vivo dynamics using squeezed light
+    field microscopy
+  container: Nature Methods
+  shortContainer: Nat Methods
+  authors:
+    - orcid: https://orcid.org/0000-0002-6507-6167
+      name: Zhaoqiang Wang
+      first: true
+    - orcid: https://orcid.org/0009-0002-2260-203X
+      name: Ruixuan Zhao
+      first: false
+    - orcid: https://orcid.org/0000-0002-6222-761X
+      name: Daniel A. Wagenaar
+      first: false
+    - orcid: ""
+      name: Diego Espino
+      first: false
+    - orcid: https://orcid.org/0000-0003-4245-5786
+      name: Liron Sheintuch
+      first: false
+    - orcid: ""
+      name: Ohr Benshlomo
+      first: false
+    - orcid: https://orcid.org/0000-0003-1486-7249
+      name: Wenjun Kang
+      first: false
+    - orcid: https://orcid.org/0000-0001-8600-8553
+      name: Enbo Zhu
+      first: false
+    - orcid: https://orcid.org/0000-0001-6789-0317
+      name: Calvin K. Lee
+      first: false
+    - orcid: https://orcid.org/0000-0001-9780-9495
+      name: William C. Schmidt
+      first: false
+    - orcid: ""
+      name: Aryan Pammar
+      first: false
+    - orcid: ""
+      name: Jing Wang
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Rongguang Liang
+      first: false
+    - orcid: https://orcid.org/0000-0002-5406-7695
+      name: Peyman Golshani
+      first: false
+    - orcid: https://orcid.org/0000-0003-1734-0792
+      name: Tzung K. Hsiai
+      first: false
+    - orcid: https://orcid.org/0000-0002-4296-5586
+      name: Liang Gao
+      first: false
+  published: 2025
+  fullPublished: 2025-9-23
+  checked: true
 - doi: 10.1038/s41564-025-02087-4
   pdf: 10.1038~s41564-025-02087-4.pdf
   title: Pseudomonas aeruginosa senses exopolysaccharide trails using type IV pili
