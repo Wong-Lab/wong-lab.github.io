@@ -3,7 +3,6 @@
   preprint:
     name: BioRxiv
     url: https://www.biorxiv.org/content/10.1101/2024.03.23.586416v2
-  URL: https://rdcu.be/eHMyN
   title: Kilohertz volumetric imaging of in vivo dynamics using squeezed light
     field microscopy
   container: Nature Methods
@@ -60,6 +59,7 @@
     - orcid: https://orcid.org/0000-0002-4296-5586
       name: Liang Gao
       first: false
+  URL: https://rdcu.be/eHMyN  
   published: 2025
   fullPublished: 2025-9-23
   checked: true
