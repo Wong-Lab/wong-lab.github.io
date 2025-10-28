@@ -65,12 +65,6 @@
   checked: true
 - doi: 10.1038/s41564-025-02087-4
   pdf: 10.1038~s41564-025-02087-4.pdf
-  pressrelease:
-    name: UCLA Press Release
-    url: https://newsroom.ucla.edu/releases/how-bad-bacteria-know-where-to-cluster-and-cause-infection-ucla
-  pressrelease:
-    name: CNSI Press Release
-    url: https://cnsi.ucla.edu/october-28-2025-new-research-uncovers-how-bad-bacteria-know-where-to-cluster-and-cause-infection/
   title: Pseudomonas aeruginosa senses exopolysaccharide trails using type IV pili
     and adhesins during biofilm formation
   container: Nature Microbiology
@@ -118,6 +112,11 @@
   URL: https://rdcu.be/eEl5n
   published: 2025
   fullPublished: 2025-9-5
+  pressrelease:
+    - name: UCLA Press Release
+      url: https://newsroom.ucla.edu/releases/how-bad-bacteria-know-where-to-cluster-and-cause-infection-ucla
+    - name: CNSI Press Release
+      url: https://cnsi.ucla.edu/october-28-2025-new-research-uncovers-how-bad-bacteria-know-where-to-cluster-and-cause-infection/
   checked: true
 - doi: 10.1021/jacs.5c06352
   pdf: 10.1021~jacs.5c06352.pdf

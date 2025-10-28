@@ -89,7 +89,7 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         )}
         {isChapter && bookURL && <Link href={bookURL}>Book</Link>}
         {pdf && (container != 'BioRxiv' && (([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${pdf}`}>PDF</Link>)||([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>)))}
-        {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Press Release</Link>)}
+        {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>{name}</Link>)}
         {preprint && ([preprint]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
         {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Commentary</Link>)}
       </div>
