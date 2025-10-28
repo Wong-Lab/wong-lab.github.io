@@ -42,6 +42,11 @@ export const encodeDOI = doi => doi
   .replaceAll('(', '[')
   .replaceAll(')', ']')
 
+const ensureArray = (value) => {
+  if (!value) return []
+  return Array.isArray(value) ? value : [value]
+}
+
 function Pub({ pub, memberNamesAndOrcids, ...props }) {
   const id = props.id
   const {
@@ -91,10 +96,10 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         {isChapter && bookURL && <Link href={bookURL}>Book</Link>}
         
         {/* Only show PDF if the container is not a preprint server */}
-        {pdf && (container != 'BioRxiv' && (([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${pdf}`}>PDF</Link>)||([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>)))}
-        {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>{name}</Link>)}
-        {preprint && ([preprint]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
-        {commentary && ([commentary]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Commentary</Link>)}
+        {pdf && container != 'BioRxiv' && <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>}
+        {pressrelease && ensureArray(pressrelease).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>{name}</Link>)}
+        {preprint && ensureArray(preprint).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
+        {commentary && ensureArray(commentary).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Commentary</Link>)}
       </div>
       {cover && (
         <Link href={cover.url}>
