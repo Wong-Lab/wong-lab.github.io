@@ -83,11 +83,14 @@ function Pub({ pub, memberNamesAndOrcids, ...props }) {
         <span className="italic">{parse(isChapter ? publisher : container || preprint.name || "")}</span>, {year || (preprint && preprint['published']) || ""}
       </div>
       <div className='space-x-2'>
+        {/* Only show Article or Chapter if there is a URL entry */}
         {URL && (isChapter
           ? <Link href={URL}>Chapter</Link>
           : <Link href={URL}>Article</Link>
         )}
         {isChapter && bookURL && <Link href={bookURL}>Book</Link>}
+        
+        {/* Only show PDF if the container is not a preprint server */}
         {pdf && (container != 'BioRxiv' && (([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${pdf}`}>PDF</Link>)||([pdf]).flatMap(({ url, name }) => <Link href={`/pdf/${encodeDOI(doi)}.pdf`}>PDF</Link>)))}
         {pressrelease && ([pressrelease]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>{name}</Link>)}
         {preprint && ([preprint]).flatMap(({ url, name }) => <Link href={url} title={name} key={`pub-pr-${name}`}>Preprint</Link>)}
