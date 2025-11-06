@@ -1203,9 +1203,6 @@
   fullPublished: 2021-9-29
 - doi: 10.1126/science.abf3427
   pdf: 10.1126~science.abf3427.pdf
-  pressrelease:
-    name: Chemical & Engineering News
-    url: https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html
   title: |-
     Silver nanoparticles boost charge-extraction efficiency in
                 <i>Shewanella</i>
@@ -4038,8 +4035,10 @@
 - doi: 10.1021/nn502201a
   pdf: 10.1021~nn502201a.pdf
   pressrelease:
-    name: UCLA Press Release
-    url: http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance
+    - name: UCLA Press Release
+      url:  http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance
+    - name: Chemical & Engineering News
+      url: https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html
   additional: |
     [Read Press Release](http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance) [Chemical & Engineering News](https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html)
   title: Engineering Persister-Specific Antibiotics with Synergistic Antimicrobial
