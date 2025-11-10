@@ -1,3 +1,112 @@
+- title: SARS-CoV-2 peptide fragments selectively dysregulate specific immune cell populations via Gaussian curvature targeting
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: ""
+      name: Yue Zhang
+      first: true
+      corresponding: true
+    - orcid: ""
+      name: Carlos Silvestre-Roig
+      first: true
+    - orcid: ""
+      name: Han Fu
+      first: true
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: true
+    - orcid: ""
+      name: Taraknath Mandal
+      first: false
+    - orcid: ""
+      name: Jonathan W. Chen
+      first: false
+    - orcid: ""
+      name: Jaime de Anda
+      first: false
+    - orcid: ""
+      name: Anna Lívia Linard Matos
+      first: false
+    - orcid: ""
+      name: Mathis Richter
+      first: false
+    - orcid: ""
+      name: Anna Mennella
+      first: false
+    - orcid: ""
+      name: HongKyu Lee
+      first: false
+    - orcid: ""
+      name: Liana C. Chan
+      first: false
+    - orcid: ""
+      name: Yingrui Wang
+      first: false
+    - orcid: ""
+      name: Naixin Wang
+      first: false
+    - orcid: ""
+      name: Hongyu Wang
+      first: false
+    - orcid: ""
+      name: Xiaohan Wang
+      first: false
+    - orcid: ""
+      name: Calvin K. Lee
+      first: false
+    - orcid: ""
+      name: Susmita Ghosh
+      first: false
+    - orcid: ""
+      name: Tsutomu Matsui
+      first: false
+    - orcid: ""
+      name: Thomas M. Weiss
+      first: false
+    - orcid: ""
+      name: Tiannan Guo
+      first: false
+    - orcid: ""
+      name: Maomao Zhang
+      first: false
+    - orcid: ""
+      name: Dapeng Li
+      first: false
+    - orcid: ""
+      name: Matthew C. Wolfgang
+      first: false
+    - orcid: ""
+      name: Robert S. Hagan
+      first: false
+    - orcid: ""
+      name: Melody M. H. Li
+      first: false
+    - orcid: ""
+      name: Matthias Gunzer
+      first: false
+    - orcid: ""
+      name: Albert Sickmann
+      first: false
+    - orcid: ""
+      name: Loredana Frasca
+      first: false
+    - orcid: ""
+      name: Michael R. Yeaman
+      first: false
+    - orcid: ""
+      name: Roberto Lande
+      first: false
+    - orcid: ""
+      name: Qiang Cui
+      first: false
+    - orcid: ""
+      name: Oliver Soehnlein
+      first: false
+    - name: Gerard C. L. Wong
+      first: false
+      corresponding: true
+  published: 2025 (Accepted)
+
 - doi: 10.1038/s41592-025-02843-8
   pdf: 10.1038~s41592-025-02843-8.pdf
   preprint:
