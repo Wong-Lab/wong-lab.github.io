@@ -39,11 +39,6 @@
   email: wxian@ucla.edu
   orcid: 0000-0001-5074-0304
   
-- name: Haleh Alimohamadi
-  role: Post-doc
-  email: halimohamadi@ucla.edu
-  orcid: 0000-0001-6576-2426
-  
 - name: Calvin Lee
   alt-names:
     - Calvin K. Lee
@@ -81,6 +76,53 @@
   email: yangrena@ucla.edu
   orcid: 0009-0009-6182-0276
 
+# Undergrads
+
+- name: Elyssa Castrejon
+  role: Undergraduate
+
+- name: Jasmine Crozier
+  role: Undergraduate
+
+- name: Morgan Deaver
+  role: Undergraduate
+
+- name: Enoch Lee
+  role: Undergraduate
+
+- name: Gargi Patel
+  role: Undergraduate
+
+- name: Yuta Kiami
+  role: Undergraduate
+
+- name: Anthony Kim
+  role: Undergraduate
+
+- name: Catherine Mackenzie
+  role: Undergraduate
+
+- name: Michael Makhoul
+  role: Undergraduate
+
+- name: Jaden Silver
+  role: Undergraduate
+
+- name: Bing Wi
+  role: Undergraduate
+
+- name: Winnie Wong
+  role: Undergraduate
+
+
+# alumni
+
+- name: Haleh Alimohamadi
+  former-role: Post-doc
+  current-role: Assistant Professor, University of California, Irvine
+  email: h.alimohamadi@uci.edu
+  orcid: 0000-0001-6576-2426
+
 - name: Julia Zhong
   role: Alumni
   former-role: Undergraduate
@@ -107,7 +149,7 @@
   email: summer.perry@ucla.edu
 
 - name: Tracy Xue
-  role: Undergraduate
+  former-role: Undergraduate
   email: txue25@ucla.edu
 
 - name: Alex Fang
@@ -135,16 +177,12 @@
   email: winniekaw02@ucla.edu
 
 - name: Wenhong Tony Sun
-  role: Undergraduate
+  former-role: Undergraduate
   email: whsun@ucla.edu
 
 - name: Sylvia Deng
-  role: Undergraduate
+  former-role: Undergraduate
   email: sylviadeng319@g.ucla.edu
-
-- name: Bing Wi
-  role: Undergraduate
-  email: bingwi@g.ucla.edu
 
 - name: Euan Tseng
   role: Alumni
