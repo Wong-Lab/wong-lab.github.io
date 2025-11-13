@@ -274,6 +274,11 @@
   URL: https://doi.org/10.1021/jacs.5c06352
   published: 2025
   fullPublished: 2025-7-8
+  pressrelease:
+    - name: UCLA Press Release
+      url: https://newsroom.ucla.edu/stories/mitochondria-how-cell-powerhouse-splits-reproduce-ucla-research
+    - name: CNSI Press Release
+      url: https://cnsi.ucla.edu/september-25-2025-mitochondrial-secrets-revealed-ucla-led-team-discovers-physics-of-how-cells-powerhouse-splits-to-reproduce/
   checked: true
 - doi: 10.1021/jacs.4c15836
   pdf: 10.1021~jacs.4c15836.pdf
@@ -306,6 +311,11 @@
   URL: https://doi.org/10.1021/jacs.4c15836
   published: 2025
   fullPublished: 2025-7-8
+  pressrelease:
+    - name: UCLA Press Release
+      url: https://newsroom.ucla.edu/stories/mitochondria-how-cell-powerhouse-splits-reproduce-ucla-research
+    - name: CNSI Press Release
+      url: https://cnsi.ucla.edu/september-25-2025-mitochondrial-secrets-revealed-ucla-led-team-discovers-physics-of-how-cells-powerhouse-splits-to-reproduce/
   checked: true
 - doi: 10.1172/JCI190736
   pdf: 10.1172~JCI190736.pdf
