@@ -1,4 +1,5 @@
-- title: SARS-CoV-2 peptide fragments selectively dysregulate specific immune cell populations via Gaussian curvature targeting
+- title: SARS-CoV-2 peptide fragments selectively dysregulate specific immune cell
+    populations via Gaussian curvature targeting
   container: Proceedings of the National Academy of Sciences
   shortContainer: Proc. Natl. Acad. Sci. U.S.A.
   authors:
@@ -109,10 +110,79 @@
       first: false
       corresponding: true
   published: 2025 (Accepted)
-
 - doi: 10.1016/j.cell.2025.10.037
   pdf: 10.1016~j.cell.2025.10.037.pdf
-
+  title: Inhibition of oligomeric BAX by an anti-apoptotic dimer
+  container: Cell
+  shortContainer: Cell
+  authors:
+    - orcid: ""
+      name: Catherine E. Newman
+      first: true
+    - orcid: ""
+      name: Micah A. Gygi
+      first: false
+    - orcid: ""
+      name: Haleh Alimohamadi
+      first: false
+    - orcid: ""
+      name: Thomas M. DeAngelo
+      first: false
+    - orcid: ""
+      name: Christina M. Camara
+      first: false
+    - orcid: ""
+      name: Julian Mintseris
+      first: false
+    - orcid: ""
+      name: Ezra Yu
+      first: false
+    - orcid: ""
+      name: Edward P. Harvey
+      first: false
+    - orcid: ""
+      name: Zachary J. Hauseman
+      first: false
+    - orcid: ""
+      name: Lixin Fan
+      first: false
+    - orcid: ""
+      name: Yun-Xing Wang
+      first: false
+    - orcid: ""
+      name: Elizabeth W.-C. Luo
+      first: false
+    - orcid: ""
+      name: Marina Godes
+      first: false
+    - orcid: ""
+      name: Jacob Gehtman
+      first: false
+    - orcid: ""
+      name: Ann M. Cathcart
+      first: false
+    - orcid: ""
+      name: Steven P. Gygi
+      first: false
+    - orcid: ""
+      name: John R. Engen
+      first: false
+    - orcid: ""
+      name: Gregory H. Bird
+      first: false
+    - orcid: ""
+      name: Gerard C.L. Wong
+      first: false
+    - orcid: ""
+      name: Thomas E. Wales
+      first: false
+    - orcid: https://orcid.org/0000-0002-0869-2334
+      name: Loren D. Walensky
+      first: false
+  URL: https://doi.org/10.1016/j.cell.2025.10.037
+  published: 2025
+  fullPublished: 2025-11
+  checked: true
 - doi: 10.1038/s41592-025-02843-8
   pdf: 10.1038~s41592-025-02843-8.pdf
   preprint:
@@ -174,7 +244,7 @@
     - orcid: https://orcid.org/0000-0002-4296-5586
       name: Liang Gao
       first: false
-  URL: https://rdcu.be/eHMyN  
+  URL: https://rdcu.be/eHMyN
   published: 2025
   fullPublished: 2025-9-23
   checked: true
@@ -4161,7 +4231,7 @@
   pdf: 10.1021~nn502201a.pdf
   pressrelease:
     - name: UCLA Press Release
-      url:  http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance
+      url: http://newsroom.ucla.edu/releases/ucla-scientists-engineer-antibiotics-to-catch-up-in-race-against-drug-resistance
     - name: Chemical & Engineering News
       url: https://cen.acs.org/articles/92/web/2014/08/Peptide-Drug-Conjugate-Kills-Persistent.html
   additional: |
