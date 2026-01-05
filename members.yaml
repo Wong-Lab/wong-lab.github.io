@@ -47,14 +47,6 @@
   email: calvin.k.lee@ucla.edu
   orcid: 0000-0001-6789-0317
 
-- name: William Schmidt
-  alt-names:
-    - William C. Schmidt
-    - William C Schmidt
-  role: Ph.D. Student
-  email: WSchmidt96@ucla.edu
-  orcid: 0000-0001-9780-9495
-
 - name: Wei-Chia Luo
   alt-names:
     - Elizabeth W.C. Luo
@@ -117,6 +109,16 @@
 
 
 # alumni
+
+- name: William Schmidt
+  alt-names:
+    - William C. Schmidt
+    - William C Schmidt
+  former-role: Ph.D. Student
+  current-role: >-
+    Postdoctoral Associate, Institute for Medical Engineering & Science, MIT
+  email: WSchmidt96@ucla.edu
+  orcid: 0000-0001-9780-9495
 
 - name: Haleh Alimohamadi
   role: Alumni
