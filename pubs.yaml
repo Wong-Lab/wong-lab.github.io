@@ -62,32 +62,31 @@
   container: Proceedings of the National Academy of Sciences
   shortContainer: Proc. Natl. Acad. Sci. U.S.A.
   authors:
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-7822-8716
       name: Yue Zhang
       first: true
-      corresponding: true
     - orcid: ""
       name: Carlos Silvestre-Roig
-      first: true
+      first: false
     - orcid: ""
       name: Han Fu
-      first: true
+      first: false
     - orcid: ""
       name: Haleh Alimohamadi
-      first: true
+      first: false
     - orcid: ""
       name: Taraknath Mandal
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-5283-243X
       name: Jonathan W. Chen
       first: false
     - orcid: ""
       name: Elizabeth Wei-Chia Luo
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-2129-0775
       name: Jaime de Anda
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-7174-3504
       name: Anna Lívia Linard Matos
       first: false
     - orcid: ""
@@ -99,10 +98,10 @@
     - orcid: ""
       name: HongKyu Lee
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-2567-4418
       name: Liana C. Chan
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-5532-3454
       name: Yingrui Wang
       first: false
     - orcid: ""
@@ -114,7 +113,7 @@
     - orcid: ""
       name: Xiaohan Wang
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-6789-0317
       name: Calvin K. Lee
       first: false
     - orcid: ""
@@ -126,7 +125,7 @@
     - orcid: ""
       name: Thomas M. Weiss
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-3869-7651
       name: Tiannan Guo
       first: false
     - orcid: ""
@@ -135,7 +134,7 @@
     - orcid: ""
       name: Dapeng Li
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0003-4534-6470
       name: Matthew C. Wolfgang
       first: false
     - orcid: ""
@@ -153,22 +152,25 @@
     - orcid: ""
       name: Loredana Frasca
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0002-9468-5252
       name: Michael R. Yeaman
       first: false
     - orcid: ""
       name: Roberto Lande
       first: false
-    - orcid: ""
+    - orcid: https://orcid.org/0000-0001-6214-5211
       name: Qiang Cui
       first: false
     - orcid: ""
       name: Oliver Soehnlein
       first: false
-    - name: Gerard C. L. Wong
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
       first: false
-      corresponding: true
-  published: 2025
+  published: 2026
+  URL: https://doi.org/10.1073/pnas.2521841122
+  fullPublished: 2026-1-8
+  checked: true
 - doi: 10.1016/j.cell.2025.10.037
   pdf: 10.1016~j.cell.2025.10.037.pdf
   title: Inhibition of oligomeric BAX by an anti-apoptotic dimer
