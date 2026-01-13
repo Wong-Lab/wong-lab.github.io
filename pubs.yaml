@@ -65,15 +65,19 @@
     - orcid: https://orcid.org/0000-0001-7822-8716
       name: Yue Zhang
       first: true
+      corresponding: true
     - orcid: ""
       name: Carlos Silvestre-Roig
       first: false
+      equal: true
     - orcid: ""
       name: Han Fu
       first: false
+      equal: true
     - orcid: ""
       name: Haleh Alimohamadi
       first: false
+      equal: true
     - orcid: ""
       name: Taraknath Mandal
       first: false
@@ -167,6 +171,7 @@
     - orcid: https://orcid.org/0000-0003-0893-6383
       name: Gerard C. L. Wong
       first: false
+      corresponding: true
   published: 2026
   URL: https://doi.org/10.1073/pnas.2521841122
   fullPublished: 2026-1-8
