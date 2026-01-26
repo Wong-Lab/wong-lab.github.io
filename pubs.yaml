@@ -1,4 +1,6 @@
-- title: Intercalated Bacterial Biofilms are Intrinsic Internal Components of
+- doi: 10.1073/pnas.2517066123
+  pdf: 10.1073~pnas.2517066123.pdf
+  title: Intercalated Bacterial Biofilms are Intrinsic Internal Components of
     Calcium-Based Kidney Stones
   container: Proceedings of the National Academy of Sciences
   shortContainer: Proc. Natl. Acad. Sci. U.S.A.
@@ -54,7 +56,7 @@
     - orcid: ""
       name: Kymora B. Scotland
       corresponding: true
-  published: 2025 (Accepted)
+  published: 2026
 - doi: 10.1073/pnas.2521841122
   pdf: 10.1073~pnas.2521841122.pdf
   title: SARS-CoV-2 peptide fragments selectively dysregulate specific immune cell
