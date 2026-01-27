@@ -1,5 +1,65 @@
 - doi: 10.1073/pnas.2517066123
   pdf: 10.1073~pnas.2517066123.pdf
+  title: Intercalated bacterial biofilms are intrinsic internal components of
+    calcium-based kidney stones
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: https://orcid.org/0000-0001-9780-9495
+      name: William C. Schmidt
+      first: true
+    - orcid: ""
+      name: Ava Mousavi
+      first: false
+    - orcid: ""
+      name: Jiahui Li
+      first: false
+    - orcid: https://orcid.org/0009-0009-6182-0276
+      name: Rena Yang
+      first: false
+    - orcid: ""
+      name: Gerson Gonzalez Marin
+      first: false
+    - orcid: ""
+      name: Henry L. Schreiber
+      first: false
+    - orcid: ""
+      name: Rachael E. S. Hammann
+      first: false
+    - orcid: ""
+      name: Chloe L. P. Obernuefemann
+      first: false
+    - orcid: ""
+      name: Karla Bergeron
+      first: false
+    - orcid: ""
+      name: Aleksandra Klim
+      first: false
+    - orcid: https://orcid.org/0000-0002-6627-9409
+      name: Daniel Wong
+      first: false
+    - orcid: https://orcid.org/0000-0003-0464-3452
+      name: Kefu Du
+      first: false
+    - orcid: https://orcid.org/0000-0001-8785-564X
+      name: Scott J. Hultgren
+      first: false
+    - orcid: https://orcid.org/0000-0002-1968-441X
+      name: Qian Chen
+      first: false
+    - orcid: https://orcid.org/0000-0003-0775-6380
+      name: Aaron Celestian
+      first: false
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: https://orcid.org/0000-0003-0749-3859
+      name: Kymora B. Scotland
+      first: false
+  URL: https://doi.org/10.1073/pnas.2517066123
+  published: 2026
+  fullPublished: 2026-1-26
+  checked: true
 - doi: 10.1073/pnas.2521841122
   pdf: 10.1073~pnas.2521841122.pdf
   title: SARS-CoV-2 peptide fragments selectively dysregulate specific immune cell
