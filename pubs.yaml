@@ -179,6 +179,9 @@
       corresponding: true
   published: 2026
   URL: https://doi.org/10.1073/pnas.2521841122
+  pressrelease:
+    - name: UCLA Press Release
+      url: https://newsroom.ucla.edu/releases/covid-19-viral-fragments-target-kill-specific-immune-cells
   fullPublished: 2026-1-8
   checked: true
 - doi: 10.1016/j.cell.2025.10.037
