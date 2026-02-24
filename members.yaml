@@ -47,16 +47,6 @@
   email: calvin.k.lee@ucla.edu
   orcid: 0000-0001-6789-0317
 
-- name: Wei-Chia Luo
-  alt-names:
-    - Elizabeth W.C. Luo
-    - Elizabeth Wei-Chia Luo
-    - Elizabeth W. C. Luo
-    - Elizabeth W.-C. Luo
-  role: Ph.D. Student
-  email: elizabethwcluo@ucla.edu
-  orcid: 0000-0002-8663-0446
-
 - name: Jonathan Chen
   alt-names:
     - Jonathan W. Chen
@@ -98,7 +88,13 @@
 - name: Michael Makhoul
   role: Undergraduate
 
+- name: Trisha Manalar
+  role: Undergraduate
+
 - name: Jaden Silver
+  role: Undergraduate
+
+- name: Fiona Song
   role: Undergraduate
 
 - name: Bing Wi
@@ -109,6 +105,19 @@
 
 
 # alumni
+
+- name: Wei-Chia Luo
+  alt-names:
+    - Elizabeth W.C. Luo
+    - Elizabeth Wei-Chia Luo
+    - Elizabeth W. C. Luo
+    - Elizabeth W.-C. Luo
+  role: Alumni
+  former-role: Ph.D. Student
+  current-role: >-
+    Postdoctoral Scholar, Department of Cellular and Molecular Medicine, University of California, San Diego
+  email: elizabethwcluo@ucla.edu
+  orcid: 0000-0002-8663-0446
 
 - name: William Schmidt
   alt-names:
