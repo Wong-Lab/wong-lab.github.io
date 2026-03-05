@@ -52,7 +52,7 @@ export default function Members({ members, ...props }) {
       <Gerard key={`member-${gerard.name}`} member={gerard} />
       {groupRoleOrder.map((group, i) => (
         <Section title={group} key={`members-group-${group}`} showTop={false}>
-          <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 py-2'>
+          <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4 py-2'>
             {groupedCurrentMembers[group].map((m, i) => {
               if (group === 'Alumni')
                 return <Alumni key={`member-${m.name}`} member={m} />
@@ -119,7 +119,7 @@ function Gerard({ member }) {
 };
 
 function Member({ member, includeName = true }) {
-  let { name, role, email, orcid } = member
+  let { name, role, email, orcid, major } = member
 
   return (
     <div className=''>
@@ -137,14 +137,15 @@ function Member({ member, includeName = true }) {
         </p>
       }
       <div>
-        <p>{role}</p>
-        <p>
+        <p>{role && (role !== 'Undergraduate') && role}</p>
+        {major && <p className="italic">{major}</p>}
+        {email && <p>
           <Link href={`mailto:${email}`}>
             <span className='underline'>
               {email}
             </span>
           </Link>
-        </p>
+        </p>}
       </div>
     </div>
   )
@@ -171,13 +172,13 @@ function Alumni({ member }) {
       <div>
         <p>{former}</p>
         <p>{current}</p>
-        <p>
+        {email && <p>
           <Link href={`mailto:${email}`}>
             <span className='underline'>
               {email}
             </span>
           </Link>
-        </p>
+        </p>}
       </div>
     </div>
   )

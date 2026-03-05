@@ -72,36 +72,59 @@
 
 - name: Enoch Lee
   role: Undergraduate
+  major: Bioengineering
 
 - name: Gargi Patel
   role: Undergraduate
+  major: Molecular, Cell, and Developmental Biology
 
 - name: Yuta Kiami
   role: Undergraduate
+  major: Bioengineering and Physics
 
 - name: Anthony Kim
   role: Undergraduate
+  major: Psychobiology
 
 - name: Catherine Mackenzie
   role: Undergraduate
+  major: Biochemistry
 
 - name: Michael Makhoul
   role: Undergraduate
+  major: Bioengineering
 
 - name: Trisha Manalar
   role: Undergraduate
+  major: Chemistry
+
+- name: Mark Padilla
+  role: Undergraduate
+  major: Biochemistry
+
+- name: Sahana Rao
+  role: Undergraduate
+  major: Bioengineering
 
 - name: Jaden Silver
   role: Undergraduate
+  major: Bioengineering
 
 - name: Fiona Song
   role: Undergraduate
+  major: Biochemistry and Psychology
 
 - name: Bing Wi
   role: Undergraduate
+  major: Bioengineering
+
+- name: Kaiden Wong
+  role: Undergraduate
+  major: Molecular, Cell, and Developmental Biology
 
 - name: Winnie Wong
   role: Undergraduate
+  major: Bioengineering
 
 
 # alumni
