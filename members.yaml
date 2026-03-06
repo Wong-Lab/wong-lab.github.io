@@ -67,6 +67,7 @@
 
 - name: Jasmine Crozier
   role: Undergraduate
+  major: Human Biology and Society
 
 - name: Morgan Deaver
   role: Undergraduate
@@ -75,6 +76,7 @@
 - name: Enoch Lee
   role: Undergraduate
   major: Bioengineering
+  orcid: 0009-0003-5038-8912
 
 - name: Gargi Patel
   role: Undergraduate
