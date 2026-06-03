@@ -20,7 +20,7 @@ const groupRoleOrder = [
 const roleGroups = {
   'Post-doc': 'Post-docs and Staff Scientists',
   'Staff Scientist': 'Post-docs and Staff Scientists',
-  'Project Scientist Scientist': 'Post-docs and Staff Scientists',
+  'Project Scientist': 'Post-docs and Staff Scientists',
   'Ph.D. Student': 'Ph.D. Students',
   'Undergraduate': 'Undergraduates',
 }
