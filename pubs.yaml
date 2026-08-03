@@ -1,5 +1,77 @@
 - doi: 10.1038/s42003-026-10176-1
+  title: Tetrameric assembly disruption impairs CXCL4 chaperon ability for DNA and
+    type I interferon immune amplification
+  container: Communications Biology
+  shortContainer: Commun Biol
+  authors:
+    - orcid: https://orcid.org/0009-0005-4711-4122
+      name: Giuseppe Ocone
+      first: true
+    - orcid: ""
+      name: Anna Mennella
+      first: false
+    - orcid: ""
+      name: Immacolata Pietraforte
+      first: false
+    - orcid: ""
+      name: Raffaella Palazzo
+      first: false
+    - orcid: ""
+      name: Francesca R. Spinelli
+      first: false
+    - orcid: https://orcid.org/0000-0002-0729-8001
+      name: Lucia Gaddini
+      first: false
+    - orcid: ""
+      name: Katia Stefanantoni
+      first: false
+    - orcid: ""
+      name: Valeria Riccieri
+      first: false
+    - orcid: https://orcid.org/0000-0001-5144-2552
+      name: Ernest Y. Lee
+      first: false
+    - orcid: ""
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: ""
+      name: Roberto Lande
+      first: false
+    - orcid: https://orcid.org/0000-0001-6924-3826
+      name: Loredana Frasca
+      first: false
+  URL: https://doi.org/10.1038/s42003-026-10176-1
+  published: 2026
+  fullPublished: 2026-5-19
+  checked: true
 - doi: 10.1073/pnas.2609802123
+  title: "Reply to González González et al.: The contribution of bacteria to
+    kidney stone formation"
+  container: Proceedings of the National Academy of Sciences
+  shortContainer: Proc. Natl. Acad. Sci. U.S.A.
+  authors:
+    - orcid: https://orcid.org/0000-0001-9780-9495
+      name: William C. Schmidt
+      first: true
+    - orcid: https://orcid.org/0009-0009-6182-0276
+      name: Rena Yang
+      first: false
+    - orcid: ""
+      name: Henry L. Schreiber
+      first: false
+    - orcid: https://orcid.org/0000-0003-0775-6380
+      name: Aaron Celestian
+      first: false
+    - orcid: https://orcid.org/0000-0003-0893-6383
+      name: Gerard C. L. Wong
+      first: false
+    - orcid: https://orcid.org/0000-0003-0749-3859
+      name: Kymora B. Scotland
+      first: false
+  URL: https://doi.org/10.1073/pnas.2609802123
+  published: 2026
+  fullPublished: 2026-6-9
+  checked: true
 - doi: 10.1073/pnas.2517066123
   pdf: 10.1073~pnas.2517066123.pdf
   title: Intercalated bacterial biofilms are intrinsic internal components of
